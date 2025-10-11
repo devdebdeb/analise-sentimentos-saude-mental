@@ -1,0 +1,1001 @@
+student_id,idade,gênero,curso,horas_sono,exercicios_semana,autoavaliação_stress,autoavaliação_ansiedade,autoavaliação_felicidade,faz_terapia,doença_crônica,usa_medicação,horas_tela_dia,cafeina_mg_dia,faltas_mensais,vive_com,renda_familiar,notas_periodo,final_target
+1001,24,Não-Binário,Administração,7.7,2,Baixa,Baixa,Baixa,Sim,Não,Não,8.0,36,2,Pais/Família,Média,2.64,Dropout
+1002,32,Feminino,Administração,7.6,4,Moderada,Moderada,Moderada,Não,Sim,Não,8.5,341,4,Pais/Família,Média,2.0,Graduate
+1003,28,Feminino,Administração,8.3,4,Baixa,Baixa,Baixa,Não,Não,Não,8.9,12,2,República/Amigos,Média-Baixa,3.01,Graduate
+1004,25,Feminino,Ciência da Computação,7.6,4,Moderada,Baixa,Moderada,Não,Não,Não,4.6,182,0,Pais/Família,Baixa Renda,4.87,Graduate
+1005,24,Masculino,Administração,7.0,0,Alta,Moderada,Moderada,Não,Não,Não,7.6,264,0,Pais/Família,Média-Baixa,2.23,Dropout
+1006,28,Feminino,Engenharia Civil,8.1,2,Baixa,Baixa,Baixa,Não,Não,Sim,4.5,87,1,Pais/Família,Média,2.9,Graduate
+1007,28,Masculino,Direito,6.5,1,Baixa,Baixa,Baixa,Sim,Não,Não,6.4,461,1,República/Amigos,Baixa Renda,3.38,Graduate
+1008,21,Masculino,Ciência da Computação,5.2,0,Baixa,Moderada,Moderada,Não,Não,Não,8.3,45,1,Pais/Família,Média-Baixa,4.05,Graduate
+1009,25,Não-Binário,Direito,6.3,3,Baixa,Moderada,Moderada,Não,Não,Não,4.9,391,1,República/Amigos,Baixa Renda,3.45,Graduate
+1010,20,Feminino,Ciência da Computação,5.4,2,Alta,Moderada,Moderada,Sim,Não,Não,8.1,118,1,Sozinho/Cônjuge,Média-Baixa,2.88,Graduate
+1011,19,Masculino,Direito,5.5,2,Moderada,Baixa,Moderada,Não,Não,Não,4.0,530,1,Pais/Família,Média,4.84,Graduate
+1012,29,Feminino,Psicologia,6.3,3,Moderada,Baixa,Moderada,Não,Não,Não,9.3,446,3,Pais/Família,Baixa Renda,4.29,Graduate
+1013,23,Feminino,Direito,5.3,3,Alta,Baixa,Baixa,Não,Não,Não,5.7,45,1,Pais/Família,Média,2.83,Dropout
+1014,19,Feminino,Administração,6.0,3,Moderada,Baixa,Alta,Não,Sim,Não,4.9,507,2,Sozinho/Cônjuge,Alta,4.04,Graduate
+1015,18,Feminino,Psicologia,4.0,1,Alta,Moderada,Moderada,Não,Não,Sim,4.1,557,0,República/Amigos,Baixa Renda,2.91,Graduate
+1016,29,Masculino,Direito,6.8,4,Moderada,Moderada,Baixa,Não,Não,Sim,5.8,525,0,Sozinho/Cônjuge,Média,3.27,Dropout
+1017,29,Masculino,Ciência da Computação,6.5,2,Baixa,Moderada,Moderada,Sim,Não,Não,3.2,596,0,Pais/Família,Alta,3.73,Graduate
+1018,34,Feminino,Ciência da Computação,5.3,4,Moderada,Moderada,Baixa,Não,Não,Não,5.9,2,3,Sozinho/Cônjuge,Alta,2.12,Graduate
+1019,27,Feminino,Ciência da Computação,7.5,4,Alta,Alta,Baixa,Não,Não,Não,9.2,27,2,Pais/Família,Baixa Renda,0.83,Dropout
+1020,33,Feminino,Medicina,7.9,3,Baixa,Moderada,Baixa,Não,Sim,Não,6.6,380,1,Pais/Família,Baixa Renda,3.22,Dropout
+1021,32,Feminino,Engenharia Civil,4.1,1,Baixa,Moderada,Alta,Sim,Não,Não,4.6,156,0,Sozinho/Cônjuge,Baixa Renda,4.64,Graduate
+1022,32,Não-Binário,Ciência da Computação,5.4,0,Alta,Baixa,Moderada,Não,Não,Não,7.5,510,0,Sozinho/Cônjuge,Média,3.06,Graduate
+1023,29,Feminino,Psicologia,5.3,1,Moderada,Baixa,Moderada,Sim,Não,Sim,7.3,332,2,Pais/Família,Média,2.88,Graduate
+1024,20,Feminino,Ciência da Computação,5.1,4,Moderada,Baixa,Baixa,Sim,Não,Sim,10.9,113,2,Pais/Família,Média,1.87,Dropout
+1025,22,Feminino,Medicina,7.7,1,Moderada,Baixa,Baixa,Não,Não,Não,8.6,388,0,Pais/Família,Média-Baixa,3.33,Graduate
+1026,24,Masculino,Administração,6.2,3,Baixa,Baixa,Baixa,Não,Não,Não,7.6,486,2,Pais/Família,Baixa Renda,2.1,Graduate
+1027,26,Não-Binário,Psicologia,6.1,0,Moderada,Moderada,Baixa,Não,Não,Não,8.8,249,2,Pais/Família,Média-Baixa,2.99,Graduate
+1028,24,Masculino,Medicina,4.0,3,Alta,Moderada,Moderada,Não,Não,Não,6.7,570,1,Sozinho/Cônjuge,Média-Baixa,2.6,Graduate
+1029,21,Masculino,Administração,7.5,0,Baixa,Baixa,Baixa,Não,Não,Não,6.8,314,1,República/Amigos,Média,2.66,Graduate
+1030,31,Masculino,Letras,4.6,4,Alta,Alta,Baixa,Não,Não,Sim,10.3,238,2,República/Amigos,Média-Baixa,2.26,Dropout
+1031,26,Feminino,Letras,6.6,0,Moderada,Moderada,Moderada,Não,Não,Não,3.7,233,3,República/Amigos,Média-Baixa,1.95,Dropout
+1032,19,Não-Binário,Psicologia,6.9,0,Baixa,Baixa,Moderada,Sim,Não,Não,8.9,302,3,República/Amigos,Média-Baixa,3.03,Graduate
+1033,32,Masculino,Direito,8.5,0,Baixa,Alta,Baixa,Não,Não,Não,6.8,333,2,República/Amigos,Baixa Renda,2.91,Graduate
+1034,24,Masculino,Engenharia Civil,4.5,1,Moderada,Baixa,Moderada,Não,Sim,Não,6.4,112,2,República/Amigos,Média-Baixa,3.55,Graduate
+1035,29,Masculino,Engenharia Civil,4.0,1,Alta,Alta,Baixa,Não,Não,Não,5.9,361,2,Pais/Família,Baixa Renda,2.09,Graduate
+1036,25,Masculino,Medicina,6.8,4,Baixa,Baixa,Baixa,Não,Não,Não,7.3,96,2,República/Amigos,Média-Baixa,2.74,Dropout
+1037,32,Masculino,Administração,9.0,0,Alta,Moderada,Baixa,Não,Não,Não,6.9,15,4,República/Amigos,Baixa Renda,3.06,Graduate
+1038,20,Não-Binário,Engenharia Civil,8.4,2,Alta,Moderada,Alta,Não,Não,Não,6.2,555,0,Sozinho/Cônjuge,Baixa Renda,3.42,Dropout
+1039,31,Masculino,Administração,6.8,4,Baixa,Moderada,Moderada,Não,Sim,Não,5.6,375,1,Sozinho/Cônjuge,Média,4.43,Graduate
+1040,34,Masculino,Administração,5.8,0,Alta,Baixa,Moderada,Sim,Não,Não,3.2,389,1,Pais/Família,Média-Baixa,4.54,Graduate
+1041,21,Masculino,Medicina,7.7,0,Baixa,Baixa,Baixa,Não,Não,Sim,5.6,216,0,República/Amigos,Média,3.44,Graduate
+1042,25,Feminino,Medicina,5.0,1,Moderada,Baixa,Alta,Não,Não,Não,6.0,398,1,Pais/Família,Média,4.47,Graduate
+1043,21,Masculino,Medicina,7.2,4,Baixa,Alta,Alta,Não,Não,Não,7.3,259,3,República/Amigos,Média-Baixa,4.13,Graduate
+1044,19,Feminino,Engenharia Civil,7.3,0,Alta,Alta,Baixa,Sim,Não,Não,10.9,319,2,Pais/Família,Alta,0.85,Dropout
+1045,23,Masculino,Letras,8.1,0,Alta,Alta,Moderada,Não,Sim,Não,5.8,195,0,Pais/Família,Baixa Renda,2.72,Graduate
+1046,27,Não-Binário,Medicina,9.0,4,Moderada,Baixa,Moderada,Não,Não,Não,5.0,477,3,Pais/Família,Média,2.86,Graduate
+1047,21,Masculino,Engenharia Civil,7.1,2,Alta,Moderada,Baixa,Não,Não,Não,5.6,417,3,República/Amigos,Alta,2.75,Graduate
+1048,29,Feminino,Medicina,5.7,4,Moderada,Moderada,Alta,Não,Sim,Sim,7.3,474,1,Pais/Família,Média,2.57,Dropout
+1049,19,Feminino,Ciência da Computação,6.5,4,Baixa,Baixa,Alta,Não,Sim,Não,8.2,567,4,Sozinho/Cônjuge,Baixa Renda,3.22,Graduate
+1050,27,Feminino,Administração,4.0,2,Baixa,Moderada,Moderada,Não,Não,Não,8.5,543,1,Pais/Família,Média-Baixa,3.35,Graduate
+1051,21,Masculino,Medicina,5.5,4,Baixa,Moderada,Alta,Não,Não,Não,8.7,230,3,Sozinho/Cônjuge,Baixa Renda,3.88,Graduate
+1052,31,Feminino,Psicologia,5.9,0,Moderada,Alta,Baixa,Não,Não,Não,8.9,520,2,República/Amigos,Média,1.89,Dropout
+1053,33,Feminino,Administração,5.7,4,Moderada,Baixa,Baixa,Sim,Não,Não,6.4,199,3,Pais/Família,Média,2.46,Graduate
+1054,32,Feminino,Administração,6.7,2,Baixa,Baixa,Baixa,Não,Não,Não,11.1,598,1,Pais/Família,Média-Baixa,1.96,Graduate
+1055,25,Masculino,Medicina,5.3,3,Baixa,Alta,Moderada,Não,Não,Não,6.3,20,1,República/Amigos,Média-Baixa,3.89,Graduate
+1056,31,Masculino,Letras,8.2,4,Alta,Baixa,Moderada,Não,Sim,Não,7.2,310,0,República/Amigos,Média,3.64,Graduate
+1057,25,Feminino,Direito,6.5,1,Moderada,Baixa,Moderada,Não,Não,Não,9.6,587,1,República/Amigos,Média-Baixa,3.29,Graduate
+1058,33,Feminino,Letras,6.5,0,Moderada,Baixa,Baixa,Não,Não,Não,8.1,595,4,Pais/Família,Média,1.92,Graduate
+1059,30,Masculino,Medicina,6.0,0,Baixa,Moderada,Moderada,Sim,Não,Não,3.0,433,1,Pais/Família,Média,4.52,Graduate
+1060,32,Masculino,Administração,6.7,1,Baixa,Moderada,Alta,Sim,Não,Sim,7.0,370,2,Sozinho/Cônjuge,Baixa Renda,3.15,Graduate
+1061,30,Masculino,Psicologia,7.7,1,Baixa,Moderada,Moderada,Não,Não,Não,8.7,559,2,Pais/Família,Média,4.04,Graduate
+1062,26,Feminino,Administração,5.2,4,Moderada,Alta,Baixa,Não,Não,Não,4.3,77,1,Pais/Família,Baixa Renda,3.22,Dropout
+1063,32,Masculino,Letras,5.5,1,Alta,Baixa,Moderada,Não,Não,Não,8.5,541,3,Pais/Família,Média-Baixa,2.76,Graduate
+1064,30,Feminino,Psicologia,6.0,3,Alta,Baixa,Alta,Não,Não,Não,7.8,284,1,República/Amigos,Alta,4.59,Graduate
+1065,18,Masculino,Engenharia Civil,4.5,2,Baixa,Baixa,Baixa,Sim,Não,Não,9.4,139,0,República/Amigos,Média,3.44,Dropout
+1066,24,Masculino,Ciência da Computação,5.3,1,Baixa,Baixa,Baixa,Não,Não,Não,5.6,552,5,Pais/Família,Média-Baixa,1.82,Graduate
+1067,26,Feminino,Administração,5.8,1,Baixa,Baixa,Baixa,Não,Não,Não,9.0,281,1,Pais/Família,Média-Baixa,2.71,Graduate
+1068,18,Feminino,Medicina,7.8,3,Baixa,Baixa,Baixa,Sim,Não,Sim,7.3,561,1,Pais/Família,Baixa Renda,2.42,Dropout
+1069,29,Masculino,Engenharia Civil,6.9,0,Moderada,Baixa,Moderada,Não,Não,Não,10.5,257,1,Pais/Família,Média-Baixa,2.97,Graduate
+1070,25,Masculino,Ciência da Computação,6.8,0,Baixa,Baixa,Baixa,Não,Não,Não,12.0,359,1,Pais/Família,Baixa Renda,2.68,Graduate
+1071,28,Masculino,Medicina,7.8,4,Alta,Alta,Moderada,Não,Não,Não,10.1,439,1,Sozinho/Cônjuge,Média-Baixa,2.35,Graduate
+1072,34,Masculino,Direito,6.3,3,Alta,Moderada,Baixa,Não,Não,Não,8.0,269,0,Pais/Família,Baixa Renda,2.64,Dropout
+1073,25,Masculino,Medicina,7.1,2,Baixa,Baixa,Moderada,Não,Não,Não,11.6,133,2,Pais/Família,Média-Baixa,4.76,Graduate
+1074,20,Masculino,Psicologia,6.3,2,Baixa,Alta,Baixa,Não,Não,Não,8.2,103,2,Sozinho/Cônjuge,Baixa Renda,2.74,Graduate
+1075,20,Feminino,Psicologia,6.9,3,Alta,Baixa,Baixa,Não,Não,Não,5.2,94,1,Pais/Família,Alta,2.44,Graduate
+1076,18,Masculino,Direito,5.6,2,Baixa,Baixa,Alta,Sim,Não,Não,6.9,572,3,República/Amigos,Média,4.44,Graduate
+1077,22,Feminino,Engenharia Civil,4.0,0,Moderada,Alta,Baixa,Não,Não,Não,8.5,479,1,Pais/Família,Média-Baixa,2.89,Graduate
+1078,27,Feminino,Ciência da Computação,6.3,2,Alta,Moderada,Moderada,Não,Sim,Não,8.7,240,0,Pais/Família,Baixa Renda,2.29,Dropout
+1079,24,Não-Binário,Medicina,8.6,2,Baixa,Moderada,Alta,Não,Não,Sim,4.7,12,3,Sozinho/Cônjuge,Média-Baixa,2.92,Graduate
+1080,26,Feminino,Psicologia,7.9,3,Moderada,Moderada,Moderada,Não,Não,Não,4.8,146,3,República/Amigos,Baixa Renda,2.9,Graduate
+1081,24,Feminino,Engenharia Civil,7.9,3,Moderada,Moderada,Alta,Não,Não,Não,6.3,94,0,Pais/Família,Média-Baixa,3.36,Graduate
+1082,26,Feminino,Direito,8.4,2,Moderada,Moderada,Baixa,Não,Não,Não,8.1,292,1,República/Amigos,Média,3.15,Dropout
+1083,25,Masculino,Letras,6.6,1,Moderada,Baixa,Baixa,Sim,Não,Sim,8.3,24,2,Sozinho/Cônjuge,Média,3.05,Graduate
+1084,29,Feminino,Administração,6.8,3,Baixa,Alta,Moderada,Não,Não,Sim,7.3,271,1,Pais/Família,Média,2.94,Graduate
+1085,19,Feminino,Letras,5.6,4,Baixa,Alta,Baixa,Não,Sim,Não,5.3,504,0,República/Amigos,Média-Baixa,2.81,Graduate
+1086,18,Feminino,Letras,6.0,4,Baixa,Baixa,Baixa,Sim,Não,Não,10.5,165,0,Sozinho/Cônjuge,Alta,3.32,Graduate
+1087,33,Feminino,Psicologia,7.4,0,Moderada,Moderada,Moderada,Não,Não,Não,4.9,86,2,Pais/Família,Alta,3.56,Graduate
+1088,22,Feminino,Direito,8.3,2,Baixa,Alta,Alta,Não,Não,Não,9.6,490,3,República/Amigos,Média-Baixa,4.22,Graduate
+1089,20,Feminino,Medicina,6.3,1,Baixa,Baixa,Baixa,Não,Não,Não,8.5,140,0,República/Amigos,Média-Baixa,3.04,Dropout
+1090,29,Masculino,Letras,5.8,0,Baixa,Baixa,Baixa,Não,Não,Não,9.6,102,0,República/Amigos,Média-Baixa,2.14,Dropout
+1091,25,Feminino,Letras,6.5,2,Moderada,Moderada,Alta,Sim,Não,Não,6.1,225,1,Pais/Família,Baixa Renda,3.47,Graduate
+1092,20,Feminino,Ciência da Computação,7.4,3,Baixa,Baixa,Baixa,Não,Não,Não,6.7,574,3,Pais/Família,Média,1.94,Graduate
+1093,18,Feminino,Psicologia,4.3,4,Moderada,Moderada,Baixa,Não,Não,Não,7.1,293,0,República/Amigos,Média-Baixa,2.83,Graduate
+1094,20,Feminino,Psicologia,4.0,1,Alta,Baixa,Baixa,Não,Não,Não,6.0,305,5,Pais/Família,Baixa Renda,2.15,Graduate
+1095,22,Masculino,Medicina,5.7,4,Moderada,Baixa,Moderada,Não,Não,Sim,7.5,253,1,Pais/Família,Baixa Renda,2.94,Graduate
+1096,32,Masculino,Administração,4.7,3,Baixa,Moderada,Alta,Sim,Não,Não,10.2,179,1,Pais/Família,Média-Baixa,4.02,Dropout
+1097,31,Feminino,Engenharia Civil,5.7,2,Baixa,Moderada,Baixa,Sim,Não,Não,4.4,39,3,Pais/Família,Média,2.58,Graduate
+1098,20,Feminino,Ciência da Computação,6.3,3,Alta,Alta,Baixa,Não,Não,Não,5.7,519,1,Sozinho/Cônjuge,Média-Baixa,0.45,Graduate
+1099,18,Feminino,Psicologia,5.8,3,Alta,Alta,Baixa,Não,Não,Sim,5.5,545,0,Pais/Família,Média,0.52,Dropout
+1100,22,Masculino,Ciência da Computação,8.7,4,Moderada,Baixa,Alta,Não,Não,Não,6.8,235,1,Sozinho/Cônjuge,Média-Baixa,4.82,Graduate
+1101,31,Masculino,Psicologia,7.0,1,Moderada,Alta,Baixa,Não,Não,Não,6.7,462,1,Pais/Família,Média-Baixa,2.28,Dropout
+1102,24,Masculino,Ciência da Computação,7.0,3,Baixa,Baixa,Alta,Não,Não,Não,8.5,227,1,República/Amigos,Média-Baixa,3.03,Dropout
+1103,26,Feminino,Direito,7.4,4,Alta,Moderada,Alta,Não,Não,Não,7.1,482,2,Pais/Família,Média,3.03,Graduate
+1104,32,Masculino,Letras,4.8,1,Moderada,Moderada,Baixa,Não,Não,Não,7.6,429,1,República/Amigos,Baixa Renda,2.99,Dropout
+1105,32,Feminino,Psicologia,8.1,2,Alta,Alta,Baixa,Não,Não,Não,7.8,21,0,República/Amigos,Média-Baixa,2.14,Dropout
+1106,27,Feminino,Ciência da Computação,6.4,2,Baixa,Moderada,Baixa,Não,Não,Não,7.5,342,2,Pais/Família,Média-Baixa,2.26,Graduate
+1107,30,Feminino,Engenharia Civil,7.5,0,Alta,Baixa,Moderada,Não,Não,Não,8.4,39,1,Sozinho/Cônjuge,Média-Baixa,3.03,Graduate
+1108,24,Feminino,Direito,4.9,4,Moderada,Baixa,Moderada,Sim,Não,Não,6.8,172,2,Pais/Família,Alta,4.04,Graduate
+1109,34,Não-Binário,Direito,4.2,1,Baixa,Moderada,Moderada,Não,Não,Não,10.3,438,2,República/Amigos,Baixa Renda,4.15,Graduate
+1110,21,Masculino,Engenharia Civil,7.7,3,Baixa,Baixa,Baixa,Sim,Não,Não,12.0,178,1,Sozinho/Cônjuge,Média-Baixa,1.93,Graduate
+1111,22,Feminino,Ciência da Computação,7.1,2,Baixa,Alta,Baixa,Sim,Não,Não,8.4,597,1,Sozinho/Cônjuge,Média-Baixa,3.13,Dropout
+1112,24,Masculino,Medicina,5.1,1,Baixa,Alta,Baixa,Não,Não,Não,7.5,132,0,Sozinho/Cônjuge,Média,3.43,Graduate
+1113,30,Não-Binário,Engenharia Civil,5.2,4,Alta,Moderada,Baixa,Não,Não,Não,8.2,350,2,Pais/Família,Média-Baixa,2.23,Graduate
+1114,32,Masculino,Ciência da Computação,8.2,0,Baixa,Moderada,Moderada,Não,Não,Não,4.8,524,1,Pais/Família,Média,4.5,Graduate
+1115,28,Masculino,Engenharia Civil,4.7,2,Moderada,Baixa,Alta,Não,Não,Não,7.4,539,4,Pais/Família,Média,3.89,Graduate
+1116,21,Masculino,Engenharia Civil,9.0,1,Baixa,Baixa,Moderada,Não,Não,Não,5.5,505,1,República/Amigos,Média-Baixa,4.16,Graduate
+1117,30,Não-Binário,Psicologia,5.1,1,Baixa,Alta,Alta,Sim,Não,Não,8.0,83,3,República/Amigos,Média-Baixa,2.78,Graduate
+1118,24,Masculino,Ciência da Computação,7.5,1,Moderada,Alta,Moderada,Não,Não,Não,5.5,463,1,Pais/Família,Média-Baixa,2.33,Dropout
+1119,19,Feminino,Medicina,6.0,4,Baixa,Baixa,Baixa,Não,Não,Não,6.3,342,2,República/Amigos,Média,2.72,Graduate
+1120,27,Feminino,Letras,7.4,4,Baixa,Baixa,Alta,Não,Não,Sim,3.3,279,2,Pais/Família,Baixa Renda,2.88,Dropout
+1121,30,Masculino,Psicologia,5.7,4,Alta,Moderada,Moderada,Não,Não,Não,4.7,262,4,Pais/Família,Média-Baixa,2.78,Graduate
+1122,23,Feminino,Engenharia Civil,6.3,3,Alta,Alta,Baixa,Não,Não,Não,7.7,165,1,República/Amigos,Média,0.41,Dropout
+1123,29,Masculino,Letras,6.6,1,Moderada,Baixa,Moderada,Não,Não,Não,5.3,292,0,Pais/Família,Média-Baixa,3.72,Graduate
+1124,29,Feminino,Administração,5.0,2,Moderada,Baixa,Moderada,Não,Não,Não,9.1,508,3,Sozinho/Cônjuge,Média-Baixa,4.14,Graduate
+1125,28,Feminino,Letras,7.6,4,Baixa,Alta,Moderada,Não,Não,Não,5.1,579,6,Pais/Família,Média-Baixa,2.71,Graduate
+1126,24,Feminino,Engenharia Civil,5.7,4,Moderada,Alta,Baixa,Não,Não,Sim,7.9,225,1,República/Amigos,Baixa Renda,1.9,Dropout
+1127,18,Feminino,Engenharia Civil,6.2,1,Moderada,Moderada,Moderada,Não,Não,Não,5.5,169,0,Pais/Família,Média-Baixa,3.13,Dropout
+1128,18,Não-Binário,Ciência da Computação,5.0,4,Alta,Alta,Moderada,Não,Sim,Não,7.8,597,1,Pais/Família,Média-Baixa,3.39,Dropout
+1129,30,Masculino,Ciência da Computação,4.0,3,Baixa,Baixa,Baixa,Não,Não,Não,3.9,447,1,República/Amigos,Alta,3.08,Graduate
+1130,26,Masculino,Psicologia,6.2,3,Baixa,Alta,Alta,Não,Não,Não,6.1,501,0,Sozinho/Cônjuge,Média-Baixa,3.64,Graduate
+1131,20,Masculino,Medicina,9.0,4,Moderada,Moderada,Moderada,Sim,Não,Sim,5.3,526,1,Pais/Família,Média,2.75,Graduate
+1132,24,Feminino,Psicologia,7.7,1,Moderada,Baixa,Baixa,Sim,Não,Não,8.8,378,1,Pais/Família,Média,2.48,Dropout
+1133,23,Masculino,Direito,6.5,1,Moderada,Moderada,Alta,Não,Não,Não,7.9,200,4,República/Amigos,Baixa Renda,2.16,Dropout
+1134,25,Masculino,Engenharia Civil,6.1,1,Baixa,Baixa,Baixa,Sim,Não,Não,4.5,249,4,Pais/Família,Média,3.01,Graduate
+1135,26,Masculino,Letras,6.5,0,Baixa,Moderada,Baixa,Sim,Não,Sim,6.6,408,2,Sozinho/Cônjuge,Baixa Renda,1.88,Dropout
+1136,22,Feminino,Administração,7.3,4,Moderada,Moderada,Moderada,Não,Não,Não,5.5,124,0,República/Amigos,Alta,3.1,Graduate
+1137,18,Masculino,Engenharia Civil,4.7,1,Alta,Baixa,Alta,Não,Sim,Sim,8.9,112,1,Pais/Família,Média,4.71,Graduate
+1138,27,Feminino,Engenharia Civil,8.2,3,Baixa,Baixa,Moderada,Não,Não,Não,9.5,136,1,Pais/Família,Média-Baixa,3.78,Graduate
+1139,29,Não-Binário,Psicologia,7.6,2,Moderada,Alta,Baixa,Sim,Não,Não,4.1,495,2,República/Amigos,Média-Baixa,2.02,Dropout
+1140,32,Masculino,Administração,7.6,2,Baixa,Baixa,Baixa,Sim,Não,Não,8.7,149,0,Pais/Família,Média-Baixa,2.46,Dropout
+1141,26,Feminino,Administração,7.2,1,Alta,Alta,Moderada,Sim,Não,Não,5.4,342,5,República/Amigos,Média-Baixa,1.55,Graduate
+1142,34,Masculino,Administração,6.5,2,Baixa,Baixa,Alta,Não,Não,Não,6.5,579,2,Pais/Família,Média-Baixa,3.94,Graduate
+1143,34,Masculino,Psicologia,7.5,2,Baixa,Alta,Baixa,Não,Não,Não,7.1,320,2,República/Amigos,Média-Baixa,2.37,Graduate
+1144,29,Feminino,Engenharia Civil,7.4,0,Alta,Moderada,Alta,Não,Não,Não,10.6,531,1,Pais/Família,Média,2.45,Dropout
+1145,24,Masculino,Psicologia,6.0,3,Baixa,Moderada,Baixa,Sim,Não,Não,5.0,288,1,Sozinho/Cônjuge,Baixa Renda,2.05,Graduate
+1146,19,Masculino,Ciência da Computação,5.6,3,Baixa,Moderada,Baixa,Não,Não,Não,8.7,488,0,Pais/Família,Média,2.27,Dropout
+1147,20,Feminino,Ciência da Computação,6.7,0,Baixa,Baixa,Moderada,Não,Não,Sim,4.7,491,3,Pais/Família,Média,3.55,Dropout
+1148,34,Feminino,Psicologia,8.8,0,Baixa,Baixa,Baixa,Não,Sim,Não,4.5,251,4,Sozinho/Cônjuge,Média-Baixa,3.05,Graduate
+1149,22,Feminino,Administração,4.6,2,Baixa,Moderada,Baixa,Não,Não,Não,7.1,76,2,Pais/Família,Média,2.03,Dropout
+1150,34,Feminino,Engenharia Civil,4.3,4,Baixa,Baixa,Alta,Não,Não,Não,7.0,391,1,Pais/Família,Baixa Renda,4.04,Graduate
+1151,34,Feminino,Psicologia,6.7,2,Moderada,Moderada,Baixa,Sim,Não,Sim,3.0,411,3,Pais/Família,Baixa Renda,2.86,Graduate
+1152,34,Masculino,Psicologia,6.6,0,Moderada,Moderada,Alta,Sim,Não,Não,9.3,172,1,Pais/Família,Média,3.77,Graduate
+1153,19,Feminino,Psicologia,6.8,3,Baixa,Baixa,Baixa,Não,Não,Não,3.0,200,2,Sozinho/Cônjuge,Média-Baixa,2.39,Graduate
+1154,19,Feminino,Direito,6.9,2,Alta,Alta,Baixa,Sim,Não,Não,6.7,216,1,República/Amigos,Média-Baixa,2.9,Graduate
+1155,22,Masculino,Ciência da Computação,6.2,4,Alta,Baixa,Moderada,Sim,Não,Não,9.7,375,0,Pais/Família,Média,4.25,Graduate
+1156,18,Masculino,Letras,8.7,2,Baixa,Baixa,Baixa,Sim,Não,Não,11.4,585,0,República/Amigos,Alta,2.56,Graduate
+1157,18,Feminino,Administração,4.1,1,Baixa,Baixa,Moderada,Sim,Não,Sim,6.3,10,3,República/Amigos,Média,3.09,Graduate
+1158,19,Feminino,Medicina,5.3,2,Moderada,Moderada,Alta,Não,Não,Não,4.1,11,2,Sozinho/Cônjuge,Média,3.24,Dropout
+1159,29,Feminino,Letras,6.3,0,Baixa,Moderada,Alta,Não,Não,Não,9.6,589,0,Pais/Família,Baixa Renda,4.87,Graduate
+1160,23,Masculino,Administração,4.0,3,Moderada,Moderada,Baixa,Não,Não,Não,8.7,434,3,República/Amigos,Baixa Renda,1.99,Dropout
+1161,21,Feminino,Medicina,6.2,3,Baixa,Baixa,Moderada,Não,Não,Não,6.0,372,1,República/Amigos,Média,3.56,Graduate
+1162,28,Masculino,Direito,9.0,0,Alta,Moderada,Baixa,Não,Não,Não,5.8,272,1,Pais/Família,Média-Baixa,2.0,Dropout
+1163,34,Não-Binário,Psicologia,6.5,1,Baixa,Baixa,Baixa,Não,Não,Sim,5.6,575,1,Pais/Família,Média-Baixa,2.34,Dropout
+1164,23,Feminino,Direito,6.8,0,Baixa,Baixa,Alta,Não,Não,Sim,6.3,508,1,Pais/Família,Média-Baixa,3.14,Graduate
+1165,22,Masculino,Direito,4.6,2,Moderada,Baixa,Baixa,Não,Não,Não,7.6,131,2,República/Amigos,Média,2.23,Dropout
+1166,19,Não-Binário,Letras,5.6,0,Alta,Alta,Alta,Sim,Não,Não,5.9,318,0,Pais/Família,Baixa Renda,3.33,Graduate
+1167,23,Feminino,Engenharia Civil,5.9,0,Baixa,Baixa,Baixa,Não,Não,Não,6.1,167,0,Sozinho/Cônjuge,Média,2.31,Dropout
+1168,28,Masculino,Letras,6.0,1,Baixa,Baixa,Alta,Não,Não,Não,8.3,396,1,Pais/Família,Baixa Renda,3.99,Graduate
+1169,33,Masculino,Ciência da Computação,8.4,2,Moderada,Moderada,Moderada,Não,Não,Não,4.0,179,1,República/Amigos,Baixa Renda,4.82,Graduate
+1170,33,Masculino,Medicina,7.3,4,Moderada,Baixa,Baixa,Não,Não,Não,6.2,57,1,Sozinho/Cônjuge,Média-Baixa,2.83,Graduate
+1171,18,Masculino,Psicologia,4.8,4,Moderada,Baixa,Baixa,Não,Não,Não,3.6,479,1,República/Amigos,Baixa Renda,2.57,Dropout
+1172,26,Masculino,Letras,6.9,3,Alta,Moderada,Moderada,Não,Não,Não,7.2,590,3,Sozinho/Cônjuge,Média,3.45,Graduate
+1173,23,Masculino,Medicina,7.2,0,Moderada,Alta,Moderada,Sim,Não,Não,3.1,459,2,Sozinho/Cônjuge,Baixa Renda,2.83,Graduate
+1174,33,Masculino,Administração,8.2,3,Moderada,Alta,Baixa,Não,Não,Não,8.8,60,2,Pais/Família,Baixa Renda,2.16,Dropout
+1175,20,Masculino,Medicina,8.9,1,Moderada,Moderada,Baixa,Não,Não,Não,4.4,368,0,República/Amigos,Média-Baixa,3.31,Graduate
+1176,21,Masculino,Administração,5.0,4,Baixa,Baixa,Alta,Não,Não,Não,3.5,120,0,Pais/Família,Média-Baixa,3.48,Graduate
+1177,20,Masculino,Letras,5.3,0,Baixa,Moderada,Moderada,Sim,Sim,Não,6.3,545,2,República/Amigos,Baixa Renda,3.28,Graduate
+1178,24,Feminino,Ciência da Computação,4.6,1,Baixa,Baixa,Alta,Não,Não,Não,10.4,581,0,Pais/Família,Baixa Renda,4.68,Graduate
+1179,26,Feminino,Letras,6.1,1,Moderada,Baixa,Baixa,Não,Não,Não,8.4,16,2,República/Amigos,Alta,2.64,Dropout
+1180,18,Feminino,Administração,7.2,0,Alta,Moderada,Baixa,Sim,Não,Sim,3.2,495,3,República/Amigos,Média,3.12,Graduate
+1181,25,Feminino,Medicina,8.0,1,Moderada,Moderada,Baixa,Não,Não,Não,4.3,496,3,Pais/Família,Média-Baixa,3.05,Dropout
+1182,24,Feminino,Medicina,6.4,0,Baixa,Baixa,Baixa,Sim,Não,Não,6.2,504,1,Pais/Família,Média-Baixa,3.12,Graduate
+1183,25,Masculino,Administração,6.0,0,Baixa,Alta,Moderada,Não,Não,Não,11.5,531,2,Sozinho/Cônjuge,Média-Baixa,4.21,Graduate
+1184,18,Feminino,Direito,6.7,2,Moderada,Alta,Baixa,Não,Sim,Não,5.1,314,1,Pais/Família,Média-Baixa,1.92,Dropout
+1185,28,Masculino,Ciência da Computação,5.2,3,Alta,Moderada,Alta,Não,Não,Não,5.1,68,3,Pais/Família,Média,1.88,Graduate
+1186,27,Feminino,Engenharia Civil,9.0,1,Moderada,Baixa,Moderada,Sim,Não,Não,10.1,160,2,Pais/Família,Média,3.91,Graduate
+1187,20,Masculino,Psicologia,4.1,1,Moderada,Baixa,Alta,Não,Não,Não,7.4,144,1,Sozinho/Cônjuge,Baixa Renda,3.41,Graduate
+1188,24,Não-Binário,Medicina,6.8,2,Alta,Baixa,Alta,Sim,Não,Não,9.1,568,2,Sozinho/Cônjuge,Média,3.21,Graduate
+1189,33,Feminino,Psicologia,9.0,2,Alta,Moderada,Moderada,Sim,Não,Sim,5.5,594,0,República/Amigos,Baixa Renda,3.11,Dropout
+1190,33,Masculino,Engenharia Civil,6.5,2,Moderada,Alta,Baixa,Sim,Não,Não,6.8,384,1,Sozinho/Cônjuge,Baixa Renda,2.95,Graduate
+1191,34,Feminino,Letras,6.2,4,Alta,Moderada,Alta,Sim,Não,Não,9.6,268,0,Pais/Família,Baixa Renda,4.77,Graduate
+1192,19,Masculino,Psicologia,6.0,4,Baixa,Baixa,Baixa,Não,Não,Não,6.7,453,0,Sozinho/Cônjuge,Baixa Renda,2.68,Dropout
+1193,18,Feminino,Engenharia Civil,6.2,4,Alta,Baixa,Baixa,Não,Não,Não,9.2,517,2,Pais/Família,Alta,2.3,Graduate
+1194,33,Masculino,Administração,8.6,0,Baixa,Baixa,Moderada,Não,Sim,Não,7.8,349,3,Pais/Família,Média-Baixa,4.17,Graduate
+1195,29,Feminino,Direito,4.0,1,Moderada,Moderada,Baixa,Não,Não,Não,4.9,109,2,Pais/Família,Baixa Renda,2.13,Graduate
+1196,22,Masculino,Medicina,8.8,3,Alta,Moderada,Moderada,Não,Não,Não,7.0,482,2,República/Amigos,Alta,2.37,Graduate
+1197,22,Masculino,Engenharia Civil,4.4,0,Baixa,Alta,Baixa,Não,Não,Não,9.0,406,0,República/Amigos,Média,3.25,Graduate
+1198,26,Feminino,Psicologia,6.1,1,Baixa,Alta,Baixa,Não,Não,Não,8.3,50,1,Pais/Família,Média,2.88,Graduate
+1199,26,Feminino,Medicina,5.9,1,Moderada,Alta,Baixa,Não,Não,Não,6.9,402,0,Sozinho/Cônjuge,Alta,3.21,Graduate
+1200,20,Feminino,Direito,7.4,2,Moderada,Baixa,Moderada,Sim,Não,Não,3.2,562,1,Pais/Família,Baixa Renda,3.03,Graduate
+1201,33,Feminino,Administração,4.1,2,Baixa,Moderada,Moderada,Não,Não,Não,3.4,475,3,Pais/Família,Média,4.68,Graduate
+1202,33,Masculino,Letras,7.2,0,Alta,Moderada,Moderada,Sim,Não,Não,3.8,86,1,Pais/Família,Média,2.78,Graduate
+1203,20,Feminino,Medicina,9.0,2,Baixa,Moderada,Alta,Não,Não,Não,6.0,67,0,República/Amigos,Média,4.17,Graduate
+1204,18,Feminino,Letras,4.5,1,Alta,Baixa,Alta,Não,Não,Não,6.2,595,1,Sozinho/Cônjuge,Média,3.06,Graduate
+1205,28,Feminino,Engenharia Civil,6.8,2,Alta,Baixa,Baixa,Não,Não,Não,4.0,41,0,Pais/Família,Média-Baixa,2.27,Graduate
+1206,34,Masculino,Direito,5.5,4,Baixa,Baixa,Baixa,Sim,Não,Não,9.0,56,0,República/Amigos,Média,3.07,Graduate
+1207,25,Feminino,Psicologia,7.1,2,Moderada,Baixa,Moderada,Não,Não,Não,4.5,195,1,Pais/Família,Média-Baixa,3.77,Graduate
+1208,21,Feminino,Direito,6.5,1,Baixa,Baixa,Alta,Sim,Não,Sim,4.3,61,0,República/Amigos,Média-Baixa,3.53,Graduate
+1209,23,Feminino,Direito,5.5,0,Baixa,Baixa,Baixa,Não,Não,Não,7.2,262,2,Sozinho/Cônjuge,Baixa Renda,2.53,Graduate
+1210,25,Feminino,Ciência da Computação,7.2,3,Baixa,Moderada,Moderada,Sim,Não,Sim,8.9,111,0,Pais/Família,Alta,3.87,Graduate
+1211,20,Masculino,Direito,9.0,2,Baixa,Alta,Alta,Sim,Não,Sim,11.1,177,4,Sozinho/Cônjuge,Média-Baixa,4.57,Graduate
+1212,33,Feminino,Direito,6.2,1,Baixa,Baixa,Moderada,Não,Não,Não,8.2,25,1,República/Amigos,Média-Baixa,4.13,Graduate
+1213,20,Feminino,Medicina,7.6,3,Moderada,Alta,Moderada,Sim,Não,Não,10.2,409,3,Pais/Família,Média-Baixa,2.4,Dropout
+1214,31,Masculino,Psicologia,4.6,3,Moderada,Alta,Alta,Não,Não,Não,4.6,530,0,Sozinho/Cônjuge,Alta,4.12,Graduate
+1215,19,Masculino,Medicina,5.1,4,Baixa,Baixa,Baixa,Não,Sim,Não,11.3,316,3,Pais/Família,Média-Baixa,1.76,Graduate
+1216,20,Feminino,Medicina,7.2,3,Alta,Moderada,Moderada,Sim,Não,Não,3.3,531,1,Pais/Família,Média,3.16,Graduate
+1217,33,Masculino,Engenharia Civil,8.7,1,Alta,Alta,Alta,Não,Não,Não,6.0,105,2,Pais/Família,Média,2.52,Graduate
+1218,26,Masculino,Medicina,7.0,1,Moderada,Baixa,Moderada,Sim,Não,Não,8.1,463,3,Pais/Família,Média-Baixa,4.15,Graduate
+1219,21,Feminino,Ciência da Computação,6.0,2,Alta,Moderada,Moderada,Não,Não,Não,3.8,245,2,Sozinho/Cônjuge,Média-Baixa,3.39,Graduate
+1220,18,Masculino,Ciência da Computação,6.5,2,Baixa,Baixa,Baixa,Sim,Não,Não,5.1,80,0,República/Amigos,Média,3.15,Dropout
+1221,21,Masculino,Letras,4.6,2,Moderada,Baixa,Baixa,Não,Não,Sim,4.8,395,1,Sozinho/Cônjuge,Alta,3.23,Dropout
+1222,18,Feminino,Engenharia Civil,7.4,3,Moderada,Baixa,Alta,Sim,Não,Sim,6.4,521,2,Pais/Família,Média,4.24,Graduate
+1223,31,Feminino,Letras,7.8,3,Moderada,Baixa,Moderada,Não,Não,Não,9.8,263,2,Pais/Família,Baixa Renda,4.1,Graduate
+1224,33,Feminino,Letras,5.8,4,Baixa,Baixa,Baixa,Não,Sim,Não,7.0,273,1,Pais/Família,Média,2.75,Graduate
+1225,25,Masculino,Administração,5.8,2,Alta,Baixa,Baixa,Não,Sim,Sim,6.1,171,0,República/Amigos,Média-Baixa,2.88,Dropout
+1226,24,Não-Binário,Psicologia,6.9,0,Moderada,Baixa,Moderada,Não,Não,Não,3.0,264,2,Sozinho/Cônjuge,Média-Baixa,4.2,Graduate
+1227,20,Masculino,Psicologia,5.8,4,Moderada,Baixa,Moderada,Não,Não,Não,7.9,25,3,República/Amigos,Média,2.73,Graduate
+1228,34,Feminino,Medicina,6.4,0,Baixa,Baixa,Alta,Não,Não,Não,8.6,468,5,Pais/Família,Baixa Renda,2.73,Graduate
+1229,18,Masculino,Medicina,9.0,3,Moderada,Baixa,Baixa,Sim,Não,Não,3.6,475,1,Sozinho/Cônjuge,Média,3.2,Graduate
+1230,33,Masculino,Administração,6.1,4,Alta,Baixa,Moderada,Não,Não,Não,6.9,355,1,República/Amigos,Média-Baixa,4.23,Graduate
+1231,29,Feminino,Medicina,6.0,4,Alta,Alta,Moderada,Não,Não,Não,7.4,25,1,Pais/Família,Média,2.43,Graduate
+1232,31,Feminino,Psicologia,5.5,1,Moderada,Baixa,Baixa,Não,Não,Não,8.9,33,1,Sozinho/Cônjuge,Baixa Renda,2.19,Dropout
+1233,23,Masculino,Letras,7.6,3,Moderada,Alta,Baixa,Não,Não,Não,5.6,263,4,Pais/Família,Média-Baixa,2.68,Dropout
+1234,23,Feminino,Direito,6.2,3,Baixa,Alta,Alta,Não,Não,Não,5.2,137,1,Pais/Família,Média,3.43,Graduate
+1235,30,Masculino,Ciência da Computação,5.5,4,Moderada,Moderada,Alta,Sim,Não,Não,6.1,565,3,Pais/Família,Baixa Renda,1.97,Dropout
+1236,25,Feminino,Direito,8.5,3,Alta,Baixa,Alta,Não,Não,Não,9.6,461,0,Pais/Família,Baixa Renda,3.04,Graduate
+1237,19,Feminino,Direito,8.6,4,Alta,Baixa,Moderada,Sim,Sim,Não,9.1,167,1,Pais/Família,Alta,4.14,Graduate
+1238,18,Feminino,Psicologia,5.6,1,Baixa,Baixa,Alta,Não,Não,Não,7.0,80,1,Pais/Família,Média-Baixa,3.33,Graduate
+1239,32,Feminino,Direito,4.0,4,Moderada,Baixa,Baixa,Não,Não,Não,9.0,406,1,Pais/Família,Alta,2.79,Dropout
+1240,18,Masculino,Administração,8.0,3,Moderada,Baixa,Baixa,Não,Não,Não,3.0,573,1,República/Amigos,Baixa Renda,2.56,Graduate
+1241,22,Feminino,Engenharia Civil,5.5,3,Moderada,Baixa,Baixa,Não,Não,Sim,8.6,45,3,Sozinho/Cônjuge,Média-Baixa,2.44,Graduate
+1242,33,Masculino,Medicina,7.7,4,Baixa,Baixa,Baixa,Não,Não,Não,4.8,598,0,República/Amigos,Média,2.27,Graduate
+1243,21,Masculino,Engenharia Civil,4.0,4,Alta,Moderada,Moderada,Sim,Não,Não,10.5,52,3,Pais/Família,Média,2.38,Graduate
+1244,20,Masculino,Letras,7.8,4,Baixa,Moderada,Baixa,Não,Não,Não,4.9,475,2,Pais/Família,Média-Baixa,2.5,Graduate
+1245,34,Feminino,Ciência da Computação,4.7,2,Baixa,Moderada,Baixa,Sim,Não,Não,5.3,591,1,Pais/Família,Média-Baixa,3.13,Graduate
+1246,34,Masculino,Medicina,7.6,3,Baixa,Alta,Moderada,Não,Não,Não,8.1,15,3,Pais/Família,Média,4.13,Dropout
+1247,29,Masculino,Direito,6.5,3,Alta,Alta,Baixa,Não,Não,Não,8.3,359,1,República/Amigos,Baixa Renda,1.89,Dropout
+1248,31,Feminino,Ciência da Computação,5.1,2,Baixa,Baixa,Alta,Sim,Não,Não,6.1,486,2,República/Amigos,Média-Baixa,3.44,Graduate
+1249,23,Feminino,Medicina,5.9,4,Baixa,Baixa,Moderada,Não,Não,Não,7.7,501,1,República/Amigos,Baixa Renda,3.05,Dropout
+1250,20,Masculino,Administração,7.5,1,Baixa,Alta,Baixa,Não,Não,Não,8.0,140,0,República/Amigos,Média-Baixa,2.24,Dropout
+1251,26,Não-Binário,Administração,6.7,4,Baixa,Baixa,Alta,Não,Não,Não,7.8,446,1,Pais/Família,Média-Baixa,4.37,Graduate
+1252,22,Feminino,Administração,7.4,4,Moderada,Moderada,Alta,Não,Sim,Sim,6.2,289,1,Pais/Família,Média-Baixa,3.64,Graduate
+1253,34,Masculino,Administração,9.0,2,Moderada,Baixa,Baixa,Sim,Sim,Sim,8.0,208,0,República/Amigos,Média-Baixa,2.17,Graduate
+1254,31,Masculino,Direito,4.2,3,Baixa,Moderada,Baixa,Sim,Não,Não,9.8,474,1,Pais/Família,Baixa Renda,2.86,Dropout
+1255,20,Masculino,Engenharia Civil,8.9,4,Alta,Alta,Baixa,Não,Não,Não,4.5,412,1,Pais/Família,Baixa Renda,2.08,Dropout
+1256,18,Não-Binário,Medicina,6.7,3,Alta,Moderada,Alta,Não,Não,Não,5.3,426,3,Pais/Família,Média,2.2,Dropout
+1257,18,Masculino,Direito,5.2,0,Moderada,Baixa,Alta,Sim,Não,Não,7.1,370,1,Pais/Família,Média-Baixa,3.44,Graduate
+1258,20,Feminino,Administração,4.5,3,Baixa,Moderada,Moderada,Não,Não,Não,4.9,289,1,Pais/Família,Média,4.09,Graduate
+1259,27,Feminino,Letras,6.2,1,Baixa,Alta,Alta,Sim,Não,Sim,3.4,431,1,Sozinho/Cônjuge,Média,4.41,Graduate
+1260,20,Feminino,Engenharia Civil,7.9,1,Moderada,Baixa,Moderada,Não,Não,Não,9.2,267,1,Sozinho/Cônjuge,Baixa Renda,4.5,Graduate
+1261,25,Masculino,Letras,6.3,4,Baixa,Alta,Alta,Não,Não,Não,3.0,150,1,Pais/Família,Média,4.34,Graduate
+1262,31,Masculino,Ciência da Computação,8.8,3,Moderada,Alta,Alta,Não,Não,Não,6.2,254,3,Pais/Família,Baixa Renda,2.57,Dropout
+1263,32,Feminino,Letras,4.3,4,Moderada,Moderada,Moderada,Não,Não,Não,8.5,352,3,República/Amigos,Média,2.44,Dropout
+1264,19,Masculino,Ciência da Computação,6.5,2,Moderada,Alta,Baixa,Não,Não,Sim,7.5,376,1,Pais/Família,Alta,2.63,Dropout
+1265,27,Masculino,Ciência da Computação,4.6,1,Baixa,Moderada,Baixa,Sim,Não,Não,6.2,357,2,Pais/Família,Média-Baixa,2.46,Dropout
+1266,19,Masculino,Administração,7.0,4,Baixa,Baixa,Moderada,Sim,Não,Não,4.8,369,2,Pais/Família,Média,3.24,Graduate
+1267,34,Feminino,Ciência da Computação,7.8,2,Moderada,Moderada,Alta,Não,Sim,Não,7.7,226,5,Pais/Família,Baixa Renda,4.45,Graduate
+1268,25,Masculino,Psicologia,5.9,4,Alta,Baixa,Moderada,Não,Sim,Não,5.0,302,2,República/Amigos,Média-Baixa,4.17,Graduate
+1269,18,Feminino,Medicina,4.0,3,Baixa,Moderada,Moderada,Não,Não,Não,7.5,388,2,Sozinho/Cônjuge,Média,3.8,Graduate
+1270,26,Feminino,Medicina,6.8,3,Baixa,Alta,Moderada,Não,Não,Sim,7.3,376,2,Pais/Família,Baixa Renda,3.09,Graduate
+1271,28,Feminino,Administração,7.2,3,Moderada,Moderada,Alta,Não,Não,Não,7.3,117,2,Pais/Família,Média-Baixa,2.42,Graduate
+1272,33,Feminino,Psicologia,7.1,3,Alta,Moderada,Moderada,Sim,Sim,Não,5.7,4,4,Pais/Família,Média-Baixa,2.39,Dropout
+1273,24,Feminino,Letras,8.4,0,Baixa,Alta,Baixa,Não,Não,Sim,11.1,443,1,Pais/Família,Média,2.48,Graduate
+1274,27,Masculino,Direito,4.9,2,Alta,Baixa,Baixa,Não,Não,Não,7.7,351,1,Sozinho/Cônjuge,Média-Baixa,2.11,Dropout
+1275,20,Feminino,Letras,7.5,2,Moderada,Baixa,Alta,Não,Não,Não,6.4,532,0,República/Amigos,Alta,3.89,Graduate
+1276,30,Masculino,Direito,8.3,3,Baixa,Baixa,Alta,Não,Não,Não,7.5,123,6,República/Amigos,Baixa Renda,3.1,Graduate
+1277,24,Feminino,Ciência da Computação,4.0,0,Moderada,Baixa,Moderada,Sim,Não,Não,5.5,276,0,República/Amigos,Média-Baixa,3.27,Graduate
+1278,21,Masculino,Engenharia Civil,7.0,3,Moderada,Moderada,Baixa,Não,Não,Não,6.2,393,3,Sozinho/Cônjuge,Média,3.01,Graduate
+1279,30,Não-Binário,Direito,5.7,0,Moderada,Moderada,Baixa,Não,Não,Não,11.8,359,1,Sozinho/Cônjuge,Baixa Renda,2.38,Graduate
+1280,18,Feminino,Engenharia Civil,6.4,3,Moderada,Alta,Baixa,Não,Não,Não,5.5,468,1,Pais/Família,Média,2.1,Graduate
+1281,25,Feminino,Medicina,7.0,1,Moderada,Moderada,Baixa,Sim,Não,Sim,6.8,56,0,Pais/Família,Baixa Renda,2.11,Graduate
+1282,31,Feminino,Engenharia Civil,5.8,1,Alta,Moderada,Baixa,Sim,Não,Não,6.1,250,1,República/Amigos,Baixa Renda,2.72,Dropout
+1283,33,Masculino,Medicina,5.5,4,Baixa,Baixa,Baixa,Sim,Não,Não,4.9,149,1,Pais/Família,Baixa Renda,3.19,Graduate
+1284,31,Masculino,Psicologia,6.6,3,Baixa,Moderada,Moderada,Não,Não,Não,7.8,451,1,Sozinho/Cônjuge,Alta,3.41,Graduate
+1285,29,Feminino,Psicologia,4.9,2,Alta,Moderada,Moderada,Não,Não,Não,7.1,161,2,República/Amigos,Média-Baixa,2.93,Graduate
+1286,32,Masculino,Administração,4.9,4,Moderada,Alta,Baixa,Não,Não,Não,8.8,119,3,Sozinho/Cônjuge,Média,3.14,Graduate
+1287,19,Feminino,Administração,7.5,1,Baixa,Moderada,Baixa,Não,Não,Não,8.6,581,0,Pais/Família,Média-Baixa,3.01,Graduate
+1288,19,Feminino,Ciência da Computação,4.8,3,Baixa,Alta,Moderada,Não,Não,Não,8.8,350,2,Sozinho/Cônjuge,Média-Baixa,3.76,Graduate
+1289,34,Masculino,Direito,7.5,4,Baixa,Baixa,Moderada,Não,Não,Não,5.2,98,2,Pais/Família,Média-Baixa,3.44,Graduate
+1290,27,Feminino,Ciência da Computação,7.2,3,Baixa,Alta,Baixa,Sim,Não,Não,8.3,166,2,Sozinho/Cônjuge,Alta,2.83,Graduate
+1291,23,Masculino,Medicina,4.0,1,Moderada,Baixa,Moderada,Não,Não,Não,8.3,513,1,Pais/Família,Média,3.74,Graduate
+1292,32,Feminino,Ciência da Computação,5.5,4,Moderada,Alta,Alta,Não,Não,Não,5.0,400,1,República/Amigos,Média,2.91,Graduate
+1293,28,Não-Binário,Engenharia Civil,8.3,1,Baixa,Baixa,Baixa,Sim,Não,Não,6.4,364,0,República/Amigos,Baixa Renda,2.63,Graduate
+1294,22,Feminino,Medicina,5.0,0,Baixa,Baixa,Baixa,Sim,Não,Não,4.1,576,3,Pais/Família,Média-Baixa,2.51,Graduate
+1295,18,Feminino,Administração,5.8,1,Baixa,Baixa,Moderada,Não,Não,Não,8.3,325,1,Pais/Família,Média-Baixa,3.29,Graduate
+1296,25,Masculino,Psicologia,7.2,3,Baixa,Moderada,Baixa,Não,Não,Não,8.3,580,1,Sozinho/Cônjuge,Alta,2.35,Graduate
+1297,29,Feminino,Administração,7.7,2,Moderada,Moderada,Baixa,Não,Não,Não,9.9,246,4,Pais/Família,Média-Baixa,2.35,Dropout
+1298,29,Não-Binário,Direito,6.1,1,Baixa,Baixa,Alta,Sim,Não,Sim,6.5,433,2,República/Amigos,Média-Baixa,3.08,Graduate
+1299,22,Masculino,Medicina,5.6,2,Moderada,Alta,Baixa,Não,Não,Não,7.9,92,6,Pais/Família,Média-Baixa,2.47,Dropout
+1300,24,Masculino,Medicina,8.6,0,Alta,Alta,Moderada,Não,Não,Não,9.0,267,1,Sozinho/Cônjuge,Baixa Renda,3.34,Dropout
+1301,21,Masculino,Engenharia Civil,9.0,4,Moderada,Baixa,Moderada,Sim,Não,Não,5.5,320,1,República/Amigos,Baixa Renda,4.87,Graduate
+1302,23,Não-Binário,Direito,8.0,4,Alta,Baixa,Alta,Não,Não,Não,5.2,61,2,Pais/Família,Média,3.01,Graduate
+1303,30,Masculino,Psicologia,6.6,2,Baixa,Alta,Moderada,Sim,Não,Não,5.6,299,2,Pais/Família,Média-Baixa,4.57,Graduate
+1304,32,Masculino,Letras,5.3,4,Alta,Moderada,Moderada,Não,Não,Não,6.3,402,1,República/Amigos,Média,3.17,Graduate
+1305,20,Masculino,Medicina,5.3,1,Moderada,Alta,Moderada,Sim,Não,Não,5.3,566,2,Pais/Família,Média,3.42,Graduate
+1306,25,Feminino,Medicina,7.3,2,Alta,Baixa,Baixa,Sim,Não,Não,5.6,302,3,Pais/Família,Média-Baixa,2.2,Graduate
+1307,33,Feminino,Engenharia Civil,7.1,3,Moderada,Baixa,Baixa,Não,Não,Sim,8.8,252,2,República/Amigos,Média-Baixa,2.72,Graduate
+1308,30,Masculino,Ciência da Computação,8.6,1,Moderada,Moderada,Baixa,Sim,Não,Não,6.8,477,0,Pais/Família,Baixa Renda,2.75,Dropout
+1309,27,Feminino,Psicologia,7.5,1,Alta,Baixa,Moderada,Não,Não,Não,7.6,368,1,Pais/Família,Alta,4.89,Graduate
+1310,34,Feminino,Administração,4.2,1,Baixa,Baixa,Moderada,Sim,Não,Não,5.9,159,1,República/Amigos,Média-Baixa,3.76,Graduate
+1311,22,Feminino,Direito,8.1,3,Baixa,Baixa,Baixa,Não,Não,Não,5.8,165,1,Pais/Família,Média-Baixa,2.03,Dropout
+1312,26,Feminino,Medicina,5.0,0,Alta,Baixa,Moderada,Sim,Não,Sim,7.6,204,0,Pais/Família,Média-Baixa,3.17,Graduate
+1313,29,Masculino,Medicina,5.9,4,Moderada,Alta,Baixa,Não,Não,Não,7.3,266,1,Pais/Família,Média-Baixa,1.91,Dropout
+1314,18,Masculino,Administração,6.9,2,Moderada,Baixa,Baixa,Não,Sim,Não,8.6,137,2,República/Amigos,Média-Baixa,2.37,Graduate
+1315,18,Feminino,Psicologia,9.0,0,Alta,Alta,Baixa,Sim,Não,Sim,9.6,367,1,República/Amigos,Média-Baixa,2.78,Graduate
+1316,32,Masculino,Ciência da Computação,9.0,2,Baixa,Alta,Moderada,Não,Não,Não,5.6,442,1,República/Amigos,Média,3.94,Graduate
+1317,19,Masculino,Medicina,7.4,4,Baixa,Moderada,Moderada,Sim,Não,Não,8.7,566,1,Pais/Família,Média,4.66,Graduate
+1318,33,Feminino,Psicologia,6.2,3,Moderada,Baixa,Alta,Não,Não,Não,4.8,16,2,Pais/Família,Média-Baixa,4.42,Graduate
+1319,25,Masculino,Administração,7.3,1,Baixa,Moderada,Moderada,Não,Não,Não,11.1,67,0,Pais/Família,Média-Baixa,4.19,Graduate
+1320,30,Feminino,Engenharia Civil,7.8,1,Alta,Alta,Alta,Não,Não,Não,5.4,132,0,Pais/Família,Média,2.79,Graduate
+1321,18,Feminino,Ciência da Computação,6.0,3,Moderada,Moderada,Alta,Não,Não,Não,8.4,429,0,Sozinho/Cônjuge,Baixa Renda,3.18,Graduate
+1322,33,Não-Binário,Direito,9.0,0,Baixa,Moderada,Alta,Não,Não,Não,4.8,307,2,Pais/Família,Média,4.6,Graduate
+1323,24,Feminino,Medicina,6.8,0,Baixa,Baixa,Baixa,Sim,Não,Não,6.7,173,1,Pais/Família,Baixa Renda,2.29,Dropout
+1324,22,Masculino,Psicologia,7.2,2,Alta,Baixa,Baixa,Sim,Não,Não,10.1,411,2,Pais/Família,Média,2.72,Graduate
+1325,20,Masculino,Engenharia Civil,7.5,3,Moderada,Alta,Alta,Não,Sim,Não,5.4,96,0,República/Amigos,Média-Baixa,3.88,Graduate
+1326,29,Feminino,Direito,7.1,0,Alta,Moderada,Moderada,Não,Não,Não,11.4,153,1,República/Amigos,Média-Baixa,3.18,Graduate
+1327,33,Masculino,Letras,7.8,3,Baixa,Alta,Baixa,Não,Não,Não,7.0,241,2,República/Amigos,Média,2.85,Dropout
+1328,22,Não-Binário,Psicologia,5.6,4,Moderada,Baixa,Baixa,Não,Não,Não,9.0,303,3,Sozinho/Cônjuge,Baixa Renda,2.2,Graduate
+1329,31,Feminino,Psicologia,5.7,1,Moderada,Baixa,Moderada,Não,Não,Não,7.8,284,3,Pais/Família,Média-Baixa,4.28,Graduate
+1330,22,Masculino,Direito,4.8,1,Alta,Alta,Moderada,Não,Não,Não,7.9,26,2,Pais/Família,Média-Baixa,2.9,Graduate
+1331,32,Masculino,Engenharia Civil,7.2,1,Baixa,Baixa,Baixa,Não,Não,Sim,4.1,401,0,Pais/Família,Média,3.36,Graduate
+1332,34,Masculino,Letras,7.7,3,Baixa,Moderada,Moderada,Não,Não,Não,6.1,359,1,República/Amigos,Baixa Renda,4.32,Graduate
+1333,31,Masculino,Administração,7.2,3,Alta,Moderada,Baixa,Não,Não,Não,9.4,59,3,República/Amigos,Média,2.65,Graduate
+1334,22,Feminino,Engenharia Civil,9.0,2,Baixa,Baixa,Alta,Sim,Não,Não,6.3,201,2,República/Amigos,Média-Baixa,3.61,Graduate
+1335,29,Masculino,Ciência da Computação,6.5,1,Moderada,Baixa,Moderada,Não,Não,Sim,7.3,580,0,República/Amigos,Baixa Renda,4.39,Graduate
+1336,33,Masculino,Medicina,7.5,2,Alta,Baixa,Moderada,Não,Não,Não,3.9,369,2,República/Amigos,Média,3.39,Graduate
+1337,33,Masculino,Direito,4.9,1,Baixa,Moderada,Baixa,Sim,Não,Não,5.9,532,4,Sozinho/Cônjuge,Baixa Renda,2.5,Dropout
+1338,24,Masculino,Administração,5.9,2,Baixa,Moderada,Alta,Não,Não,Não,9.2,151,3,República/Amigos,Média-Baixa,3.87,Graduate
+1339,21,Masculino,Letras,7.5,2,Baixa,Baixa,Alta,Não,Não,Não,4.4,101,1,República/Amigos,Baixa Renda,3.88,Graduate
+1340,18,Feminino,Direito,7.8,4,Baixa,Moderada,Baixa,Não,Sim,Não,8.4,445,3,Pais/Família,Média-Baixa,1.81,Dropout
+1341,22,Masculino,Direito,6.1,2,Baixa,Moderada,Moderada,Não,Não,Sim,7.4,228,0,República/Amigos,Média,3.67,Graduate
+1342,27,Masculino,Engenharia Civil,6.4,3,Baixa,Moderada,Moderada,Não,Não,Não,6.5,124,3,Sozinho/Cônjuge,Média-Baixa,4.05,Graduate
+1343,22,Masculino,Medicina,4.2,2,Baixa,Moderada,Baixa,Não,Não,Sim,6.4,235,1,Pais/Família,Média-Baixa,2.47,Graduate
+1344,21,Masculino,Ciência da Computação,6.0,1,Alta,Moderada,Alta,Não,Não,Não,6.0,161,1,República/Amigos,Média-Baixa,1.92,Graduate
+1345,19,Feminino,Psicologia,7.8,2,Moderada,Baixa,Moderada,Não,Não,Não,6.2,553,4,República/Amigos,Baixa Renda,2.68,Graduate
+1346,27,Feminino,Psicologia,7.4,0,Baixa,Moderada,Alta,Não,Não,Não,8.9,352,2,Pais/Família,Média-Baixa,3.88,Graduate
+1347,18,Feminino,Direito,7.3,1,Moderada,Alta,Alta,Não,Não,Não,6.1,67,5,República/Amigos,Alta,3.91,Graduate
+1348,22,Feminino,Medicina,6.6,0,Moderada,Alta,Baixa,Não,Não,Não,10.6,172,3,Pais/Família,Média,3.11,Graduate
+1349,30,Masculino,Letras,6.5,1,Moderada,Baixa,Moderada,Não,Não,Não,7.6,558,2,Sozinho/Cônjuge,Baixa Renda,3.1,Graduate
+1350,21,Masculino,Letras,5.5,3,Moderada,Baixa,Moderada,Não,Não,Não,5.8,260,0,Sozinho/Cônjuge,Baixa Renda,3.08,Graduate
+1351,33,Masculino,Administração,7.5,3,Moderada,Moderada,Moderada,Não,Não,Não,8.9,216,2,Pais/Família,Alta,2.82,Graduate
+1352,33,Feminino,Engenharia Civil,7.1,3,Alta,Baixa,Moderada,Não,Sim,Não,8.2,123,2,Pais/Família,Média-Baixa,4.59,Graduate
+1353,19,Masculino,Medicina,7.2,0,Moderada,Moderada,Baixa,Não,Não,Sim,3.7,161,1,República/Amigos,Média-Baixa,2.81,Dropout
+1354,34,Feminino,Medicina,5.7,4,Moderada,Alta,Alta,Não,Não,Não,4.9,200,3,Pais/Família,Média,1.82,Graduate
+1355,29,Feminino,Engenharia Civil,4.0,1,Baixa,Baixa,Moderada,Não,Não,Não,6.8,453,1,Pais/Família,Média-Baixa,3.1,Graduate
+1356,20,Masculino,Letras,8.1,3,Baixa,Baixa,Moderada,Não,Não,Sim,3.8,401,0,República/Amigos,Média-Baixa,4.94,Graduate
+1357,18,Masculino,Letras,5.8,1,Moderada,Moderada,Baixa,Não,Sim,Não,11.2,461,3,Pais/Família,Alta,2.05,Graduate
+1358,18,Feminino,Letras,5.2,0,Moderada,Baixa,Baixa,Não,Não,Não,8.6,274,4,Pais/Família,Média,2.88,Graduate
+1359,28,Feminino,Direito,7.5,4,Baixa,Baixa,Baixa,Não,Não,Sim,7.0,205,1,Sozinho/Cônjuge,Baixa Renda,2.82,Graduate
+1360,22,Feminino,Medicina,5.9,0,Moderada,Baixa,Alta,Não,Não,Não,6.3,39,1,Sozinho/Cônjuge,Baixa Renda,3.23,Graduate
+1361,29,Feminino,Psicologia,8.1,1,Moderada,Moderada,Moderada,Sim,Não,Não,5.8,272,3,República/Amigos,Baixa Renda,3.12,Graduate
+1362,20,Masculino,Engenharia Civil,7.4,4,Baixa,Baixa,Alta,Não,Não,Não,3.1,92,0,Sozinho/Cônjuge,Média,3.5,Graduate
+1363,18,Feminino,Letras,7.5,4,Baixa,Baixa,Baixa,Não,Não,Sim,3.5,41,1,Pais/Família,Média-Baixa,2.65,Graduate
+1364,18,Masculino,Administração,4.5,0,Baixa,Alta,Moderada,Não,Sim,Não,10.8,464,5,Pais/Família,Baixa Renda,4.18,Dropout
+1365,25,Feminino,Letras,8.3,3,Baixa,Baixa,Baixa,Não,Não,Não,10.1,378,0,Pais/Família,Alta,2.54,Graduate
+1366,27,Feminino,Letras,6.9,1,Alta,Baixa,Baixa,Não,Não,Não,5.8,106,2,República/Amigos,Baixa Renda,3.02,Graduate
+1367,28,Feminino,Ciência da Computação,5.9,2,Moderada,Baixa,Baixa,Não,Não,Não,8.8,327,0,Sozinho/Cônjuge,Baixa Renda,2.25,Graduate
+1368,29,Feminino,Direito,6.7,2,Alta,Baixa,Alta,Sim,Não,Não,8.0,64,1,República/Amigos,Baixa Renda,3.19,Graduate
+1369,30,Feminino,Engenharia Civil,4.0,0,Moderada,Baixa,Baixa,Não,Não,Não,8.2,364,4,Sozinho/Cônjuge,Baixa Renda,1.97,Graduate
+1370,29,Feminino,Ciência da Computação,7.1,1,Moderada,Baixa,Moderada,Não,Não,Não,4.1,483,4,República/Amigos,Média-Baixa,3.51,Graduate
+1371,31,Masculino,Ciência da Computação,5.0,1,Moderada,Moderada,Baixa,Sim,Não,Não,3.4,23,0,Pais/Família,Alta,2.87,Graduate
+1372,19,Feminino,Administração,4.5,0,Baixa,Moderada,Baixa,Não,Não,Não,9.4,539,7,Pais/Família,Média,1.85,Graduate
+1373,20,Não-Binário,Medicina,4.2,1,Baixa,Alta,Baixa,Não,Não,Não,3.0,61,2,Pais/Família,Média-Baixa,2.54,Dropout
+1374,34,Feminino,Administração,8.2,3,Moderada,Moderada,Moderada,Não,Não,Não,6.7,490,2,Pais/Família,Média-Baixa,4.02,Graduate
+1375,25,Masculino,Medicina,5.6,0,Baixa,Alta,Moderada,Sim,Não,Sim,6.3,272,1,República/Amigos,Média-Baixa,3.37,Graduate
+1376,27,Masculino,Medicina,8.8,3,Moderada,Alta,Alta,Não,Não,Não,6.1,228,3,Pais/Família,Baixa Renda,2.61,Graduate
+1377,19,Masculino,Engenharia Civil,5.7,1,Alta,Baixa,Baixa,Não,Sim,Não,7.6,19,0,República/Amigos,Baixa Renda,2.37,Graduate
+1378,26,Masculino,Letras,4.0,0,Alta,Baixa,Moderada,Não,Não,Não,5.6,2,1,República/Amigos,Alta,4.75,Graduate
+1379,24,Masculino,Engenharia Civil,4.8,1,Baixa,Alta,Moderada,Não,Não,Não,7.8,420,0,Pais/Família,Baixa Renda,3.53,Graduate
+1380,21,Masculino,Direito,8.4,0,Baixa,Alta,Moderada,Não,Não,Não,7.3,306,1,Pais/Família,Baixa Renda,4.8,Graduate
+1381,30,Masculino,Medicina,6.3,1,Baixa,Baixa,Moderada,Não,Não,Não,11.2,431,0,Pais/Família,Média-Baixa,3.89,Graduate
+1382,28,Masculino,Ciência da Computação,5.7,3,Baixa,Moderada,Moderada,Não,Não,Sim,4.2,135,0,Pais/Família,Média-Baixa,3.92,Graduate
+1383,21,Feminino,Letras,6.7,3,Alta,Baixa,Alta,Não,Não,Não,7.1,514,0,Sozinho/Cônjuge,Baixa Renda,3.66,Graduate
+1384,21,Feminino,Psicologia,7.3,1,Baixa,Alta,Moderada,Não,Não,Não,7.9,192,3,Pais/Família,Baixa Renda,2.96,Graduate
+1385,27,Masculino,Direito,8.2,0,Moderada,Baixa,Moderada,Não,Não,Não,6.5,584,1,República/Amigos,Média-Baixa,3.08,Dropout
+1386,22,Masculino,Engenharia Civil,8.7,2,Moderada,Moderada,Baixa,Sim,Sim,Não,4.3,414,2,Sozinho/Cônjuge,Média,3.09,Dropout
+1387,26,Masculino,Administração,6.0,3,Moderada,Baixa,Baixa,Sim,Não,Não,9.5,117,1,Sozinho/Cônjuge,Baixa Renda,2.76,Dropout
+1388,20,Masculino,Direito,4.5,3,Alta,Baixa,Moderada,Sim,Não,Não,7.7,208,1,Sozinho/Cônjuge,Média-Baixa,3.43,Graduate
+1389,34,Não-Binário,Direito,5.9,2,Alta,Baixa,Alta,Sim,Não,Sim,4.5,33,1,Pais/Família,Média-Baixa,3.19,Dropout
+1390,20,Feminino,Letras,6.9,1,Alta,Alta,Moderada,Não,Não,Não,7.9,317,1,Pais/Família,Média,3.22,Dropout
+1391,33,Feminino,Direito,5.1,0,Moderada,Alta,Baixa,Sim,Sim,Não,10.4,119,1,Pais/Família,Média-Baixa,1.99,Graduate
+1392,21,Feminino,Direito,5.1,1,Alta,Baixa,Alta,Não,Não,Não,6.9,524,5,Pais/Família,Baixa Renda,3.06,Graduate
+1393,34,Feminino,Psicologia,7.0,4,Alta,Moderada,Baixa,Não,Sim,Não,7.0,580,0,Sozinho/Cônjuge,Média-Baixa,2.22,Dropout
+1394,24,Masculino,Administração,6.4,3,Alta,Baixa,Baixa,Não,Não,Não,10.1,88,1,República/Amigos,Média,2.76,Graduate
+1395,22,Feminino,Administração,6.5,4,Baixa,Moderada,Baixa,Sim,Sim,Não,5.1,511,1,Pais/Família,Baixa Renda,2.01,Graduate
+1396,29,Masculino,Administração,5.4,3,Baixa,Moderada,Baixa,Não,Não,Não,10.5,46,2,Pais/Família,Média-Baixa,1.86,Dropout
+1397,34,Feminino,Medicina,6.2,3,Baixa,Baixa,Baixa,Não,Não,Não,8.9,521,1,Pais/Família,Baixa Renda,3.26,Dropout
+1398,30,Masculino,Ciência da Computação,5.1,4,Moderada,Alta,Baixa,Não,Não,Não,5.2,283,1,República/Amigos,Baixa Renda,3.19,Dropout
+1399,20,Masculino,Administração,7.8,4,Alta,Alta,Alta,Não,Não,Sim,5.7,376,3,República/Amigos,Média-Baixa,2.99,Graduate
+1400,26,Feminino,Direito,8.1,1,Alta,Alta,Alta,Não,Sim,Não,6.0,133,1,Sozinho/Cônjuge,Média-Baixa,3.22,Dropout
+1401,34,Masculino,Direito,4.0,4,Alta,Baixa,Baixa,Não,Não,Não,3.3,247,0,Sozinho/Cônjuge,Média,3.14,Graduate
+1402,34,Feminino,Administração,5.1,1,Moderada,Baixa,Moderada,Não,Não,Não,7.5,317,1,Pais/Família,Média,3.99,Graduate
+1403,33,Feminino,Letras,4.3,1,Baixa,Alta,Moderada,Não,Não,Sim,5.2,435,1,Pais/Família,Média-Baixa,4.2,Graduate
+1404,30,Feminino,Administração,5.5,1,Baixa,Baixa,Moderada,Sim,Sim,Não,7.6,175,3,Pais/Família,Média-Baixa,3.46,Graduate
+1405,34,Feminino,Direito,6.4,3,Moderada,Alta,Baixa,Não,Não,Não,4.4,585,1,Pais/Família,Média-Baixa,3.21,Dropout
+1406,21,Feminino,Medicina,4.3,3,Moderada,Moderada,Moderada,Sim,Não,Não,8.8,350,2,Sozinho/Cônjuge,Baixa Renda,2.53,Graduate
+1407,29,Masculino,Engenharia Civil,5.1,4,Alta,Moderada,Moderada,Não,Não,Não,8.5,142,2,República/Amigos,Média,2.51,Dropout
+1408,26,Masculino,Engenharia Civil,5.0,3,Baixa,Alta,Alta,Não,Não,Não,5.6,397,0,República/Amigos,Alta,3.7,Graduate
+1409,29,Masculino,Administração,6.8,4,Baixa,Moderada,Baixa,Não,Não,Não,7.7,368,2,Pais/Família,Baixa Renda,3.23,Graduate
+1410,26,Feminino,Psicologia,6.6,3,Baixa,Baixa,Alta,Não,Não,Sim,7.2,500,0,Pais/Família,Baixa Renda,4.4,Graduate
+1411,24,Masculino,Administração,5.4,0,Moderada,Baixa,Baixa,Não,Não,Não,10.0,369,0,Pais/Família,Baixa Renda,2.27,Dropout
+1412,31,Feminino,Letras,6.8,0,Moderada,Baixa,Baixa,Não,Não,Não,4.9,578,1,República/Amigos,Média,1.99,Dropout
+1413,32,Feminino,Administração,5.7,4,Baixa,Moderada,Moderada,Não,Não,Não,6.7,381,2,República/Amigos,Média,4.56,Graduate
+1414,33,Masculino,Engenharia Civil,6.1,3,Moderada,Moderada,Alta,Não,Não,Não,5.7,85,3,Pais/Família,Média,3.84,Graduate
+1415,22,Feminino,Direito,9.0,3,Moderada,Baixa,Moderada,Sim,Não,Não,7.1,459,2,República/Amigos,Média,4.71,Graduate
+1416,20,Masculino,Administração,8.5,1,Baixa,Moderada,Baixa,Não,Não,Não,8.1,324,1,Sozinho/Cônjuge,Média-Baixa,2.6,Dropout
+1417,29,Masculino,Direito,4.6,2,Baixa,Moderada,Baixa,Não,Sim,Sim,5.7,521,1,Pais/Família,Média,2.67,Dropout
+1418,21,Feminino,Direito,7.7,4,Baixa,Moderada,Moderada,Sim,Não,Não,6.3,488,2,República/Amigos,Média,3.6,Graduate
+1419,33,Feminino,Psicologia,7.7,2,Alta,Baixa,Alta,Não,Não,Não,8.9,396,0,Pais/Família,Média-Baixa,3.68,Graduate
+1420,24,Feminino,Direito,4.8,2,Moderada,Baixa,Alta,Sim,Não,Não,9.7,354,2,República/Amigos,Média-Baixa,3.96,Graduate
+1421,30,Masculino,Engenharia Civil,7.7,4,Baixa,Baixa,Moderada,Não,Não,Não,8.0,287,3,República/Amigos,Média,3.09,Graduate
+1422,27,Feminino,Medicina,8.8,3,Alta,Baixa,Baixa,Não,Não,Não,6.7,458,2,Sozinho/Cônjuge,Média-Baixa,3.28,Dropout
+1423,24,Feminino,Medicina,4.8,4,Baixa,Moderada,Alta,Não,Não,Não,6.5,535,2,Pais/Família,Média,4.48,Graduate
+1424,31,Feminino,Ciência da Computação,5.1,2,Alta,Alta,Baixa,Sim,Não,Não,8.1,290,0,Pais/Família,Média,2.65,Dropout
+1425,22,Masculino,Letras,8.0,3,Moderada,Baixa,Baixa,Sim,Não,Não,7.5,167,0,Pais/Família,Média,3.16,Graduate
+1426,20,Feminino,Administração,6.9,0,Baixa,Alta,Baixa,Sim,Não,Não,3.7,427,2,Pais/Família,Média,2.19,Dropout
+1427,28,Feminino,Letras,7.3,4,Alta,Alta,Moderada,Não,Não,Sim,8.1,489,0,República/Amigos,Média-Baixa,2.21,Graduate
+1428,28,Masculino,Engenharia Civil,7.0,4,Baixa,Baixa,Baixa,Não,Não,Não,5.3,354,5,Sozinho/Cônjuge,Média,2.15,Dropout
+1429,32,Masculino,Direito,7.1,3,Baixa,Alta,Baixa,Não,Sim,Não,4.2,195,0,Pais/Família,Média-Baixa,2.51,Graduate
+1430,29,Feminino,Medicina,4.5,0,Moderada,Moderada,Baixa,Não,Não,Não,3.7,544,0,Pais/Família,Baixa Renda,3.28,Graduate
+1431,26,Feminino,Letras,8.1,0,Baixa,Alta,Baixa,Não,Não,Não,6.6,10,2,Pais/Família,Baixa Renda,2.06,Dropout
+1432,27,Feminino,Engenharia Civil,8.3,3,Alta,Moderada,Baixa,Não,Não,Não,5.0,581,2,Pais/Família,Média-Baixa,2.42,Dropout
+1433,29,Masculino,Medicina,6.2,1,Alta,Baixa,Baixa,Não,Sim,Não,3.0,255,0,Pais/Família,Média-Baixa,3.13,Graduate
+1434,34,Feminino,Direito,6.4,4,Baixa,Alta,Moderada,Não,Sim,Não,6.3,395,1,Pais/Família,Alta,3.59,Graduate
+1435,23,Masculino,Letras,4.2,4,Baixa,Alta,Baixa,Não,Não,Não,6.0,408,2,República/Amigos,Média-Baixa,2.86,Graduate
+1436,24,Masculino,Medicina,7.3,2,Baixa,Alta,Baixa,Não,Não,Sim,6.7,361,2,Pais/Família,Média-Baixa,3.0,Graduate
+1437,31,Masculino,Administração,7.4,3,Alta,Baixa,Alta,Sim,Não,Não,5.7,258,2,República/Amigos,Baixa Renda,4.38,Graduate
+1438,30,Feminino,Administração,6.4,2,Alta,Alta,Baixa,Não,Não,Não,10.7,2,1,República/Amigos,Baixa Renda,2.19,Dropout
+1439,25,Masculino,Ciência da Computação,8.2,2,Baixa,Baixa,Moderada,Sim,Não,Não,8.0,83,4,Pais/Família,Média,4.41,Graduate
+1440,27,Masculino,Ciência da Computação,6.0,0,Moderada,Baixa,Baixa,Não,Não,Não,6.0,155,4,República/Amigos,Baixa Renda,2.69,Graduate
+1441,26,Masculino,Medicina,7.3,4,Moderada,Alta,Moderada,Não,Não,Não,6.9,175,0,República/Amigos,Média,2.41,Graduate
+1442,19,Feminino,Engenharia Civil,5.0,2,Moderada,Alta,Moderada,Não,Não,Não,9.8,471,1,República/Amigos,Média,3.39,Graduate
+1443,22,Não-Binário,Administração,6.5,0,Moderada,Alta,Moderada,Não,Não,Não,8.9,423,0,Pais/Família,Média-Baixa,2.46,Dropout
+1444,22,Feminino,Engenharia Civil,6.2,3,Alta,Baixa,Baixa,Sim,Não,Não,4.2,133,1,Pais/Família,Média,2.63,Graduate
+1445,23,Feminino,Engenharia Civil,6.8,2,Alta,Moderada,Baixa,Não,Não,Não,5.1,379,2,Sozinho/Cônjuge,Média-Baixa,2.36,Graduate
+1446,25,Feminino,Medicina,5.9,4,Baixa,Alta,Baixa,Não,Não,Não,5.4,276,3,República/Amigos,Média-Baixa,1.72,Graduate
+1447,33,Masculino,Engenharia Civil,6.3,2,Baixa,Moderada,Baixa,Não,Não,Não,6.1,235,0,Pais/Família,Média,3.11,Graduate
+1448,30,Feminino,Administração,7.7,3,Baixa,Baixa,Moderada,Não,Não,Não,5.8,12,1,Pais/Família,Média,4.58,Graduate
+1449,18,Feminino,Direito,5.8,2,Alta,Alta,Baixa,Não,Não,Não,7.1,341,4,Pais/Família,Baixa Renda,1.66,Dropout
+1450,34,Feminino,Ciência da Computação,4.1,4,Baixa,Moderada,Baixa,Não,Não,Não,8.5,34,2,Pais/Família,Baixa Renda,3.23,Dropout
+1451,24,Feminino,Direito,9.0,0,Baixa,Baixa,Moderada,Não,Não,Não,8.8,558,2,República/Amigos,Baixa Renda,4.63,Graduate
+1452,30,Masculino,Engenharia Civil,8.6,4,Baixa,Baixa,Baixa,Sim,Não,Não,6.3,213,4,Pais/Família,Média-Baixa,1.75,Graduate
+1453,21,Masculino,Direito,4.6,0,Baixa,Baixa,Baixa,Não,Não,Não,3.7,411,1,Pais/Família,Alta,2.82,Dropout
+1454,21,Feminino,Administração,7.5,1,Alta,Alta,Baixa,Não,Não,Não,4.9,404,2,República/Amigos,Média-Baixa,1.41,Dropout
+1455,23,Feminino,Administração,5.7,4,Alta,Baixa,Moderada,Não,Não,Não,6.0,493,2,Pais/Família,Média-Baixa,3.31,Graduate
+1456,29,Masculino,Engenharia Civil,6.9,4,Alta,Baixa,Baixa,Não,Não,Não,4.5,158,3,República/Amigos,Média,2.21,Graduate
+1457,24,Feminino,Medicina,6.9,3,Alta,Moderada,Alta,Não,Não,Sim,9.3,109,0,República/Amigos,Média-Baixa,3.0,Dropout
+1458,27,Feminino,Direito,6.1,2,Moderada,Alta,Baixa,Não,Não,Não,4.6,548,1,Pais/Família,Média-Baixa,3.39,Graduate
+1459,24,Não-Binário,Medicina,5.3,0,Baixa,Moderada,Baixa,Não,Não,Não,8.2,525,1,República/Amigos,Alta,3.14,Graduate
+1460,20,Masculino,Medicina,5.5,0,Alta,Alta,Moderada,Sim,Não,Não,3.6,346,2,República/Amigos,Média,3.08,Dropout
+1461,30,Feminino,Psicologia,5.1,3,Moderada,Alta,Baixa,Não,Não,Não,8.3,278,0,Pais/Família,Média,2.33,Graduate
+1462,30,Masculino,Engenharia Civil,5.3,3,Moderada,Alta,Moderada,Sim,Não,Não,6.7,478,2,Pais/Família,Média-Baixa,3.08,Dropout
+1463,25,Feminino,Ciência da Computação,6.4,2,Alta,Moderada,Alta,Sim,Não,Não,10.0,110,2,República/Amigos,Média,3.26,Dropout
+1464,26,Masculino,Administração,5.4,2,Moderada,Alta,Moderada,Não,Não,Não,4.7,430,1,Sozinho/Cônjuge,Baixa Renda,3.25,Graduate
+1465,24,Feminino,Administração,7.5,4,Moderada,Alta,Baixa,Não,Não,Sim,5.9,541,2,República/Amigos,Média-Baixa,2.68,Graduate
+1466,18,Feminino,Engenharia Civil,8.7,1,Moderada,Baixa,Baixa,Não,Não,Não,6.3,114,2,Pais/Família,Alta,2.18,Graduate
+1467,20,Feminino,Letras,5.6,2,Moderada,Moderada,Alta,Não,Não,Não,6.7,89,1,República/Amigos,Média-Baixa,2.16,Graduate
+1468,30,Masculino,Letras,6.9,3,Baixa,Alta,Moderada,Não,Não,Não,6.3,211,2,Pais/Família,Média,3.05,Graduate
+1469,34,Masculino,Letras,7.2,2,Baixa,Alta,Alta,Não,Não,Não,6.3,549,1,República/Amigos,Média-Baixa,4.21,Graduate
+1470,18,Feminino,Ciência da Computação,7.2,0,Alta,Baixa,Baixa,Não,Não,Não,6.3,594,2,República/Amigos,Baixa Renda,2.01,Dropout
+1471,23,Feminino,Administração,6.6,1,Moderada,Baixa,Baixa,Não,Não,Não,3.0,538,0,República/Amigos,Média,3.01,Graduate
+1472,23,Masculino,Engenharia Civil,7.6,4,Baixa,Alta,Baixa,Não,Não,Não,9.0,359,0,Sozinho/Cônjuge,Baixa Renda,3.36,Graduate
+1473,29,Feminino,Administração,7.2,0,Baixa,Alta,Baixa,Não,Não,Não,12.0,485,0,República/Amigos,Média,3.46,Graduate
+1474,30,Feminino,Medicina,4.6,0,Moderada,Alta,Alta,Não,Não,Sim,7.6,371,0,República/Amigos,Baixa Renda,2.5,Dropout
+1475,30,Não-Binário,Direito,7.8,1,Moderada,Baixa,Moderada,Sim,Não,Não,4.7,214,1,Pais/Família,Alta,3.8,Graduate
+1476,32,Feminino,Direito,7.8,4,Alta,Moderada,Moderada,Não,Não,Sim,4.9,14,3,Sozinho/Cônjuge,Média-Baixa,4.33,Graduate
+1477,33,Masculino,Administração,5.4,3,Moderada,Baixa,Moderada,Não,Não,Não,8.2,258,1,Sozinho/Cônjuge,Baixa Renda,3.93,Graduate
+1478,28,Não-Binário,Psicologia,6.6,4,Moderada,Baixa,Moderada,Não,Não,Não,7.8,462,2,Pais/Família,Baixa Renda,3.9,Graduate
+1479,22,Feminino,Ciência da Computação,7.5,2,Moderada,Baixa,Baixa,Sim,Não,Não,6.4,119,0,Pais/Família,Alta,3.19,Dropout
+1480,21,Feminino,Letras,6.2,0,Moderada,Baixa,Moderada,Não,Não,Não,8.5,127,1,Pais/Família,Média,4.71,Graduate
+1481,20,Feminino,Ciência da Computação,8.1,2,Alta,Moderada,Moderada,Não,Não,Não,3.0,522,2,República/Amigos,Média,3.53,Graduate
+1482,32,Masculino,Ciência da Computação,9.0,3,Moderada,Baixa,Alta,Não,Não,Não,8.5,324,0,República/Amigos,Média-Baixa,4.49,Graduate
+1483,26,Masculino,Medicina,5.3,2,Moderada,Baixa,Baixa,Sim,Não,Sim,7.5,319,2,Pais/Família,Média-Baixa,1.84,Graduate
+1484,34,Masculino,Ciência da Computação,4.4,4,Alta,Moderada,Moderada,Não,Não,Não,5.0,505,2,Sozinho/Cônjuge,Baixa Renda,2.45,Dropout
+1485,31,Feminino,Direito,7.0,2,Moderada,Moderada,Baixa,Não,Sim,Não,4.1,525,0,Pais/Família,Média-Baixa,2.83,Dropout
+1486,32,Masculino,Medicina,7.6,3,Baixa,Moderada,Moderada,Não,Não,Não,7.2,49,1,República/Amigos,Baixa Renda,3.31,Graduate
+1487,18,Masculino,Engenharia Civil,6.2,3,Alta,Alta,Moderada,Sim,Não,Não,9.8,583,2,Pais/Família,Alta,2.39,Graduate
+1488,20,Masculino,Ciência da Computação,8.7,3,Alta,Baixa,Baixa,Não,Não,Não,6.5,68,3,Pais/Família,Média,3.2,Graduate
+1489,33,Masculino,Ciência da Computação,4.5,4,Baixa,Moderada,Moderada,Não,Não,Não,5.3,390,2,Pais/Família,Média-Baixa,2.82,Graduate
+1490,28,Masculino,Engenharia Civil,7.5,3,Baixa,Baixa,Baixa,Sim,Não,Não,7.4,382,1,Pais/Família,Baixa Renda,2.82,Graduate
+1491,29,Masculino,Ciência da Computação,5.6,0,Baixa,Moderada,Alta,Sim,Não,Não,10.6,15,0,República/Amigos,Média,4.76,Graduate
+1492,27,Masculino,Engenharia Civil,9.0,3,Moderada,Baixa,Baixa,Não,Não,Não,7.9,438,0,República/Amigos,Baixa Renda,2.34,Graduate
+1493,33,Feminino,Medicina,9.0,2,Moderada,Moderada,Alta,Sim,Não,Não,8.1,567,2,Pais/Família,Baixa Renda,4.42,Graduate
+1494,25,Feminino,Direito,5.4,2,Baixa,Moderada,Baixa,Sim,Não,Não,9.4,131,1,Pais/Família,Baixa Renda,2.26,Graduate
+1495,23,Masculino,Engenharia Civil,5.7,2,Baixa,Moderada,Moderada,Não,Não,Sim,7.9,559,1,Pais/Família,Média-Baixa,3.22,Graduate
+1496,29,Feminino,Psicologia,7.8,4,Moderada,Alta,Alta,Não,Não,Não,5.4,247,1,República/Amigos,Média,2.04,Graduate
+1497,25,Masculino,Engenharia Civil,5.9,2,Baixa,Moderada,Baixa,Sim,Não,Não,3.5,272,1,República/Amigos,Média-Baixa,2.86,Graduate
+1498,21,Não-Binário,Ciência da Computação,6.4,4,Baixa,Alta,Moderada,Não,Não,Não,5.2,348,1,Pais/Família,Baixa Renda,4.9,Graduate
+1499,25,Masculino,Letras,6.5,4,Baixa,Baixa,Alta,Sim,Sim,Sim,4.8,483,0,República/Amigos,Média-Baixa,4.39,Graduate
+1500,22,Feminino,Letras,4.0,3,Baixa,Moderada,Baixa,Sim,Não,Sim,8.3,549,3,Pais/Família,Média,2.56,Graduate
+1501,26,Feminino,Medicina,6.5,0,Baixa,Baixa,Baixa,Sim,Não,Não,8.6,356,2,Sozinho/Cônjuge,Baixa Renda,2.41,Graduate
+1502,21,Feminino,Administração,5.5,3,Baixa,Baixa,Baixa,Não,Não,Não,7.4,317,2,Sozinho/Cônjuge,Baixa Renda,2.39,Graduate
+1503,34,Masculino,Medicina,5.8,3,Baixa,Alta,Moderada,Sim,Não,Sim,4.5,47,1,República/Amigos,Alta,3.11,Dropout
+1504,26,Masculino,Administração,8.7,4,Baixa,Alta,Moderada,Sim,Não,Não,10.6,9,0,Sozinho/Cônjuge,Alta,3.11,Graduate
+1505,18,Masculino,Letras,4.6,4,Baixa,Moderada,Baixa,Não,Não,Não,6.2,232,2,Sozinho/Cônjuge,Alta,2.48,Dropout
+1506,30,Feminino,Letras,7.7,2,Baixa,Baixa,Moderada,Não,Sim,Não,8.2,35,2,Sozinho/Cônjuge,Média,3.11,Graduate
+1507,33,Masculino,Engenharia Civil,6.1,2,Moderada,Alta,Baixa,Não,Não,Sim,7.1,412,2,República/Amigos,Baixa Renda,2.94,Graduate
+1508,30,Masculino,Direito,6.1,3,Moderada,Moderada,Alta,Não,Não,Não,7.4,461,3,Pais/Família,Baixa Renda,3.08,Dropout
+1509,31,Feminino,Psicologia,7.7,1,Baixa,Moderada,Moderada,Sim,Não,Não,8.1,3,3,Pais/Família,Média-Baixa,3.03,Graduate
+1510,20,Masculino,Medicina,7.0,1,Alta,Baixa,Alta,Não,Não,Sim,5.6,43,1,Pais/Família,Média-Baixa,4.73,Graduate
+1511,23,Feminino,Ciência da Computação,7.4,2,Moderada,Baixa,Baixa,Não,Não,Não,9.6,567,0,República/Amigos,Alta,2.49,Dropout
+1512,22,Feminino,Administração,8.0,1,Moderada,Baixa,Baixa,Não,Não,Não,3.8,553,0,Pais/Família,Média,2.92,Dropout
+1513,32,Masculino,Ciência da Computação,6.0,2,Moderada,Baixa,Baixa,Não,Não,Não,4.9,254,4,Pais/Família,Média,2.4,Graduate
+1514,19,Feminino,Direito,5.6,4,Baixa,Baixa,Moderada,Não,Não,Não,9.6,113,2,Pais/Família,Baixa Renda,3.95,Graduate
+1515,27,Masculino,Administração,4.9,3,Alta,Baixa,Baixa,Sim,Não,Sim,8.2,396,2,Pais/Família,Alta,2.39,Graduate
+1516,30,Masculino,Medicina,5.3,0,Baixa,Moderada,Alta,Não,Não,Sim,12.0,173,2,República/Amigos,Média,4.59,Graduate
+1517,22,Masculino,Engenharia Civil,9.0,3,Moderada,Moderada,Baixa,Sim,Sim,Não,7.1,254,1,Sozinho/Cônjuge,Baixa Renda,2.82,Graduate
+1518,18,Feminino,Ciência da Computação,8.4,2,Baixa,Moderada,Baixa,Não,Não,Não,10.4,465,0,República/Amigos,Média,3.32,Dropout
+1519,18,Masculino,Direito,4.5,2,Baixa,Moderada,Baixa,Não,Não,Não,3.3,276,4,República/Amigos,Média-Baixa,2.11,Dropout
+1520,32,Masculino,Medicina,4.5,3,Moderada,Baixa,Alta,Não,Não,Não,4.2,463,3,República/Amigos,Baixa Renda,4.52,Graduate
+1521,34,Masculino,Letras,7.2,2,Baixa,Moderada,Alta,Não,Não,Não,8.8,501,4,Pais/Família,Média,2.84,Graduate
+1522,28,Feminino,Letras,7.3,1,Moderada,Moderada,Moderada,Não,Não,Não,3.5,440,2,Pais/Família,Média,4.67,Graduate
+1523,34,Feminino,Medicina,7.3,1,Alta,Alta,Baixa,Não,Não,Não,6.6,68,2,Sozinho/Cônjuge,Baixa Renda,0.78,Dropout
+1524,30,Masculino,Medicina,6.1,2,Baixa,Moderada,Alta,Não,Não,Não,9.3,508,1,Pais/Família,Média-Baixa,3.45,Graduate
+1525,18,Feminino,Medicina,6.3,2,Moderada,Baixa,Alta,Não,Não,Não,8.0,325,2,Pais/Família,Alta,3.65,Graduate
+1526,19,Masculino,Administração,7.0,1,Moderada,Baixa,Moderada,Não,Não,Não,7.0,66,1,República/Amigos,Média,4.73,Graduate
+1527,26,Masculino,Medicina,6.6,2,Baixa,Alta,Moderada,Não,Não,Sim,6.1,303,4,Pais/Família,Média,2.74,Graduate
+1528,20,Masculino,Ciência da Computação,4.0,2,Alta,Moderada,Moderada,Não,Não,Não,7.4,483,2,Pais/Família,Baixa Renda,2.96,Dropout
+1529,18,Masculino,Direito,6.2,3,Alta,Moderada,Moderada,Não,Não,Não,8.2,547,4,Pais/Família,Baixa Renda,2.09,Dropout
+1530,33,Não-Binário,Administração,5.2,0,Moderada,Moderada,Baixa,Não,Sim,Não,5.7,416,1,Pais/Família,Média-Baixa,2.87,Dropout
+1531,23,Masculino,Medicina,6.8,1,Moderada,Alta,Moderada,Não,Não,Sim,7.7,158,1,Pais/Família,Baixa Renda,3.88,Graduate
+1532,34,Masculino,Psicologia,9.0,3,Baixa,Moderada,Baixa,Sim,Sim,Não,9.2,148,0,Pais/Família,Baixa Renda,3.23,Dropout
+1533,22,Masculino,Psicologia,7.1,0,Baixa,Baixa,Alta,Não,Não,Não,6.6,26,0,República/Amigos,Baixa Renda,4.06,Dropout
+1534,22,Feminino,Direito,6.0,2,Alta,Baixa,Moderada,Não,Não,Não,7.1,583,0,Sozinho/Cônjuge,Média-Baixa,3.12,Graduate
+1535,23,Feminino,Letras,7.9,2,Baixa,Baixa,Alta,Não,Não,Não,8.0,247,3,Pais/Família,Média-Baixa,4.23,Graduate
+1536,20,Masculino,Engenharia Civil,7.2,3,Baixa,Alta,Moderada,Não,Não,Sim,8.1,100,2,Sozinho/Cônjuge,Média,4.27,Graduate
+1537,22,Feminino,Engenharia Civil,7.1,2,Baixa,Baixa,Baixa,Sim,Não,Não,8.8,95,2,Pais/Família,Baixa Renda,2.84,Dropout
+1538,22,Feminino,Letras,7.4,4,Moderada,Alta,Baixa,Não,Não,Não,5.0,383,2,Pais/Família,Média-Baixa,1.95,Graduate
+1539,27,Feminino,Administração,9.0,3,Alta,Baixa,Moderada,Não,Não,Não,5.9,281,0,Pais/Família,Baixa Renda,4.78,Graduate
+1540,27,Masculino,Administração,4.8,0,Baixa,Alta,Baixa,Não,Não,Não,6.0,321,0,República/Amigos,Média-Baixa,3.21,Graduate
+1541,34,Masculino,Administração,7.2,3,Alta,Baixa,Baixa,Não,Não,Não,5.2,395,1,Pais/Família,Baixa Renda,2.1,Graduate
+1542,31,Masculino,Engenharia Civil,5.1,1,Baixa,Alta,Moderada,Sim,Não,Não,3.4,277,1,República/Amigos,Alta,4.1,Graduate
+1543,26,Masculino,Psicologia,7.3,3,Baixa,Moderada,Baixa,Sim,Sim,Não,3.0,528,2,República/Amigos,Média,2.78,Graduate
+1544,31,Masculino,Engenharia Civil,5.1,2,Alta,Baixa,Moderada,Não,Sim,Não,9.4,262,1,República/Amigos,Média-Baixa,4.31,Graduate
+1545,18,Feminino,Ciência da Computação,5.9,2,Moderada,Moderada,Baixa,Não,Não,Não,3.9,579,1,República/Amigos,Baixa Renda,3.29,Dropout
+1546,30,Masculino,Medicina,6.1,4,Moderada,Alta,Baixa,Não,Não,Não,10.1,292,0,Sozinho/Cônjuge,Média-Baixa,2.48,Dropout
+1547,30,Feminino,Administração,8.0,4,Baixa,Moderada,Baixa,Sim,Não,Não,8.5,293,3,Pais/Família,Média,2.11,Dropout
+1548,21,Não-Binário,Psicologia,7.9,4,Alta,Moderada,Alta,Não,Não,Não,6.2,394,2,Pais/Família,Baixa Renda,1.87,Graduate
+1549,18,Masculino,Direito,4.6,0,Moderada,Baixa,Baixa,Não,Não,Sim,8.2,512,3,República/Amigos,Média-Baixa,2.4,Dropout
+1550,34,Feminino,Direito,6.6,4,Alta,Baixa,Baixa,Não,Não,Não,7.9,179,2,República/Amigos,Média,2.19,Graduate
+1551,25,Feminino,Medicina,5.4,0,Baixa,Moderada,Baixa,Sim,Não,Sim,4.8,234,1,Pais/Família,Média,2.07,Dropout
+1552,19,Feminino,Psicologia,4.6,4,Alta,Baixa,Moderada,Não,Não,Não,7.0,336,1,Pais/Família,Média,2.97,Graduate
+1553,25,Feminino,Engenharia Civil,6.2,0,Moderada,Alta,Baixa,Não,Não,Não,5.0,7,3,Pais/Família,Média,2.75,Dropout
+1554,24,Feminino,Engenharia Civil,6.0,3,Baixa,Baixa,Alta,Não,Não,Não,8.3,442,3,Pais/Família,Alta,3.6,Graduate
+1555,19,Masculino,Ciência da Computação,9.0,3,Baixa,Baixa,Moderada,Não,Não,Não,5.6,538,0,Pais/Família,Média-Baixa,4.36,Graduate
+1556,20,Masculino,Ciência da Computação,7.1,2,Baixa,Moderada,Moderada,Não,Não,Não,6.8,90,2,Sozinho/Cônjuge,Média-Baixa,3.16,Dropout
+1557,29,Masculino,Engenharia Civil,4.4,0,Moderada,Baixa,Alta,Não,Não,Não,6.7,271,2,República/Amigos,Média,2.96,Graduate
+1558,18,Masculino,Direito,5.7,1,Baixa,Baixa,Moderada,Não,Não,Não,7.2,4,0,Pais/Família,Média,3.27,Graduate
+1559,29,Masculino,Administração,8.0,2,Moderada,Alta,Alta,Sim,Não,Não,10.3,593,2,República/Amigos,Alta,3.11,Graduate
+1560,22,Masculino,Direito,9.0,3,Alta,Alta,Baixa,Não,Não,Não,6.5,218,3,Sozinho/Cônjuge,Baixa Renda,0.21,Dropout
+1561,34,Feminino,Ciência da Computação,4.1,0,Baixa,Baixa,Moderada,Sim,Não,Sim,9.4,117,1,Pais/Família,Média-Baixa,3.08,Graduate
+1562,33,Masculino,Medicina,4.0,4,Alta,Baixa,Alta,Não,Sim,Não,8.0,592,2,Pais/Família,Média-Baixa,4.0,Graduate
+1563,32,Feminino,Engenharia Civil,9.0,1,Moderada,Alta,Moderada,Não,Sim,Não,9.8,581,3,República/Amigos,Média-Baixa,2.76,Graduate
+1564,32,Não-Binário,Ciência da Computação,7.1,3,Moderada,Baixa,Baixa,Não,Não,Não,6.3,114,2,República/Amigos,Baixa Renda,2.84,Graduate
+1565,22,Masculino,Ciência da Computação,5.2,2,Moderada,Baixa,Alta,Não,Sim,Não,8.4,262,1,Pais/Família,Média,3.37,Graduate
+1566,31,Masculino,Administração,7.3,0,Alta,Baixa,Moderada,Sim,Não,Não,6.9,305,1,Sozinho/Cônjuge,Baixa Renda,4.12,Graduate
+1567,19,Feminino,Engenharia Civil,4.0,1,Moderada,Baixa,Baixa,Não,Não,Não,3.0,421,2,Pais/Família,Média,2.57,Dropout
+1568,28,Masculino,Administração,6.5,0,Moderada,Baixa,Baixa,Não,Não,Não,4.8,206,3,Pais/Família,Média,2.53,Graduate
+1569,24,Masculino,Engenharia Civil,7.0,4,Baixa,Baixa,Moderada,Sim,Não,Não,8.2,302,1,Pais/Família,Média-Baixa,3.57,Graduate
+1570,23,Feminino,Administração,7.9,2,Moderada,Alta,Baixa,Não,Não,Não,8.0,111,2,Pais/Família,Média-Baixa,2.34,Dropout
+1571,19,Feminino,Direito,5.0,0,Baixa,Alta,Baixa,Sim,Não,Não,4.4,416,2,República/Amigos,Média,2.4,Graduate
+1572,23,Masculino,Medicina,6.6,3,Baixa,Alta,Moderada,Não,Não,Não,7.4,554,2,Sozinho/Cônjuge,Média,4.06,Graduate
+1573,19,Feminino,Medicina,5.1,2,Alta,Baixa,Baixa,Não,Não,Não,8.0,284,3,Pais/Família,Média,2.51,Dropout
+1574,32,Masculino,Engenharia Civil,6.9,3,Moderada,Alta,Moderada,Sim,Não,Não,6.9,184,2,Sozinho/Cônjuge,Média,3.31,Graduate
+1575,19,Feminino,Psicologia,5.2,0,Baixa,Moderada,Baixa,Não,Não,Sim,8.5,220,2,Sozinho/Cônjuge,Alta,3.28,Dropout
+1576,23,Feminino,Letras,5.9,2,Alta,Moderada,Moderada,Sim,Não,Não,8.2,443,1,Pais/Família,Média-Baixa,4.69,Graduate
+1577,18,Masculino,Ciência da Computação,5.0,3,Moderada,Moderada,Baixa,Sim,Não,Não,6.9,116,0,República/Amigos,Alta,2.14,Dropout
+1578,32,Feminino,Ciência da Computação,7.5,4,Moderada,Alta,Baixa,Sim,Sim,Não,6.0,69,0,Pais/Família,Média,2.41,Graduate
+1579,27,Masculino,Engenharia Civil,7.8,4,Baixa,Alta,Baixa,Não,Não,Não,9.1,69,1,República/Amigos,Média,2.91,Graduate
+1580,34,Feminino,Administração,6.1,0,Alta,Baixa,Baixa,Não,Sim,Não,7.9,426,5,Pais/Família,Baixa Renda,2.75,Graduate
+1581,22,Feminino,Psicologia,6.6,2,Alta,Moderada,Baixa,Não,Não,Não,4.2,567,3,República/Amigos,Alta,2.71,Graduate
+1582,21,Masculino,Direito,4.3,1,Baixa,Alta,Moderada,Sim,Sim,Não,7.4,442,4,Pais/Família,Média-Baixa,3.93,Graduate
+1583,27,Masculino,Administração,6.1,2,Alta,Moderada,Moderada,Sim,Não,Não,4.7,136,1,Sozinho/Cônjuge,Média,2.51,Graduate
+1584,34,Masculino,Administração,6.4,4,Alta,Baixa,Alta,Não,Não,Sim,5.1,503,1,Sozinho/Cônjuge,Baixa Renda,2.97,Graduate
+1585,27,Masculino,Engenharia Civil,9.0,3,Baixa,Baixa,Moderada,Não,Não,Não,5.7,130,2,Pais/Família,Média-Baixa,4.52,Graduate
+1586,34,Masculino,Engenharia Civil,4.8,1,Alta,Baixa,Alta,Não,Não,Não,7.1,217,0,Pais/Família,Média-Baixa,4.1,Graduate
+1587,22,Feminino,Ciência da Computação,8.7,0,Baixa,Moderada,Alta,Sim,Não,Não,7.7,170,1,Pais/Família,Média-Baixa,4.49,Graduate
+1588,19,Feminino,Engenharia Civil,8.0,1,Moderada,Moderada,Alta,Não,Não,Não,6.2,474,1,República/Amigos,Baixa Renda,3.33,Graduate
+1589,23,Masculino,Engenharia Civil,6.9,0,Alta,Baixa,Baixa,Não,Não,Não,6.3,128,1,Pais/Família,Média,3.27,Dropout
+1590,19,Masculino,Engenharia Civil,9.0,1,Moderada,Alta,Baixa,Não,Não,Não,6.0,56,1,República/Amigos,Baixa Renda,2.4,Graduate
+1591,30,Masculino,Ciência da Computação,7.1,0,Moderada,Baixa,Moderada,Não,Não,Não,9.1,180,2,Pais/Família,Média-Baixa,4.41,Graduate
+1592,28,Feminino,Direito,7.1,0,Baixa,Baixa,Alta,Sim,Não,Não,3.0,245,3,Pais/Família,Baixa Renda,3.85,Graduate
+1593,28,Feminino,Direito,6.4,1,Alta,Baixa,Alta,Não,Não,Não,6.4,143,0,Pais/Família,Média-Baixa,3.21,Graduate
+1594,33,Masculino,Letras,8.3,1,Moderada,Moderada,Moderada,Não,Sim,Não,10.1,50,1,Pais/Família,Média-Baixa,4.39,Graduate
+1595,28,Masculino,Letras,8.1,0,Baixa,Baixa,Baixa,Não,Não,Não,8.0,367,2,República/Amigos,Média-Baixa,2.11,Graduate
+1596,32,Masculino,Engenharia Civil,5.6,4,Moderada,Moderada,Moderada,Não,Não,Não,9.5,458,1,Sozinho/Cônjuge,Média-Baixa,4.27,Graduate
+1597,33,Masculino,Letras,4.5,1,Moderada,Baixa,Baixa,Não,Não,Não,3.0,217,2,Pais/Família,Média,2.17,Dropout
+1598,28,Masculino,Ciência da Computação,6.2,2,Baixa,Baixa,Moderada,Não,Não,Não,4.5,566,1,República/Amigos,Baixa Renda,3.34,Graduate
+1599,33,Feminino,Direito,5.3,3,Moderada,Moderada,Moderada,Não,Não,Não,8.0,256,3,Pais/Família,Baixa Renda,2.77,Graduate
+1600,25,Feminino,Administração,6.4,0,Baixa,Alta,Baixa,Não,Não,Não,10.1,155,3,República/Amigos,Baixa Renda,2.89,Dropout
+1601,21,Feminino,Direito,8.4,0,Baixa,Baixa,Baixa,Não,Não,Não,4.7,564,2,Pais/Família,Alta,2.95,Graduate
+1602,25,Feminino,Direito,5.8,3,Baixa,Alta,Baixa,Não,Não,Não,6.2,441,0,República/Amigos,Média-Baixa,3.05,Graduate
+1603,21,Masculino,Ciência da Computação,6.4,4,Moderada,Moderada,Baixa,Não,Não,Não,7.8,24,1,Sozinho/Cônjuge,Média-Baixa,2.97,Graduate
+1604,20,Feminino,Letras,6.6,3,Moderada,Moderada,Baixa,Sim,Não,Não,4.1,535,3,Pais/Família,Baixa Renda,1.89,Dropout
+1605,20,Masculino,Administração,7.8,1,Alta,Baixa,Baixa,Não,Não,Não,8.0,59,1,República/Amigos,Média-Baixa,3.28,Graduate
+1606,22,Feminino,Ciência da Computação,4.0,3,Moderada,Moderada,Moderada,Não,Não,Sim,3.0,466,1,Pais/Família,Baixa Renda,3.87,Graduate
+1607,27,Feminino,Engenharia Civil,5.6,0,Alta,Moderada,Baixa,Sim,Não,Não,8.0,433,1,Pais/Família,Baixa Renda,2.32,Graduate
+1608,23,Feminino,Medicina,6.8,3,Alta,Baixa,Moderada,Não,Não,Não,5.0,65,2,Pais/Família,Média-Baixa,4.67,Graduate
+1609,18,Feminino,Direito,8.3,2,Baixa,Moderada,Baixa,Não,Sim,Não,6.1,564,2,Pais/Família,Média-Baixa,2.43,Graduate
+1610,22,Masculino,Medicina,5.8,1,Baixa,Baixa,Baixa,Não,Não,Não,8.3,105,3,Pais/Família,Baixa Renda,2.22,Graduate
+1611,26,Feminino,Ciência da Computação,4.0,3,Baixa,Baixa,Baixa,Não,Não,Sim,7.9,95,1,Pais/Família,Média,2.48,Graduate
+1612,29,Masculino,Ciência da Computação,7.4,0,Baixa,Moderada,Moderada,Não,Não,Não,7.0,550,2,Pais/Família,Alta,4.76,Graduate
+1613,31,Feminino,Ciência da Computação,5.5,1,Baixa,Moderada,Moderada,Não,Não,Sim,8.9,167,1,Pais/Família,Média-Baixa,4.59,Graduate
+1614,19,Feminino,Medicina,4.7,0,Baixa,Baixa,Moderada,Não,Sim,Não,3.6,41,2,República/Amigos,Média,4.77,Graduate
+1615,34,Feminino,Ciência da Computação,5.6,4,Baixa,Alta,Alta,Não,Não,Não,7.4,103,2,Sozinho/Cônjuge,Alta,3.77,Graduate
+1616,31,Masculino,Engenharia Civil,6.2,2,Moderada,Baixa,Alta,Não,Não,Não,5.4,203,2,Pais/Família,Média,3.43,Graduate
+1617,30,Masculino,Ciência da Computação,5.6,4,Baixa,Baixa,Moderada,Não,Não,Não,8.8,519,0,Pais/Família,Média-Baixa,3.4,Graduate
+1618,26,Feminino,Psicologia,4.0,2,Alta,Baixa,Baixa,Não,Não,Não,8.4,281,1,Pais/Família,Média,2.7,Graduate
+1619,32,Feminino,Letras,7.8,3,Alta,Moderada,Moderada,Sim,Sim,Não,8.4,42,0,Sozinho/Cônjuge,Baixa Renda,3.22,Dropout
+1620,32,Masculino,Medicina,8.4,1,Alta,Alta,Alta,Não,Não,Não,10.3,109,1,República/Amigos,Média-Baixa,2.66,Graduate
+1621,28,Feminino,Psicologia,7.5,3,Baixa,Baixa,Moderada,Sim,Não,Não,9.3,209,3,Pais/Família,Média-Baixa,3.09,Dropout
+1622,33,Feminino,Ciência da Computação,4.8,2,Baixa,Moderada,Baixa,Não,Não,Não,6.7,48,2,Pais/Família,Baixa Renda,3.08,Dropout
+1623,34,Masculino,Engenharia Civil,6.2,2,Baixa,Baixa,Moderada,Não,Não,Não,7.0,114,1,Pais/Família,Média-Baixa,4.68,Graduate
+1624,21,Masculino,Direito,6.5,2,Moderada,Moderada,Moderada,Não,Não,Sim,8.2,154,2,Pais/Família,Baixa Renda,3.72,Graduate
+1625,18,Feminino,Administração,7.4,0,Baixa,Alta,Moderada,Não,Não,Não,7.3,502,2,Sozinho/Cônjuge,Média,3.53,Graduate
+1626,25,Masculino,Letras,7.5,1,Moderada,Baixa,Baixa,Não,Não,Não,8.4,70,2,Sozinho/Cônjuge,Média-Baixa,3.04,Dropout
+1627,34,Masculino,Administração,5.4,3,Alta,Baixa,Baixa,Não,Não,Não,3.0,518,0,Pais/Família,Média-Baixa,2.87,Graduate
+1628,20,Feminino,Ciência da Computação,6.6,3,Alta,Moderada,Moderada,Sim,Não,Não,10.8,335,1,República/Amigos,Baixa Renda,2.9,Graduate
+1629,32,Masculino,Letras,7.2,4,Baixa,Baixa,Alta,Sim,Não,Não,7.1,66,1,Pais/Família,Baixa Renda,3.71,Graduate
+1630,32,Masculino,Letras,8.7,2,Moderada,Alta,Alta,Não,Não,Não,3.8,492,1,Pais/Família,Média-Baixa,2.19,Graduate
+1631,31,Feminino,Engenharia Civil,7.6,2,Moderada,Moderada,Baixa,Não,Não,Não,5.2,212,1,Sozinho/Cônjuge,Alta,3.12,Graduate
+1632,31,Feminino,Letras,7.7,2,Baixa,Baixa,Moderada,Sim,Não,Sim,3.0,180,0,República/Amigos,Baixa Renda,4.58,Graduate
+1633,19,Feminino,Medicina,6.6,3,Moderada,Alta,Baixa,Não,Não,Não,4.8,598,0,Pais/Família,Média-Baixa,2.36,Graduate
+1634,30,Masculino,Psicologia,8.6,4,Alta,Moderada,Baixa,Não,Não,Não,6.7,247,1,Pais/Família,Média,2.12,Dropout
+1635,31,Feminino,Psicologia,7.1,0,Moderada,Moderada,Moderada,Sim,Não,Não,10.0,213,1,Sozinho/Cônjuge,Baixa Renda,1.99,Graduate
+1636,24,Masculino,Psicologia,5.2,1,Moderada,Baixa,Moderada,Não,Não,Não,7.8,358,0,República/Amigos,Média,4.97,Graduate
+1637,20,Masculino,Medicina,8.6,0,Moderada,Baixa,Baixa,Não,Não,Sim,7.5,248,3,Pais/Família,Média-Baixa,2.2,Dropout
+1638,32,Feminino,Administração,7.5,3,Alta,Alta,Baixa,Sim,Não,Não,4.7,515,2,Pais/Família,Média-Baixa,1.97,Dropout
+1639,31,Masculino,Engenharia Civil,5.8,2,Moderada,Baixa,Moderada,Não,Não,Não,5.4,87,2,Pais/Família,Média-Baixa,4.04,Graduate
+1640,28,Feminino,Letras,5.8,1,Moderada,Baixa,Moderada,Não,Não,Sim,5.5,175,1,Sozinho/Cônjuge,Média-Baixa,4.32,Graduate
+1641,32,Masculino,Medicina,6.9,3,Baixa,Moderada,Moderada,Não,Não,Não,5.6,425,0,República/Amigos,Média-Baixa,3.27,Dropout
+1642,30,Masculino,Psicologia,7.2,3,Baixa,Alta,Alta,Não,Não,Sim,6.3,80,2,Pais/Família,Média,3.69,Graduate
+1643,23,Feminino,Ciência da Computação,6.8,3,Baixa,Alta,Alta,Não,Não,Não,6.4,137,0,República/Amigos,Média,3.61,Graduate
+1644,20,Feminino,Direito,7.0,1,Alta,Baixa,Moderada,Não,Não,Não,6.3,432,1,República/Amigos,Média,4.75,Graduate
+1645,32,Feminino,Letras,9.0,1,Baixa,Alta,Baixa,Sim,Não,Não,5.7,469,1,Pais/Família,Média,1.98,Graduate
+1646,22,Feminino,Medicina,8.1,4,Moderada,Baixa,Alta,Não,Não,Não,7.3,349,2,Pais/Família,Média-Baixa,4.2,Graduate
+1647,27,Feminino,Medicina,6.8,4,Moderada,Baixa,Moderada,Não,Não,Não,6.4,125,1,República/Amigos,Média,4.4,Graduate
+1648,24,Feminino,Engenharia Civil,7.9,0,Moderada,Baixa,Moderada,Sim,Não,Não,3.8,308,0,República/Amigos,Média-Baixa,3.08,Graduate
+1649,34,Não-Binário,Engenharia Civil,5.0,1,Alta,Baixa,Baixa,Não,Não,Não,7.1,229,2,República/Amigos,Média,2.76,Graduate
+1650,24,Feminino,Medicina,7.1,1,Baixa,Moderada,Alta,Não,Não,Não,6.8,459,0,Sozinho/Cônjuge,Média-Baixa,4.93,Graduate
+1651,29,Feminino,Psicologia,9.0,1,Moderada,Baixa,Moderada,Não,Sim,Não,3.8,344,2,Pais/Família,Média,3.98,Graduate
+1652,34,Masculino,Direito,6.2,4,Baixa,Baixa,Alta,Não,Não,Sim,5.8,309,2,Pais/Família,Média,2.93,Graduate
+1653,30,Feminino,Letras,5.2,3,Moderada,Alta,Alta,Não,Não,Não,8.2,19,0,Sozinho/Cônjuge,Média-Baixa,3.03,Graduate
+1654,21,Não-Binário,Engenharia Civil,5.5,2,Baixa,Moderada,Moderada,Não,Não,Não,4.7,560,2,Pais/Família,Baixa Renda,3.66,Graduate
+1655,27,Masculino,Letras,4.9,4,Alta,Baixa,Moderada,Não,Não,Sim,4.5,540,1,República/Amigos,Média-Baixa,4.49,Graduate
+1656,20,Masculino,Psicologia,5.3,1,Moderada,Alta,Moderada,Não,Não,Não,6.4,559,1,República/Amigos,Média-Baixa,2.02,Graduate
+1657,26,Feminino,Letras,5.9,4,Alta,Alta,Baixa,Não,Não,Não,8.2,476,0,República/Amigos,Média,2.34,Dropout
+1658,30,Feminino,Ciência da Computação,4.4,0,Baixa,Moderada,Alta,Não,Não,Não,10.6,268,4,Pais/Família,Alta,3.4,Graduate
+1659,32,Feminino,Engenharia Civil,6.5,1,Baixa,Alta,Alta,Não,Sim,Não,8.3,2,2,República/Amigos,Média-Baixa,4.0,Graduate
+1660,21,Masculino,Psicologia,7.9,0,Baixa,Moderada,Alta,Não,Não,Não,9.2,15,3,Sozinho/Cônjuge,Média-Baixa,3.05,Graduate
+1661,32,Feminino,Psicologia,5.1,1,Alta,Alta,Moderada,Não,Não,Não,7.7,357,2,República/Amigos,Média,2.46,Dropout
+1662,19,Feminino,Direito,8.8,4,Moderada,Alta,Baixa,Não,Não,Não,5.6,132,3,Pais/Família,Baixa Renda,2.4,Dropout
+1663,32,Não-Binário,Direito,7.3,3,Moderada,Baixa,Baixa,Sim,Sim,Não,8.3,311,2,Pais/Família,Média-Baixa,2.9,Graduate
+1664,25,Feminino,Ciência da Computação,8.0,2,Baixa,Moderada,Moderada,Não,Não,Não,6.8,481,0,Pais/Família,Alta,3.94,Graduate
+1665,25,Feminino,Psicologia,5.5,0,Baixa,Alta,Baixa,Não,Não,Não,7.8,543,2,Pais/Família,Média,2.45,Dropout
+1666,34,Feminino,Administração,7.8,4,Baixa,Baixa,Baixa,Sim,Não,Sim,5.1,304,1,Pais/Família,Baixa Renda,3.36,Dropout
+1667,29,Não-Binário,Psicologia,4.9,3,Alta,Moderada,Alta,Não,Não,Sim,7.9,268,1,Sozinho/Cônjuge,Baixa Renda,2.07,Graduate
+1668,27,Feminino,Direito,7.8,4,Alta,Moderada,Alta,Não,Não,Não,6.8,413,3,República/Amigos,Média,2.69,Dropout
+1669,26,Masculino,Administração,6.8,0,Moderada,Moderada,Moderada,Não,Não,Não,7.5,24,0,República/Amigos,Média,2.29,Graduate
+1670,22,Masculino,Engenharia Civil,7.3,2,Alta,Baixa,Baixa,Sim,Não,Não,6.8,315,3,República/Amigos,Média,2.24,Dropout
+1671,23,Feminino,Engenharia Civil,4.7,4,Alta,Alta,Baixa,Não,Não,Não,6.4,570,2,Pais/Família,Média-Baixa,1.03,Dropout
+1672,19,Masculino,Letras,5.2,1,Moderada,Alta,Moderada,Não,Não,Não,8.0,275,1,Sozinho/Cônjuge,Alta,3.94,Graduate
+1673,30,Feminino,Medicina,7.4,3,Baixa,Alta,Baixa,Sim,Não,Sim,6.2,388,2,Pais/Família,Média-Baixa,3.0,Dropout
+1674,23,Feminino,Direito,5.1,4,Baixa,Alta,Moderada,Não,Não,Não,3.8,443,2,Pais/Família,Média,3.13,Dropout
+1675,22,Masculino,Medicina,7.2,3,Baixa,Baixa,Alta,Não,Não,Sim,3.3,426,2,Pais/Família,Média-Baixa,3.26,Dropout
+1676,18,Masculino,Administração,4.4,1,Baixa,Moderada,Moderada,Não,Não,Não,7.4,56,0,Sozinho/Cônjuge,Baixa Renda,3.69,Graduate
+1677,23,Masculino,Direito,7.8,2,Moderada,Alta,Alta,Não,Sim,Não,6.1,565,1,Sozinho/Cônjuge,Alta,4.06,Graduate
+1678,23,Masculino,Ciência da Computação,4.7,2,Moderada,Baixa,Baixa,Não,Não,Não,3.5,367,0,Pais/Família,Baixa Renda,2.14,Dropout
+1679,33,Feminino,Psicologia,7.3,1,Moderada,Baixa,Moderada,Não,Não,Não,7.2,341,1,Sozinho/Cônjuge,Média-Baixa,3.32,Graduate
+1680,21,Feminino,Ciência da Computação,7.4,3,Baixa,Baixa,Alta,Sim,Não,Não,6.8,303,3,Pais/Família,Média,3.43,Graduate
+1681,28,Feminino,Administração,5.5,4,Baixa,Alta,Moderada,Sim,Não,Não,6.0,373,1,Pais/Família,Média,3.6,Graduate
+1682,26,Feminino,Direito,7.4,1,Baixa,Moderada,Alta,Não,Sim,Não,7.5,111,3,Sozinho/Cônjuge,Média,4.29,Graduate
+1683,20,Feminino,Administração,6.9,0,Baixa,Alta,Moderada,Não,Não,Sim,9.6,5,0,Sozinho/Cônjuge,Média-Baixa,3.05,Graduate
+1684,25,Feminino,Psicologia,5.7,3,Baixa,Baixa,Moderada,Não,Não,Não,9.6,278,1,República/Amigos,Média-Baixa,3.43,Graduate
+1685,22,Feminino,Engenharia Civil,5.0,2,Alta,Moderada,Moderada,Sim,Não,Não,7.3,381,1,República/Amigos,Alta,1.92,Graduate
+1686,21,Feminino,Engenharia Civil,4.0,1,Baixa,Moderada,Moderada,Sim,Não,Não,6.8,12,4,Sozinho/Cônjuge,Baixa Renda,3.31,Graduate
+1687,23,Masculino,Administração,7.0,2,Baixa,Alta,Baixa,Não,Não,Sim,7.3,302,4,República/Amigos,Média,2.26,Dropout
+1688,19,Masculino,Medicina,4.2,3,Moderada,Alta,Baixa,Não,Não,Não,7.6,555,1,Sozinho/Cônjuge,Baixa Renda,3.07,Graduate
+1689,28,Feminino,Direito,6.6,2,Moderada,Moderada,Baixa,Não,Não,Não,6.5,159,1,República/Amigos,Média,3.12,Graduate
+1690,21,Masculino,Direito,6.1,1,Baixa,Baixa,Baixa,Não,Não,Não,7.3,153,3,Sozinho/Cônjuge,Baixa Renda,2.2,Dropout
+1691,32,Masculino,Engenharia Civil,7.5,3,Baixa,Baixa,Alta,Não,Não,Sim,3.9,180,1,Sozinho/Cônjuge,Média-Baixa,3.3,Graduate
+1692,23,Feminino,Letras,6.0,0,Moderada,Alta,Moderada,Sim,Não,Sim,7.2,525,1,Pais/Família,Média,3.33,Graduate
+1693,34,Masculino,Ciência da Computação,6.0,1,Moderada,Baixa,Moderada,Não,Não,Não,8.0,179,2,Sozinho/Cônjuge,Média-Baixa,4.46,Graduate
+1694,23,Masculino,Letras,7.6,4,Baixa,Moderada,Baixa,Não,Não,Não,6.0,376,1,Pais/Família,Média,2.93,Graduate
+1695,19,Masculino,Psicologia,7.0,1,Alta,Baixa,Moderada,Não,Não,Não,6.8,167,2,Pais/Família,Média,3.76,Graduate
+1696,32,Feminino,Ciência da Computação,7.0,3,Baixa,Baixa,Baixa,Não,Não,Não,4.8,213,0,República/Amigos,Média,3.08,Graduate
+1697,28,Masculino,Ciência da Computação,7.2,1,Baixa,Alta,Moderada,Sim,Não,Não,4.5,149,1,Pais/Família,Alta,4.89,Graduate
+1698,25,Feminino,Administração,4.2,0,Moderada,Baixa,Alta,Sim,Não,Não,7.4,15,1,República/Amigos,Média-Baixa,3.25,Graduate
+1699,30,Masculino,Engenharia Civil,7.6,0,Alta,Moderada,Baixa,Não,Não,Não,5.5,90,0,Sozinho/Cônjuge,Baixa Renda,2.35,Graduate
+1700,29,Masculino,Letras,7.4,4,Alta,Baixa,Baixa,Não,Não,Não,3.4,119,1,Pais/Família,Baixa Renda,2.09,Graduate
+1701,22,Masculino,Letras,5.0,2,Moderada,Moderada,Alta,Sim,Não,Sim,4.8,252,1,Pais/Família,Baixa Renda,3.19,Dropout
+1702,23,Masculino,Engenharia Civil,6.1,3,Baixa,Baixa,Baixa,Sim,Não,Sim,5.1,59,0,Sozinho/Cônjuge,Baixa Renda,2.26,Graduate
+1703,21,Masculino,Letras,6.4,3,Moderada,Alta,Baixa,Sim,Não,Não,8.5,265,3,Pais/Família,Média-Baixa,2.86,Dropout
+1704,18,Feminino,Engenharia Civil,6.3,2,Moderada,Moderada,Alta,Não,Não,Não,7.4,408,2,Pais/Família,Baixa Renda,2.92,Graduate
+1705,34,Feminino,Administração,7.0,0,Baixa,Baixa,Moderada,Sim,Não,Não,5.3,30,2,Pais/Família,Baixa Renda,4.18,Graduate
+1706,29,Masculino,Medicina,8.6,0,Moderada,Alta,Baixa,Não,Não,Não,5.8,20,2,República/Amigos,Baixa Renda,2.91,Graduate
+1707,32,Feminino,Ciência da Computação,8.1,1,Moderada,Moderada,Moderada,Não,Sim,Não,9.6,592,1,República/Amigos,Média,3.17,Graduate
+1708,18,Feminino,Administração,4.5,4,Alta,Baixa,Moderada,Não,Não,Não,8.9,288,2,Sozinho/Cônjuge,Média-Baixa,2.91,Graduate
+1709,31,Feminino,Direito,7.4,4,Baixa,Alta,Moderada,Sim,Não,Não,4.8,542,2,Pais/Família,Média-Baixa,2.98,Graduate
+1710,23,Feminino,Psicologia,8.5,4,Baixa,Alta,Moderada,Não,Não,Sim,9.3,497,3,Sozinho/Cônjuge,Média,4.34,Graduate
+1711,22,Não-Binário,Medicina,7.1,1,Alta,Alta,Baixa,Sim,Não,Não,6.8,473,1,República/Amigos,Baixa Renda,0.85,Dropout
+1712,28,Masculino,Direito,8.1,4,Moderada,Baixa,Baixa,Não,Não,Não,8.6,404,3,Pais/Família,Alta,2.53,Dropout
+1713,21,Masculino,Ciência da Computação,9.0,2,Moderada,Baixa,Alta,Não,Não,Não,6.7,547,1,República/Amigos,Média,3.59,Graduate
+1714,30,Masculino,Letras,8.0,1,Baixa,Baixa,Baixa,Não,Não,Sim,9.4,131,2,República/Amigos,Baixa Renda,3.16,Dropout
+1715,28,Feminino,Engenharia Civil,6.9,2,Baixa,Baixa,Moderada,Não,Não,Não,4.7,323,1,República/Amigos,Média,4.24,Dropout
+1716,20,Feminino,Ciência da Computação,8.1,1,Baixa,Baixa,Moderada,Não,Não,Não,6.5,131,0,Pais/Família,Média,4.26,Graduate
+1717,18,Masculino,Administração,6.7,4,Baixa,Baixa,Alta,Não,Não,Não,9.4,520,2,Pais/Família,Média-Baixa,4.42,Graduate
+1718,23,Feminino,Psicologia,6.5,2,Moderada,Alta,Moderada,Não,Não,Não,3.0,29,2,Pais/Família,Média,2.33,Dropout
+1719,27,Masculino,Administração,6.0,2,Baixa,Alta,Alta,Não,Não,Sim,6.9,300,0,Pais/Família,Baixa Renda,3.17,Graduate
+1720,22,Masculino,Medicina,8.8,2,Moderada,Alta,Baixa,Não,Não,Não,6.2,3,3,República/Amigos,Média-Baixa,3.03,Graduate
+1721,27,Feminino,Medicina,5.3,1,Moderada,Moderada,Baixa,Não,Não,Não,8.4,324,0,Pais/Família,Baixa Renda,3.11,Dropout
+1722,29,Não-Binário,Psicologia,8.8,3,Alta,Baixa,Alta,Não,Não,Não,9.1,508,0,República/Amigos,Baixa Renda,3.9,Graduate
+1723,19,Masculino,Direito,7.2,4,Baixa,Baixa,Baixa,Não,Não,Não,8.5,236,2,Pais/Família,Baixa Renda,1.96,Graduate
+1724,30,Masculino,Direito,4.4,2,Moderada,Baixa,Baixa,Não,Não,Sim,7.5,534,4,Pais/Família,Alta,2.75,Dropout
+1725,25,Feminino,Medicina,7.1,3,Alta,Alta,Moderada,Não,Não,Não,7.1,15,1,República/Amigos,Baixa Renda,2.88,Graduate
+1726,19,Feminino,Medicina,4.0,4,Moderada,Baixa,Alta,Não,Não,Sim,6.3,533,3,Pais/Família,Média-Baixa,3.35,Graduate
+1727,18,Masculino,Letras,7.4,4,Baixa,Baixa,Baixa,Não,Não,Não,7.4,583,3,Sozinho/Cônjuge,Média-Baixa,2.21,Dropout
+1728,22,Feminino,Engenharia Civil,7.8,2,Alta,Alta,Alta,Sim,Não,Não,9.9,445,2,Pais/Família,Média,2.13,Dropout
+1729,26,Feminino,Letras,5.6,2,Baixa,Moderada,Moderada,Não,Sim,Não,5.3,502,1,Pais/Família,Alta,4.37,Graduate
+1730,34,Masculino,Letras,6.7,1,Baixa,Alta,Moderada,Não,Não,Não,6.2,229,3,Sozinho/Cônjuge,Média,3.16,Graduate
+1731,26,Feminino,Direito,9.0,3,Baixa,Baixa,Baixa,Não,Não,Não,6.8,106,4,República/Amigos,Alta,2.07,Graduate
+1732,28,Masculino,Psicologia,5.7,3,Alta,Moderada,Baixa,Não,Não,Não,9.0,388,2,Pais/Família,Média,2.35,Graduate
+1733,32,Masculino,Direito,4.9,2,Baixa,Moderada,Baixa,Não,Não,Não,7.4,262,2,Pais/Família,Alta,2.92,Graduate
+1734,23,Masculino,Engenharia Civil,8.7,4,Alta,Baixa,Alta,Sim,Sim,Sim,9.0,562,3,República/Amigos,Média,4.7,Graduate
+1735,20,Feminino,Administração,9.0,2,Alta,Baixa,Moderada,Não,Não,Não,9.1,64,0,Sozinho/Cônjuge,Baixa Renda,4.96,Graduate
+1736,34,Masculino,Medicina,6.5,4,Alta,Baixa,Alta,Sim,Não,Não,8.2,264,1,Sozinho/Cônjuge,Média-Baixa,3.12,Graduate
+1737,22,Feminino,Medicina,8.0,4,Moderada,Alta,Alta,Sim,Não,Não,4.9,337,1,Pais/Família,Média,4.3,Graduate
+1738,29,Feminino,Engenharia Civil,8.5,2,Baixa,Moderada,Alta,Não,Não,Não,10.3,300,1,Sozinho/Cônjuge,Média-Baixa,3.59,Graduate
+1739,31,Masculino,Letras,5.4,0,Baixa,Alta,Baixa,Não,Sim,Não,9.8,377,2,Pais/Família,Média-Baixa,1.98,Dropout
+1740,28,Feminino,Psicologia,5.8,3,Alta,Baixa,Moderada,Não,Sim,Não,7.1,174,4,Pais/Família,Média-Baixa,3.2,Graduate
+1741,26,Feminino,Medicina,8.3,4,Alta,Baixa,Baixa,Não,Não,Não,4.2,151,2,Sozinho/Cônjuge,Alta,2.81,Graduate
+1742,19,Masculino,Ciência da Computação,9.0,4,Moderada,Alta,Baixa,Sim,Não,Não,3.9,475,2,Pais/Família,Baixa Renda,2.18,Dropout
+1743,29,Feminino,Letras,7.3,0,Baixa,Baixa,Baixa,Não,Não,Não,7.5,265,0,Pais/Família,Média,2.51,Graduate
+1744,20,Feminino,Medicina,5.2,1,Baixa,Alta,Alta,Não,Não,Não,5.6,328,4,Pais/Família,Média,3.97,Graduate
+1745,20,Feminino,Ciência da Computação,9.0,0,Alta,Baixa,Baixa,Não,Não,Não,3.6,162,2,Pais/Família,Alta,3.22,Dropout
+1746,18,Masculino,Engenharia Civil,5.7,0,Alta,Alta,Baixa,Não,Não,Sim,3.8,437,1,República/Amigos,Alta,1.07,Dropout
+1747,25,Masculino,Engenharia Civil,6.0,4,Baixa,Alta,Baixa,Não,Não,Não,6.1,342,0,República/Amigos,Média,3.01,Graduate
+1748,25,Feminino,Letras,7.0,3,Baixa,Baixa,Baixa,Não,Não,Não,7.4,366,2,Pais/Família,Média-Baixa,3.17,Graduate
+1749,28,Feminino,Medicina,8.8,0,Baixa,Baixa,Baixa,Sim,Não,Não,9.8,464,4,República/Amigos,Baixa Renda,1.66,Dropout
+1750,26,Feminino,Direito,7.8,1,Baixa,Alta,Moderada,Não,Não,Não,8.0,198,0,Sozinho/Cônjuge,Média-Baixa,4.51,Graduate
+1751,22,Feminino,Ciência da Computação,7.1,2,Alta,Baixa,Baixa,Não,Não,Não,6.2,499,0,Sozinho/Cônjuge,Média,2.23,Dropout
+1752,31,Masculino,Psicologia,7.2,0,Moderada,Baixa,Baixa,Sim,Não,Não,7.8,15,2,Pais/Família,Média,2.67,Graduate
+1753,20,Feminino,Medicina,6.6,0,Moderada,Alta,Baixa,Sim,Não,Não,7.6,295,0,Sozinho/Cônjuge,Média,2.2,Graduate
+1754,22,Feminino,Psicologia,7.3,1,Baixa,Baixa,Baixa,Não,Não,Não,8.5,510,1,República/Amigos,Baixa Renda,2.36,Graduate
+1755,22,Masculino,Medicina,4.0,3,Baixa,Baixa,Moderada,Não,Sim,Não,6.9,238,2,Pais/Família,Média-Baixa,3.24,Graduate
+1756,31,Masculino,Direito,6.1,0,Moderada,Moderada,Moderada,Sim,Não,Não,9.1,580,1,Pais/Família,Média-Baixa,2.68,Dropout
+1757,21,Masculino,Direito,6.9,0,Alta,Moderada,Alta,Não,Não,Não,8.6,300,1,Pais/Família,Baixa Renda,2.68,Dropout
+1758,30,Feminino,Letras,4.8,3,Baixa,Baixa,Moderada,Não,Não,Não,7.2,5,0,República/Amigos,Baixa Renda,4.32,Graduate
+1759,27,Feminino,Letras,7.1,1,Baixa,Alta,Moderada,Não,Não,Não,6.8,219,0,Pais/Família,Baixa Renda,3.02,Graduate
+1760,25,Feminino,Direito,6.2,0,Baixa,Baixa,Moderada,Não,Sim,Não,8.8,452,0,República/Amigos,Média,4.55,Graduate
+1761,25,Feminino,Administração,9.0,3,Baixa,Baixa,Alta,Não,Não,Sim,5.6,432,0,Pais/Família,Média-Baixa,4.0,Graduate
+1762,24,Masculino,Direito,8.9,0,Moderada,Moderada,Baixa,Não,Sim,Não,4.0,385,2,Sozinho/Cônjuge,Média-Baixa,3.18,Graduate
+1763,25,Masculino,Engenharia Civil,5.8,2,Moderada,Moderada,Alta,Não,Não,Não,4.0,294,5,Pais/Família,Alta,3.89,Graduate
+1764,31,Masculino,Engenharia Civil,6.3,4,Baixa,Moderada,Moderada,Não,Não,Não,5.4,117,2,Sozinho/Cônjuge,Média-Baixa,2.88,Graduate
+1765,23,Masculino,Administração,6.4,2,Baixa,Moderada,Baixa,Não,Não,Não,8.3,404,1,Sozinho/Cônjuge,Baixa Renda,2.36,Graduate
+1766,18,Feminino,Ciência da Computação,5.8,0,Moderada,Moderada,Moderada,Sim,Não,Não,6.2,593,4,Pais/Família,Média-Baixa,3.74,Graduate
+1767,32,Masculino,Psicologia,6.8,1,Moderada,Baixa,Baixa,Não,Não,Não,7.4,565,0,Pais/Família,Baixa Renda,2.98,Dropout
+1768,18,Feminino,Medicina,5.4,4,Baixa,Moderada,Moderada,Não,Não,Não,6.0,11,1,Pais/Família,Baixa Renda,3.03,Graduate
+1769,34,Masculino,Medicina,4.8,2,Moderada,Moderada,Alta,Não,Não,Não,6.0,208,0,Sozinho/Cônjuge,Baixa Renda,2.85,Graduate
+1770,18,Feminino,Administração,7.4,3,Baixa,Baixa,Moderada,Não,Sim,Não,4.9,164,2,República/Amigos,Média-Baixa,3.41,Graduate
+1771,32,Feminino,Engenharia Civil,7.4,1,Baixa,Alta,Baixa,Sim,Não,Não,6.8,293,0,Pais/Família,Baixa Renda,2.12,Graduate
+1772,19,Feminino,Letras,5.3,2,Baixa,Alta,Alta,Não,Não,Não,6.6,518,0,Pais/Família,Média-Baixa,4.18,Graduate
+1773,31,Não-Binário,Medicina,7.8,3,Moderada,Moderada,Moderada,Não,Não,Não,7.8,77,4,Pais/Família,Média,4.21,Graduate
+1774,25,Feminino,Engenharia Civil,5.6,0,Baixa,Alta,Alta,Não,Não,Não,7.6,433,3,Sozinho/Cônjuge,Média-Baixa,4.23,Dropout
+1775,25,Feminino,Ciência da Computação,6.9,3,Baixa,Baixa,Baixa,Não,Não,Não,6.6,576,2,República/Amigos,Alta,1.84,Dropout
+1776,24,Feminino,Psicologia,7.7,2,Alta,Baixa,Alta,Não,Não,Não,4.0,76,3,Sozinho/Cônjuge,Média-Baixa,3.12,Graduate
+1777,23,Masculino,Ciência da Computação,6.4,2,Alta,Moderada,Baixa,Não,Não,Não,9.1,47,1,Pais/Família,Média-Baixa,2.96,Graduate
+1778,23,Masculino,Administração,7.2,0,Moderada,Moderada,Baixa,Não,Não,Não,6.8,81,1,Pais/Família,Média,3.23,Dropout
+1779,20,Masculino,Direito,5.7,3,Alta,Baixa,Baixa,Sim,Não,Não,7.2,208,0,Sozinho/Cônjuge,Baixa Renda,3.36,Graduate
+1780,24,Feminino,Direito,6.2,3,Moderada,Baixa,Baixa,Não,Não,Não,10.2,444,0,Pais/Família,Baixa Renda,2.65,Dropout
+1781,25,Masculino,Direito,6.2,0,Moderada,Moderada,Baixa,Não,Não,Não,8.8,595,1,Sozinho/Cônjuge,Média,2.99,Dropout
+1782,27,Feminino,Ciência da Computação,5.4,3,Alta,Alta,Alta,Não,Não,Sim,7.9,521,1,Pais/Família,Média-Baixa,3.09,Dropout
+1783,32,Masculino,Medicina,6.2,0,Moderada,Alta,Alta,Não,Não,Não,7.0,28,0,Pais/Família,Média,2.81,Graduate
+1784,32,Masculino,Psicologia,4.2,1,Baixa,Moderada,Baixa,Não,Não,Sim,7.0,303,1,República/Amigos,Alta,2.05,Dropout
+1785,18,Feminino,Direito,5.8,2,Moderada,Alta,Baixa,Não,Sim,Sim,7.5,464,2,Sozinho/Cônjuge,Média-Baixa,1.93,Graduate
+1786,24,Feminino,Administração,6.1,1,Moderada,Baixa,Baixa,Não,Não,Não,7.8,501,0,Sozinho/Cônjuge,Média-Baixa,3.26,Dropout
+1787,21,Feminino,Administração,6.1,4,Moderada,Baixa,Moderada,Não,Não,Não,10.4,445,2,Pais/Família,Média-Baixa,4.33,Graduate
+1788,23,Feminino,Direito,6.1,4,Alta,Moderada,Moderada,Não,Não,Não,11.9,489,1,Pais/Família,Alta,2.91,Graduate
+1789,18,Feminino,Direito,6.4,4,Baixa,Alta,Baixa,Sim,Não,Sim,7.6,427,2,República/Amigos,Média,2.29,Graduate
+1790,22,Masculino,Psicologia,7.2,0,Moderada,Baixa,Baixa,Sim,Não,Não,3.0,558,1,República/Amigos,Alta,2.66,Dropout
+1791,18,Feminino,Direito,7.8,3,Baixa,Alta,Baixa,Não,Não,Não,5.1,358,2,República/Amigos,Média-Baixa,3.14,Dropout
+1792,21,Feminino,Psicologia,5.5,1,Baixa,Baixa,Moderada,Não,Sim,Não,10.6,90,0,Pais/Família,Média,3.06,Graduate
+1793,19,Feminino,Administração,4.7,1,Moderada,Alta,Moderada,Sim,Não,Não,8.4,52,1,Sozinho/Cônjuge,Média-Baixa,3.1,Graduate
+1794,27,Feminino,Direito,4.9,1,Baixa,Baixa,Baixa,Não,Não,Não,7.9,588,1,República/Amigos,Baixa Renda,2.02,Graduate
+1795,22,Masculino,Ciência da Computação,5.8,1,Moderada,Alta,Baixa,Não,Não,Não,6.7,203,4,Sozinho/Cônjuge,Alta,2.65,Graduate
+1796,27,Feminino,Letras,6.0,4,Moderada,Baixa,Baixa,Não,Não,Sim,4.6,555,1,República/Amigos,Baixa Renda,2.39,Graduate
+1797,18,Masculino,Ciência da Computação,5.3,1,Baixa,Baixa,Alta,Não,Não,Não,10.4,155,2,Pais/Família,Alta,4.52,Graduate
+1798,23,Masculino,Administração,4.6,3,Baixa,Baixa,Moderada,Não,Não,Não,5.4,1,1,Sozinho/Cônjuge,Baixa Renda,4.83,Graduate
+1799,30,Masculino,Psicologia,5.8,4,Baixa,Moderada,Baixa,Não,Não,Não,8.5,356,1,República/Amigos,Média,2.37,Graduate
+1800,32,Masculino,Ciência da Computação,6.8,1,Moderada,Baixa,Baixa,Sim,Sim,Não,4.4,568,1,Sozinho/Cônjuge,Média-Baixa,3.35,Dropout
+1801,21,Feminino,Psicologia,7.4,0,Baixa,Baixa,Baixa,Não,Não,Sim,6.6,57,3,Sozinho/Cônjuge,Média-Baixa,1.9,Graduate
+1802,30,Não-Binário,Ciência da Computação,5.7,2,Moderada,Alta,Moderada,Não,Não,Não,9.0,253,1,República/Amigos,Baixa Renda,3.29,Graduate
+1803,32,Feminino,Ciência da Computação,5.9,2,Baixa,Moderada,Baixa,Não,Não,Não,6.5,179,1,República/Amigos,Média-Baixa,2.85,Graduate
+1804,25,Feminino,Psicologia,5.1,2,Baixa,Moderada,Baixa,Não,Não,Não,6.3,492,0,Pais/Família,Média-Baixa,2.23,Graduate
+1805,22,Masculino,Medicina,6.5,4,Baixa,Baixa,Baixa,Não,Não,Sim,7.0,34,1,Pais/Família,Média,2.45,Graduate
+1806,32,Masculino,Ciência da Computação,5.2,1,Moderada,Moderada,Baixa,Sim,Não,Não,4.3,74,1,Pais/Família,Baixa Renda,2.6,Graduate
+1807,21,Masculino,Direito,7.4,4,Moderada,Alta,Baixa,Não,Não,Não,4.0,288,2,Pais/Família,Baixa Renda,2.85,Graduate
+1808,29,Feminino,Letras,4.0,3,Moderada,Moderada,Baixa,Não,Não,Não,8.4,370,2,Pais/Família,Baixa Renda,2.79,Graduate
+1809,30,Feminino,Administração,6.0,0,Baixa,Alta,Baixa,Não,Não,Não,6.2,586,1,Pais/Família,Média-Baixa,1.94,Graduate
+1810,19,Masculino,Medicina,7.0,0,Alta,Moderada,Baixa,Sim,Não,Sim,8.4,328,3,Pais/Família,Média,2.15,Dropout
+1811,21,Feminino,Psicologia,6.8,2,Baixa,Baixa,Alta,Não,Não,Não,9.2,589,0,Pais/Família,Média,3.23,Graduate
+1812,21,Masculino,Medicina,9.0,2,Moderada,Baixa,Moderada,Não,Não,Não,9.4,303,0,Pais/Família,Baixa Renda,5.0,Graduate
+1813,28,Masculino,Engenharia Civil,7.0,2,Moderada,Baixa,Moderada,Sim,Não,Não,3.8,578,1,Pais/Família,Média-Baixa,3.42,Graduate
+1814,22,Feminino,Engenharia Civil,5.0,1,Moderada,Baixa,Alta,Não,Sim,Não,5.6,220,3,República/Amigos,Média,3.75,Graduate
+1815,28,Feminino,Ciência da Computação,6.4,3,Moderada,Moderada,Alta,Não,Não,Não,8.1,163,1,República/Amigos,Média-Baixa,2.5,Graduate
+1816,27,Feminino,Ciência da Computação,4.0,3,Alta,Baixa,Baixa,Não,Não,Não,8.1,479,4,Pais/Família,Média-Baixa,3.05,Graduate
+1817,25,Feminino,Direito,6.4,3,Moderada,Moderada,Moderada,Não,Não,Não,11.5,454,0,República/Amigos,Média-Baixa,3.4,Graduate
+1818,23,Masculino,Letras,5.3,3,Baixa,Baixa,Baixa,Não,Não,Não,5.2,374,1,Sozinho/Cônjuge,Baixa Renda,3.02,Graduate
+1819,23,Feminino,Administração,7.9,2,Moderada,Baixa,Alta,Não,Não,Não,9.3,219,2,Pais/Família,Baixa Renda,3.23,Graduate
+1820,25,Masculino,Medicina,5.7,0,Baixa,Alta,Baixa,Não,Sim,Não,7.7,253,0,República/Amigos,Baixa Renda,3.47,Dropout
+1821,32,Feminino,Engenharia Civil,6.3,2,Alta,Baixa,Baixa,Não,Não,Não,3.7,187,0,Sozinho/Cônjuge,Média,3.01,Dropout
+1822,31,Não-Binário,Ciência da Computação,5.5,3,Alta,Alta,Alta,Não,Não,Não,5.9,190,0,Sozinho/Cônjuge,Baixa Renda,2.75,Graduate
+1823,28,Feminino,Administração,9.0,2,Baixa,Moderada,Baixa,Sim,Não,Não,7.5,388,0,Pais/Família,Baixa Renda,2.73,Graduate
+1824,29,Feminino,Medicina,6.0,3,Alta,Moderada,Moderada,Sim,Não,Não,3.6,214,0,República/Amigos,Média-Baixa,2.64,Graduate
+1825,30,Feminino,Ciência da Computação,9.0,4,Alta,Moderada,Baixa,Não,Não,Não,3.0,374,1,Pais/Família,Baixa Renda,2.55,Dropout
+1826,25,Masculino,Ciência da Computação,7.7,0,Moderada,Moderada,Moderada,Não,Não,Não,3.5,85,2,República/Amigos,Baixa Renda,3.6,Graduate
+1827,18,Masculino,Engenharia Civil,7.2,4,Moderada,Baixa,Baixa,Não,Não,Não,7.5,473,3,Sozinho/Cônjuge,Alta,2.97,Graduate
+1828,32,Masculino,Engenharia Civil,7.1,1,Moderada,Moderada,Baixa,Não,Não,Sim,6.0,530,3,República/Amigos,Baixa Renda,2.59,Graduate
+1829,25,Feminino,Ciência da Computação,7.1,2,Moderada,Alta,Moderada,Não,Não,Não,5.8,46,3,Sozinho/Cônjuge,Média,2.92,Graduate
+1830,28,Feminino,Psicologia,4.0,1,Baixa,Baixa,Baixa,Sim,Não,Não,5.8,64,2,Pais/Família,Média-Baixa,3.02,Graduate
+1831,29,Masculino,Ciência da Computação,6.1,2,Moderada,Moderada,Alta,Não,Não,Não,4.2,474,1,Sozinho/Cônjuge,Média,2.91,Dropout
+1832,29,Feminino,Administração,7.8,4,Baixa,Moderada,Baixa,Não,Sim,Não,6.1,145,2,República/Amigos,Média-Baixa,3.27,Dropout
+1833,21,Feminino,Ciência da Computação,6.4,3,Moderada,Moderada,Baixa,Não,Não,Não,3.4,381,1,Pais/Família,Baixa Renda,2.51,Graduate
+1834,33,Não-Binário,Direito,4.4,3,Baixa,Baixa,Baixa,Não,Não,Não,9.4,65,1,República/Amigos,Média,2.19,Graduate
+1835,21,Não-Binário,Letras,6.4,2,Baixa,Baixa,Alta,Não,Não,Não,10.4,516,1,Pais/Família,Média-Baixa,4.54,Graduate
+1836,22,Masculino,Direito,9.0,3,Moderada,Baixa,Baixa,Não,Não,Sim,3.0,92,2,Pais/Família,Média,2.22,Dropout
+1837,22,Masculino,Direito,8.4,4,Baixa,Baixa,Baixa,Sim,Não,Não,6.1,425,1,Sozinho/Cônjuge,Média-Baixa,3.25,Dropout
+1838,25,Feminino,Psicologia,6.4,3,Alta,Moderada,Moderada,Não,Não,Não,6.2,467,0,Pais/Família,Alta,4.1,Graduate
+1839,27,Feminino,Psicologia,7.9,4,Baixa,Alta,Baixa,Não,Não,Não,6.7,93,0,República/Amigos,Média,2.41,Graduate
+1840,34,Masculino,Ciência da Computação,6.0,1,Moderada,Moderada,Moderada,Não,Não,Não,9.0,132,2,Pais/Família,Alta,4.13,Dropout
+1841,26,Masculino,Direito,4.0,4,Moderada,Moderada,Baixa,Sim,Não,Não,6.1,433,0,Pais/Família,Média-Baixa,2.2,Dropout
+1842,31,Feminino,Psicologia,5.1,0,Alta,Baixa,Baixa,Não,Não,Não,6.8,340,1,Sozinho/Cônjuge,Média-Baixa,2.27,Graduate
+1843,25,Feminino,Engenharia Civil,8.8,0,Moderada,Baixa,Moderada,Sim,Não,Não,12.0,313,1,Pais/Família,Média,3.08,Graduate
+1844,26,Feminino,Ciência da Computação,6.1,0,Moderada,Moderada,Baixa,Não,Não,Sim,6.8,590,2,República/Amigos,Média,3.17,Graduate
+1845,28,Masculino,Administração,6.1,2,Moderada,Baixa,Baixa,Não,Não,Não,10.5,211,3,República/Amigos,Alta,2.1,Graduate
+1846,18,Masculino,Letras,6.1,2,Moderada,Baixa,Moderada,Sim,Não,Não,8.0,519,1,República/Amigos,Média-Baixa,3.39,Graduate
+1847,31,Masculino,Medicina,9.0,2,Baixa,Moderada,Moderada,Não,Não,Não,5.9,158,1,Sozinho/Cônjuge,Média,4.35,Graduate
+1848,22,Feminino,Ciência da Computação,8.9,4,Baixa,Alta,Moderada,Sim,Não,Não,5.6,267,0,República/Amigos,Baixa Renda,4.53,Graduate
+1849,31,Não-Binário,Medicina,9.0,2,Alta,Moderada,Moderada,Não,Não,Sim,7.0,473,4,Pais/Família,Média-Baixa,2.82,Graduate
+1850,21,Masculino,Direito,6.3,1,Moderada,Alta,Alta,Não,Não,Não,4.7,409,0,Sozinho/Cônjuge,Baixa Renda,3.72,Graduate
+1851,18,Feminino,Letras,6.9,0,Alta,Baixa,Baixa,Sim,Sim,Sim,5.3,473,2,Pais/Família,Média-Baixa,3.13,Graduate
+1852,25,Feminino,Medicina,4.2,4,Moderada,Baixa,Moderada,Sim,Não,Sim,6.2,355,0,República/Amigos,Alta,4.73,Graduate
+1853,32,Feminino,Direito,8.7,0,Alta,Baixa,Alta,Não,Sim,Não,7.6,192,0,Sozinho/Cônjuge,Baixa Renda,4.19,Dropout
+1854,32,Feminino,Engenharia Civil,4.7,2,Baixa,Baixa,Baixa,Sim,Não,Não,10.7,270,4,República/Amigos,Média,2.02,Graduate
+1855,26,Não-Binário,Medicina,6.8,4,Alta,Baixa,Moderada,Sim,Não,Não,6.0,113,4,Sozinho/Cônjuge,Média-Baixa,3.77,Graduate
+1856,26,Feminino,Letras,4.9,3,Baixa,Baixa,Moderada,Não,Não,Não,7.9,522,4,República/Amigos,Baixa Renda,4.03,Graduate
+1857,27,Masculino,Ciência da Computação,5.6,1,Baixa,Moderada,Baixa,Não,Não,Não,3.7,54,1,Sozinho/Cônjuge,Média-Baixa,3.17,Dropout
+1858,26,Feminino,Direito,5.2,2,Alta,Alta,Moderada,Não,Sim,Não,9.1,64,3,Sozinho/Cônjuge,Média-Baixa,2.66,Dropout
+1859,20,Feminino,Ciência da Computação,5.6,2,Baixa,Alta,Baixa,Sim,Não,Sim,3.6,271,3,Pais/Família,Baixa Renda,2.42,Dropout
+1860,28,Feminino,Letras,5.7,1,Baixa,Baixa,Baixa,Não,Não,Não,8.6,501,0,Pais/Família,Média,2.57,Dropout
+1861,23,Feminino,Psicologia,5.7,1,Moderada,Baixa,Baixa,Sim,Não,Não,6.8,361,0,Pais/Família,Alta,2.09,Graduate
+1862,19,Feminino,Direito,7.8,3,Moderada,Baixa,Baixa,Sim,Não,Não,6.8,145,3,República/Amigos,Baixa Renda,3.19,Dropout
+1863,24,Masculino,Medicina,4.8,2,Moderada,Moderada,Moderada,Não,Não,Não,6.4,208,1,Pais/Família,Baixa Renda,4.37,Graduate
+1864,19,Masculino,Direito,6.8,2,Baixa,Alta,Baixa,Não,Não,Não,4.4,285,4,Pais/Família,Média-Baixa,2.09,Dropout
+1865,34,Masculino,Ciência da Computação,8.3,0,Moderada,Alta,Moderada,Sim,Não,Não,4.5,9,2,Pais/Família,Média,2.12,Graduate
+1866,28,Feminino,Engenharia Civil,5.7,4,Baixa,Baixa,Moderada,Não,Não,Não,8.7,185,0,Sozinho/Cônjuge,Média-Baixa,3.56,Graduate
+1867,29,Feminino,Direito,5.4,4,Alta,Alta,Alta,Não,Não,Não,7.0,573,0,República/Amigos,Baixa Renda,2.5,Graduate
+1868,24,Feminino,Medicina,6.2,0,Moderada,Baixa,Baixa,Não,Sim,Não,6.4,596,1,Pais/Família,Média-Baixa,2.96,Dropout
+1869,23,Masculino,Psicologia,8.3,4,Baixa,Alta,Alta,Não,Não,Não,7.9,463,1,Pais/Família,Alta,3.9,Graduate
+1870,18,Feminino,Administração,6.8,1,Baixa,Baixa,Moderada,Não,Não,Não,7.2,133,1,Pais/Família,Média-Baixa,2.92,Graduate
+1871,34,Feminino,Engenharia Civil,5.7,4,Moderada,Baixa,Moderada,Sim,Não,Não,5.4,170,1,Pais/Família,Média-Baixa,4.07,Graduate
+1872,28,Masculino,Psicologia,7.2,4,Baixa,Baixa,Moderada,Sim,Não,Não,11.9,212,0,Pais/Família,Alta,4.5,Graduate
+1873,34,Feminino,Direito,4.8,0,Baixa,Moderada,Baixa,Não,Não,Não,8.5,529,1,Sozinho/Cônjuge,Média,2.32,Dropout
+1874,24,Feminino,Ciência da Computação,7.5,3,Moderada,Baixa,Moderada,Não,Não,Não,7.3,501,1,Sozinho/Cônjuge,Média,3.83,Graduate
+1875,34,Feminino,Letras,7.1,4,Alta,Moderada,Moderada,Não,Sim,Não,6.0,571,2,Pais/Família,Média-Baixa,1.94,Graduate
+1876,26,Masculino,Ciência da Computação,6.0,4,Baixa,Moderada,Alta,Não,Não,Não,8.9,599,0,Pais/Família,Alta,4.09,Graduate
+1877,34,Masculino,Medicina,5.2,3,Moderada,Moderada,Moderada,Não,Sim,Não,5.4,26,3,Pais/Família,Média,4.09,Dropout
+1878,25,Feminino,Ciência da Computação,5.2,0,Baixa,Moderada,Baixa,Não,Não,Não,5.3,67,3,Pais/Família,Média,2.43,Graduate
+1879,34,Feminino,Engenharia Civil,7.3,3,Baixa,Moderada,Baixa,Não,Não,Não,10.4,407,0,Pais/Família,Média,2.24,Graduate
+1880,24,Não-Binário,Ciência da Computação,8.3,0,Baixa,Alta,Alta,Não,Não,Não,7.1,551,2,Pais/Família,Média,4.39,Graduate
+1881,18,Masculino,Medicina,5.5,1,Baixa,Baixa,Moderada,Não,Não,Sim,5.5,108,5,Pais/Família,Média-Baixa,3.23,Graduate
+1882,30,Feminino,Administração,7.2,0,Baixa,Alta,Alta,Sim,Não,Não,7.0,73,2,República/Amigos,Média-Baixa,4.5,Graduate
+1883,34,Masculino,Direito,4.0,1,Baixa,Alta,Alta,Não,Não,Não,8.7,577,0,República/Amigos,Média,3.88,Graduate
+1884,30,Feminino,Letras,5.6,1,Moderada,Baixa,Moderada,Sim,Não,Não,8.2,261,3,República/Amigos,Média-Baixa,3.32,Graduate
+1885,33,Masculino,Direito,6.5,0,Baixa,Baixa,Baixa,Não,Não,Não,8.9,367,0,Pais/Família,Média-Baixa,3.12,Graduate
+1886,25,Masculino,Ciência da Computação,5.1,2,Alta,Baixa,Moderada,Não,Não,Não,4.5,236,1,Sozinho/Cônjuge,Baixa Renda,4.22,Graduate
+1887,18,Feminino,Psicologia,5.1,0,Baixa,Baixa,Moderada,Não,Não,Sim,8.9,365,2,Sozinho/Cônjuge,Média,2.86,Graduate
+1888,31,Não-Binário,Direito,5.5,4,Alta,Moderada,Alta,Não,Não,Não,6.6,285,0,Pais/Família,Baixa Renda,2.58,Graduate
+1889,32,Masculino,Administração,6.9,4,Baixa,Baixa,Baixa,Não,Não,Não,7.2,377,1,Pais/Família,Média,3.27,Dropout
+1890,19,Masculino,Ciência da Computação,6.2,2,Baixa,Baixa,Baixa,Não,Não,Não,9.4,375,2,República/Amigos,Média,2.35,Dropout
+1891,34,Feminino,Letras,4.0,1,Moderada,Baixa,Baixa,Não,Não,Sim,8.4,75,1,Pais/Família,Baixa Renda,3.12,Graduate
+1892,23,Feminino,Medicina,4.0,2,Baixa,Baixa,Moderada,Não,Não,Não,7.7,8,0,Pais/Família,Média-Baixa,3.41,Graduate
+1893,21,Feminino,Administração,5.6,4,Alta,Baixa,Baixa,Não,Sim,Não,3.0,195,1,República/Amigos,Média-Baixa,3.0,Dropout
+1894,18,Masculino,Ciência da Computação,7.2,2,Alta,Moderada,Baixa,Não,Não,Não,6.9,289,3,República/Amigos,Média-Baixa,2.35,Graduate
+1895,25,Feminino,Administração,4.0,0,Baixa,Moderada,Baixa,Não,Não,Não,5.4,60,3,Pais/Família,Média-Baixa,1.74,Graduate
+1896,24,Masculino,Direito,5.8,2,Baixa,Baixa,Baixa,Sim,Não,Não,8.4,388,0,República/Amigos,Baixa Renda,2.23,Graduate
+1897,20,Masculino,Letras,5.7,1,Baixa,Alta,Baixa,Não,Não,Não,9.0,562,5,Sozinho/Cônjuge,Alta,2.76,Graduate
+1898,27,Feminino,Medicina,8.6,0,Baixa,Moderada,Alta,Não,Não,Não,6.4,563,4,Pais/Família,Baixa Renda,2.67,Dropout
+1899,27,Masculino,Ciência da Computação,5.9,3,Moderada,Moderada,Baixa,Não,Não,Não,5.7,7,2,República/Amigos,Média,2.71,Dropout
+1900,31,Feminino,Engenharia Civil,7.1,4,Baixa,Moderada,Moderada,Sim,Não,Sim,10.1,368,0,Pais/Família,Média-Baixa,4.15,Graduate
+1901,19,Não-Binário,Medicina,6.7,4,Alta,Alta,Baixa,Não,Não,Não,5.8,44,1,Pais/Família,Média,1.95,Dropout
+1902,18,Feminino,Engenharia Civil,4.0,2,Baixa,Baixa,Alta,Não,Não,Não,4.6,343,0,República/Amigos,Média-Baixa,4.78,Graduate
+1903,24,Feminino,Administração,7.7,0,Baixa,Baixa,Baixa,Não,Não,Não,5.3,374,1,Pais/Família,Média,2.89,Dropout
+1904,25,Feminino,Psicologia,6.8,3,Moderada,Alta,Baixa,Não,Não,Não,5.9,26,1,Pais/Família,Média,3.04,Dropout
+1905,18,Feminino,Medicina,7.3,0,Alta,Alta,Alta,Não,Não,Sim,5.3,192,3,Pais/Família,Média,2.84,Graduate
+1906,20,Masculino,Administração,9.0,4,Moderada,Baixa,Baixa,Não,Não,Sim,8.7,356,1,República/Amigos,Baixa Renda,3.18,Graduate
+1907,25,Masculino,Engenharia Civil,4.0,0,Baixa,Baixa,Moderada,Não,Sim,Não,3.0,61,0,República/Amigos,Média,3.75,Graduate
+1908,32,Masculino,Direito,9.0,3,Baixa,Alta,Baixa,Não,Não,Não,5.2,61,1,Pais/Família,Média-Baixa,2.33,Graduate
+1909,22,Feminino,Direito,6.1,2,Moderada,Baixa,Moderada,Não,Não,Não,6.9,421,2,República/Amigos,Baixa Renda,4.33,Graduate
+1910,20,Feminino,Psicologia,6.9,1,Baixa,Baixa,Baixa,Não,Não,Não,7.4,550,0,Pais/Família,Média-Baixa,2.08,Dropout
+1911,18,Feminino,Medicina,6.4,0,Moderada,Baixa,Moderada,Sim,Sim,Não,10.4,379,2,República/Amigos,Média-Baixa,4.28,Graduate
+1912,32,Masculino,Medicina,5.9,1,Alta,Baixa,Alta,Sim,Não,Sim,10.1,276,0,Pais/Família,Média-Baixa,3.06,Dropout
+1913,25,Masculino,Medicina,5.6,4,Baixa,Moderada,Moderada,Não,Sim,Sim,3.8,430,1,República/Amigos,Média,3.41,Graduate
+1914,19,Feminino,Administração,7.0,2,Alta,Baixa,Baixa,Não,Sim,Não,3.2,114,1,Sozinho/Cônjuge,Média-Baixa,3.05,Dropout
+1915,20,Feminino,Letras,4.2,2,Moderada,Baixa,Baixa,Sim,Não,Não,7.0,120,3,Sozinho/Cônjuge,Média-Baixa,1.7,Graduate
+1916,31,Masculino,Letras,7.6,0,Baixa,Baixa,Baixa,Não,Não,Não,5.7,524,1,Pais/Família,Baixa Renda,2.26,Graduate
+1917,31,Masculino,Psicologia,5.9,2,Alta,Baixa,Baixa,Não,Não,Não,4.6,415,1,Sozinho/Cônjuge,Média,2.57,Graduate
+1918,28,Masculino,Medicina,4.8,0,Baixa,Moderada,Alta,Não,Não,Não,7.0,162,2,Pais/Família,Média-Baixa,4.5,Graduate
+1919,33,Masculino,Administração,5.8,0,Baixa,Baixa,Moderada,Não,Não,Não,7.5,336,4,Sozinho/Cônjuge,Média-Baixa,3.27,Graduate
+1920,21,Feminino,Direito,8.4,1,Moderada,Moderada,Moderada,Sim,Sim,Não,5.3,378,2,Pais/Família,Média,3.33,Graduate
+1921,22,Feminino,Engenharia Civil,5.7,2,Baixa,Baixa,Moderada,Não,Não,Não,5.8,323,1,Pais/Família,Média-Baixa,3.04,Graduate
+1922,31,Masculino,Administração,7.0,0,Baixa,Baixa,Baixa,Não,Não,Sim,5.5,172,1,Pais/Família,Média-Baixa,2.04,Dropout
+1923,33,Masculino,Letras,5.4,1,Baixa,Alta,Alta,Não,Não,Sim,6.2,63,0,Pais/Família,Média-Baixa,3.73,Graduate
+1924,24,Feminino,Letras,7.6,3,Moderada,Moderada,Moderada,Sim,Não,Não,8.1,100,2,República/Amigos,Média,3.28,Dropout
+1925,27,Masculino,Direito,7.5,1,Baixa,Baixa,Baixa,Não,Não,Não,4.8,321,2,Sozinho/Cônjuge,Média,2.02,Dropout
+1926,24,Masculino,Direito,9.0,1,Moderada,Moderada,Baixa,Não,Não,Não,5.7,65,2,República/Amigos,Média-Baixa,2.31,Graduate
+1927,18,Masculino,Engenharia Civil,6.2,0,Alta,Moderada,Baixa,Não,Não,Não,6.2,556,1,República/Amigos,Baixa Renda,2.57,Graduate
+1928,33,Masculino,Direito,7.5,4,Moderada,Moderada,Baixa,Sim,Não,Não,7.0,598,2,República/Amigos,Baixa Renda,2.92,Graduate
+1929,21,Feminino,Psicologia,6.6,4,Baixa,Alta,Baixa,Não,Não,Sim,7.6,457,2,Pais/Família,Média,3.05,Dropout
+1930,19,Masculino,Engenharia Civil,8.4,4,Baixa,Baixa,Baixa,Não,Não,Não,11.1,578,2,Pais/Família,Média,2.04,Graduate
+1931,18,Masculino,Direito,5.4,1,Moderada,Baixa,Alta,Não,Não,Não,8.1,452,1,Pais/Família,Média-Baixa,3.39,Dropout
+1932,32,Masculino,Ciência da Computação,7.6,0,Baixa,Moderada,Baixa,Não,Não,Não,8.2,258,3,Pais/Família,Baixa Renda,3.07,Graduate
+1933,22,Masculino,Administração,6.2,2,Moderada,Alta,Baixa,Não,Não,Não,6.5,425,3,Pais/Família,Média,2.37,Graduate
+1934,28,Masculino,Direito,6.4,1,Moderada,Moderada,Baixa,Não,Sim,Não,5.0,177,1,Pais/Família,Média,2.4,Graduate
+1935,27,Feminino,Psicologia,6.6,1,Moderada,Baixa,Alta,Sim,Não,Não,5.9,279,3,Pais/Família,Média,2.84,Graduate
+1936,19,Masculino,Medicina,6.9,0,Baixa,Baixa,Baixa,Não,Sim,Não,5.6,343,2,Pais/Família,Média,2.97,Graduate
+1937,20,Masculino,Direito,6.3,3,Baixa,Alta,Moderada,Sim,Não,Não,7.8,16,4,Sozinho/Cônjuge,Média,4.11,Graduate
+1938,29,Masculino,Letras,6.8,1,Moderada,Moderada,Baixa,Não,Não,Não,3.7,295,2,Pais/Família,Baixa Renda,2.92,Dropout
+1939,22,Masculino,Letras,8.9,3,Baixa,Moderada,Moderada,Não,Não,Não,8.2,201,3,República/Amigos,Baixa Renda,3.82,Graduate
+1940,22,Masculino,Letras,8.0,3,Baixa,Alta,Moderada,Não,Não,Sim,6.8,193,1,República/Amigos,Baixa Renda,3.8,Graduate
+1941,23,Feminino,Medicina,7.8,4,Baixa,Baixa,Alta,Sim,Não,Sim,8.5,148,3,República/Amigos,Média,3.63,Graduate
+1942,26,Masculino,Letras,5.8,0,Alta,Moderada,Alta,Não,Não,Não,5.6,374,1,Pais/Família,Baixa Renda,1.99,Graduate
+1943,19,Feminino,Ciência da Computação,5.2,3,Baixa,Alta,Baixa,Não,Sim,Não,5.2,34,3,Pais/Família,Média-Baixa,2.62,Dropout
+1944,29,Feminino,Direito,7.9,0,Baixa,Baixa,Baixa,Sim,Sim,Não,6.2,368,0,Pais/Família,Média-Baixa,3.29,Graduate
+1945,20,Masculino,Letras,7.8,4,Baixa,Baixa,Baixa,Sim,Não,Não,6.1,28,0,Pais/Família,Média-Baixa,3.16,Dropout
+1946,29,Masculino,Engenharia Civil,8.7,0,Moderada,Baixa,Moderada,Sim,Não,Não,8.6,220,1,Pais/Família,Média,4.71,Graduate
+1947,34,Feminino,Medicina,5.6,1,Baixa,Alta,Baixa,Não,Não,Não,8.6,52,2,República/Amigos,Baixa Renda,2.91,Dropout
+1948,27,Feminino,Ciência da Computação,6.2,3,Baixa,Baixa,Baixa,Não,Não,Não,10.8,352,1,República/Amigos,Média-Baixa,2.37,Dropout
+1949,31,Masculino,Engenharia Civil,4.0,0,Baixa,Baixa,Moderada,Não,Não,Não,6.0,391,0,República/Amigos,Média,4.9,Graduate
+1950,34,Feminino,Engenharia Civil,5.9,2,Moderada,Alta,Moderada,Sim,Não,Não,3.0,75,2,Pais/Família,Baixa Renda,2.86,Dropout
+1951,34,Feminino,Engenharia Civil,8.0,0,Baixa,Moderada,Alta,Não,Não,Sim,6.2,493,0,Pais/Família,Média,3.4,Graduate
+1952,31,Feminino,Engenharia Civil,5.8,3,Moderada,Baixa,Baixa,Não,Não,Não,7.5,521,3,Sozinho/Cônjuge,Média,2.89,Graduate
+1953,26,Feminino,Direito,7.5,4,Alta,Alta,Alta,Não,Não,Não,8.4,116,2,Pais/Família,Alta,3.23,Graduate
+1954,25,Feminino,Letras,6.2,4,Moderada,Alta,Moderada,Não,Não,Não,7.6,279,2,República/Amigos,Média,2.96,Graduate
+1955,19,Feminino,Administração,7.0,3,Moderada,Baixa,Alta,Sim,Sim,Sim,6.0,174,1,República/Amigos,Média-Baixa,3.8,Graduate
+1956,30,Feminino,Direito,4.8,1,Baixa,Baixa,Baixa,Sim,Não,Não,10.4,294,0,Pais/Família,Média-Baixa,2.13,Graduate
+1957,24,Masculino,Direito,6.6,1,Alta,Baixa,Baixa,Sim,Não,Não,4.9,450,0,Pais/Família,Baixa Renda,2.24,Dropout
+1958,26,Masculino,Ciência da Computação,4.0,4,Baixa,Moderada,Baixa,Não,Não,Não,6.5,517,1,Pais/Família,Média-Baixa,1.94,Dropout
+1959,28,Masculino,Ciência da Computação,6.2,4,Alta,Baixa,Moderada,Sim,Não,Não,4.8,20,2,Pais/Família,Baixa Renda,3.69,Graduate
+1960,31,Feminino,Letras,4.1,3,Baixa,Moderada,Baixa,Não,Não,Não,7.0,72,4,Pais/Família,Média-Baixa,2.76,Dropout
+1961,21,Feminino,Administração,8.3,1,Baixa,Baixa,Alta,Não,Não,Não,10.2,35,3,Pais/Família,Média,3.0,Graduate
+1962,30,Masculino,Ciência da Computação,7.7,4,Baixa,Moderada,Alta,Não,Não,Não,6.7,506,3,Pais/Família,Média-Baixa,4.47,Graduate
+1963,19,Feminino,Letras,7.2,1,Moderada,Moderada,Baixa,Não,Sim,Não,6.7,232,2,República/Amigos,Média-Baixa,2.61,Dropout
+1964,22,Feminino,Letras,8.8,4,Baixa,Baixa,Moderada,Não,Não,Não,3.6,496,1,Sozinho/Cônjuge,Média-Baixa,3.84,Graduate
+1965,28,Masculino,Psicologia,5.1,0,Moderada,Moderada,Moderada,Não,Não,Não,6.4,205,0,Pais/Família,Média-Baixa,2.12,Dropout
+1966,23,Masculino,Administração,9.0,2,Moderada,Moderada,Alta,Sim,Não,Não,9.3,425,2,Sozinho/Cônjuge,Alta,3.31,Graduate
+1967,27,Feminino,Ciência da Computação,7.9,0,Moderada,Moderada,Baixa,Não,Sim,Não,6.5,43,0,Sozinho/Cônjuge,Média-Baixa,2.97,Dropout
+1968,21,Feminino,Administração,6.1,4,Moderada,Moderada,Baixa,Não,Não,Não,6.4,90,4,Sozinho/Cônjuge,Média,1.72,Dropout
+1969,26,Masculino,Direito,8.2,2,Baixa,Moderada,Moderada,Não,Não,Não,9.2,469,2,Sozinho/Cônjuge,Média-Baixa,4.54,Graduate
+1970,23,Feminino,Direito,4.8,2,Baixa,Moderada,Moderada,Não,Não,Não,6.4,466,0,Pais/Família,Baixa Renda,4.46,Graduate
+1971,19,Masculino,Administração,5.3,4,Alta,Baixa,Moderada,Não,Não,Não,9.6,453,0,Pais/Família,Média-Baixa,3.43,Dropout
+1972,34,Masculino,Psicologia,5.6,4,Baixa,Alta,Alta,Não,Não,Sim,4.4,594,1,República/Amigos,Média,3.88,Graduate
+1973,22,Não-Binário,Psicologia,5.7,1,Alta,Baixa,Alta,Não,Não,Não,8.4,332,1,República/Amigos,Baixa Renda,4.69,Graduate
+1974,23,Feminino,Administração,4.9,4,Moderada,Baixa,Baixa,Não,Não,Não,10.3,506,2,Sozinho/Cônjuge,Baixa Renda,2.44,Graduate
+1975,29,Masculino,Ciência da Computação,8.3,3,Alta,Moderada,Baixa,Sim,Não,Não,9.0,469,0,Sozinho/Cônjuge,Baixa Renda,2.24,Dropout
+1976,27,Masculino,Medicina,6.1,4,Alta,Alta,Baixa,Não,Não,Não,3.3,20,0,República/Amigos,Média,2.35,Dropout
+1977,23,Feminino,Psicologia,7.0,3,Alta,Baixa,Baixa,Não,Não,Sim,5.7,227,1,Pais/Família,Média,3.35,Graduate
+1978,25,Feminino,Engenharia Civil,5.6,4,Alta,Baixa,Baixa,Não,Não,Não,6.5,375,2,Pais/Família,Média-Baixa,2.48,Dropout
+1979,19,Masculino,Direito,4.0,1,Baixa,Baixa,Alta,Não,Não,Sim,9.0,129,1,Pais/Família,Média-Baixa,4.22,Graduate
+1980,29,Feminino,Administração,6.9,3,Baixa,Alta,Baixa,Não,Não,Não,4.3,413,3,República/Amigos,Média,2.26,Dropout
+1981,30,Feminino,Engenharia Civil,4.0,0,Baixa,Baixa,Alta,Sim,Sim,Não,5.0,70,1,República/Amigos,Média,3.03,Graduate
+1982,24,Feminino,Administração,6.4,3,Baixa,Baixa,Baixa,Não,Sim,Sim,3.8,403,1,Sozinho/Cônjuge,Média,2.37,Graduate
+1983,27,Masculino,Letras,4.4,1,Baixa,Moderada,Alta,Não,Não,Não,5.3,561,3,República/Amigos,Média,4.15,Graduate
+1984,30,Masculino,Direito,9.0,3,Moderada,Moderada,Moderada,Não,Sim,Sim,4.5,396,2,Sozinho/Cônjuge,Média,4.14,Graduate
+1985,34,Masculino,Direito,7.9,4,Baixa,Moderada,Alta,Sim,Não,Não,10.2,336,2,República/Amigos,Média-Baixa,4.25,Dropout
+1986,31,Feminino,Psicologia,6.7,4,Baixa,Baixa,Baixa,Não,Não,Não,5.7,504,1,Sozinho/Cônjuge,Média,2.13,Dropout
+1987,19,Feminino,Psicologia,8.4,1,Alta,Baixa,Baixa,Não,Não,Não,8.4,275,3,Pais/Família,Alta,2.86,Dropout
+1988,28,Masculino,Engenharia Civil,5.2,2,Baixa,Moderada,Baixa,Não,Não,Não,7.0,12,2,Sozinho/Cônjuge,Baixa Renda,2.08,Dropout
+1989,18,Feminino,Letras,7.3,4,Alta,Baixa,Moderada,Não,Não,Não,7.0,2,2,República/Amigos,Baixa Renda,2.82,Graduate
+1990,21,Feminino,Administração,6.8,0,Moderada,Baixa,Moderada,Sim,Não,Não,5.8,223,2,Pais/Família,Alta,3.92,Graduate
+1991,28,Masculino,Letras,6.9,1,Baixa,Moderada,Alta,Não,Não,Não,8.5,174,1,Pais/Família,Média-Baixa,2.96,Graduate
+1992,25,Não-Binário,Direito,8.4,3,Moderada,Moderada,Moderada,Não,Não,Sim,7.3,384,2,Sozinho/Cônjuge,Média,2.9,Graduate
+1993,28,Masculino,Engenharia Civil,7.6,3,Moderada,Moderada,Moderada,Não,Sim,Sim,7.2,240,1,Pais/Família,Média-Baixa,3.39,Graduate
+1994,21,Masculino,Medicina,6.9,0,Moderada,Alta,Baixa,Não,Não,Não,5.8,546,0,Pais/Família,Baixa Renda,3.19,Dropout
+1995,34,Não-Binário,Engenharia Civil,4.0,4,Alta,Moderada,Baixa,Sim,Não,Não,6.1,13,2,Pais/Família,Baixa Renda,2.88,Dropout
+1996,24,Feminino,Ciência da Computação,5.1,1,Moderada,Moderada,Alta,Não,Não,Não,8.2,194,1,República/Amigos,Baixa Renda,4.8,Graduate
+1997,25,Masculino,Engenharia Civil,6.3,0,Moderada,Baixa,Baixa,Não,Sim,Não,7.5,396,4,Sozinho/Cônjuge,Baixa Renda,1.65,Graduate
+1998,20,Não-Binário,Letras,6.6,4,Moderada,Moderada,Alta,Não,Não,Não,7.2,430,2,Pais/Família,Média-Baixa,3.25,Graduate
+1999,19,Feminino,Ciência da Computação,4.8,1,Moderada,Moderada,Moderada,Não,Não,Sim,5.5,305,1,Pais/Família,Média,2.35,Graduate
+2000,32,Masculino,Ciência da Computação,9.0,3,Alta,Moderada,Moderada,Não,Não,Não,10.9,333,0,Sozinho/Cônjuge,Alta,2.9,Dropout

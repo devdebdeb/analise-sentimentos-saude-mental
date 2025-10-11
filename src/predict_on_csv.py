@@ -65,6 +65,6 @@ def predict_scores_from_csv(input_csv_path: str, output_csv_path: str):
 
 if __name__ == "__main__":
     # Define os nomes dos arquivos de entrada e saída
-    arquivo_de_entrada = 'textos_para_analise.csv'
-    arquivo_de_saida = 'resultados_analise.csv'
+    arquivo_de_entrada = '/data/textos_para_analise_novo.csv'
+    arquivo_de_saida = '/data/resultados_saude_mental.csv'
     predict_scores_from_csv(input_csv_path=arquivo_de_entrada, output_csv_path=arquivo_de_saida)

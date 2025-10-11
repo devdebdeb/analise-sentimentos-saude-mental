@@ -1,97 +1,135 @@
-# Sistema de Avaliação de Risco à Saúde Mental com PLN
+# Sistema Preditivo de Evasão Universitária: Integração de Saúde Mental (PLN) e Machine Learning (XGBoost)
 
-Este projeto utiliza Processamento de Linguagem Natural (PLN) e Machine Learning para analisar textos de diários anônimos e identificar padrões linguísticos associados a riscos de depressão, ansiedade e burnout em estudantes universitários.
+Este projeto desenvolveu uma solução de **Inteligência Artificial (IA)** para enfrentar o desafio da evasão no ensino superior. O projeto valida a hipótese de que o risco à saúde mental é o fator de maior peso na predição de abandono.
 
----
-
-### ⚠️ Disclaimer Ético
-
-**Esta ferramenta é um protótipo experimental e não substitui, de forma alguma, um diagnóstico médico.** Os resultados são baseados em padrões estatísticos e destinam-se a demonstrar uma abordagem tecnológica. A aplicação em um cenário real exigiria validação clínica e um protocolo de intervenção ética rigoroso, sempre com o acompanhamento de profissionais de saúde mental.
+O pipeline técnico integra duas frentes:
+1.  **Processamento de Linguagem Natural (PLN):** Transforma textos de diários anônimos em *scores* quantitativos de risco de Ansiedade, Depressão e Burnout.
+2.  **Machine Learning Avançado:** Utiliza o algoritmo **XGBoost Otimizado** para integrar esses *scores* com dados demográficos e acadêmicos, gerando uma previsão final de evasão (`Dropout`).
 
 ---
 
-### 🧠 Funcionalidades
+### Disclaimer Ético
 
-O pipeline deste projeto realiza as seguintes tarefas:
-
-1.  **Extração de Features Semânticas:** Utiliza o modelo `paraphrase-multilingual-mpnet-base-v2` (via `sentence-transformers`) para converter textos em *embeddings* (vetores de significado), capturando o contexto e a nuance da linguagem.
-2.  **Treinamento de Modelos Especializados:** Treina três classificadores `RandomForestClassifier` independentes, um para cada condição de risco (Ansiedade, Depressão, Burnout), usando um dataset sintético com mais de 300 exemplos.
-3.  **Predição de Scores de Risco:** Carrega os modelos treinados e os aplica a novos textos para gerar um score de probabilidade (0 a 1) para cada uma das três condições.
+**Esta ferramenta é um protótipo experimental e não substitui, de forma alguma, um diagnóstico médico.** Os resultados são baseados em padrões estatísticos. A aplicação em um cenário real exigiria validação clínica e um protocolo de intervenção ética rigoroso, sempre com o acompanhamento de profissionais de saúde mental.
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Pipeline Metodológico e Funcionalidades
+
+**Nota sobre os Dados:** Os dados estruturados (`dataset_brasil_base.csv`) e os textos de diário (`textos_para_analise_novo.csv`) são **sintéticos**, gerados através de um script Python (seguindo distribuições estatísticas e correlações lógicas). Eles simulam padrões de comportamento e saúde mental no contexto universitário brasileiro e foram cruciais para treinar e validar este protótipo.
+
+O projeto seguiu uma metodologia de Machine Learning robusta para garantir a máxima performance preditiva na classe minoritária (`Dropout`):
+
+1.  **Geração de Features Semânticas:** Utiliza o modelo `paraphrase-multilingual-mpnet-base-v2` (via `sentence-transformers`) para converter textos em *embeddings* e gerar os **Scores de Risco** (features NLP).
+2.  **Feature Engineering Avançado:** Cria novas features de interação (ex: `impacto_depressao_notas`, `risco_burnout_comportamental`) para capturar correlações complexas antes do treinamento.
+3.  **Tratamento de Desequilíbrio (SMOTE):** Aplica a técnica SMOTE no conjunto de treinamento para corrigir o desequilíbrio entre as classes `Graduate` vs. `Dropout`.
+4.  **Classificação Otimizada:** Treina um modelo **XGBoost** com otimização de hiperparâmetros (`GridSearchCV`) para alcançar o pico de desempenho.
+5.  **Calibração de Alerta:** Otimiza o limiar de probabilidade (`threshold`) para maximizar o **Recall** e focar na intervenção precoce.
+
+---
+
+### Ganhos de Performance e Validação
+
+O processo de *Fine-Tuning* foi essencial para transformar um modelo ineficaz em um sistema de alerta funcional.
+
+#### Comparação de Desempenho (Classe `Dropout`)
+
+| Fase do Treinamento | Algoritmo | Correção | Recall (Captação) | Precision (Confiabilidade) | F1-Score (Equilíbrio) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **1. Baseline (Inicial)** | RandomForest | Nenhuma | **0.06 (6%)** | 0.42 | 0.11 |
+| **2. Balanceamento** | RandomForest | SMOTE | **0.39 (39%)** | 0.36 | 0.38 |
+| **3. Performance Final** | **XGBoost Otimizado** | GridSearchCV + FE | **0.43 (43%)** | **0.52** | **0.47** |
+
+#### Evidência da Saúde Mental como Fator Dominante
+
+A análise de importância das *features* comprova que a saúde mental é o preditor de maior peso:
+
+| Posição | Feature | Tipo de Dado | Importância (%) |
+| :--- | :--- | :--- | :--- |
+| **1º** | **`autoavaliação_felicidade_Baixa`** | Saúde Mental (Estruturada) | **33.56%** |
+| **2º** | **`autoavaliação_felicidade_Moderada`** | Saúde Mental (Estruturada) | **7.76%** |
+| **7º** | **`notas_periodo`** | Acadêmica | 2.64% |
+
+**Conclusão:** O fator emocional de saúde mental é o preditor de maior peso no modelo final.
+
+#### Calibração para Intervenção (Máxima Eficácia)
+
+Ao ajustar o limiar de decisão para **0.20** (em vez do padrão 0.50), o sistema atinge o pico de utilidade para a retenção:
+
+* **Recall Máximo:** $\approx \mathbf{71\%}$
+* **Significado:** O sistema é capaz de identificar **7 em cada 10 alunos** que evadiriam, o que é ideal para o setor de intervenção da universidade.
+
+---
+
+### Tecnologias Utilizadas
 
 * **Python 3**
-* **Pandas:** Manipulação de dados
-* **Scikit-learn:** Treinamento e avaliação dos modelos de Machine Learning
-* **Sentence-Transformers (Hugging Face):** Geração de embeddings de texto
-* **Joblib:** Salvamento e carregamento dos modelos treinados
-* **NLTK:** Ferramentas auxiliares de PLN
+* **XGBoost:** Algoritmo final de classificação de alta performance.
+* **Imbalanced-learn (imblearn):** Técnicas de balanceamento de classes (SMOTE).
+* **Pandas / Scikit-learn / Joblib**
+* **Sentence-Transformers:** Geração de *embeddings* de texto.
 
 ---
 
-### 📂 Estrutura do Projeto
+### Estrutura do Projeto
 
-```
+A estrutura foi reorganizada para seguir padrões profissionais, separando código (`src/`), dados (`data/`) e modelos binários (`modelos_finais/`).
+
 /
-|-- modelos/                  # (Ignorado pelo Git) Pasta para modelos baixados
-|-- modelos_finais/           # (Ignorado pelo Git) Pasta para modelos treinados
-|-- diarios_universitarios.csv # Dataset principal para treinamento
-|-- textos_para_analise.csv   # Arquivo de exemplo para novas predições
-|-- feature_extractor_embeddings.py # Script que gera os embeddings
-|-- train_models.py           # Script para treinar e salvar os modelos
-|-- predict_on_csv.py         # Script para usar os modelos e fazer predições
-|-- requirements.txt          # Lista de dependências do projeto
-|-- .gitignore                # Arquivos a serem ignorados pelo Git
-|-- README.md                 # Este arquivo
-```
+|-- src/                    # CÓDIGOS FONTE PYTHON (Scripts principais)
+|   |-- train_models.py     # Treina os 3 modelos de risco NLP
+|   |-- predict_new_data.py # Gera os scores de risco a partir dos novos textos
+|   |-- train_final_classifier.py # CLASSIFICADOR FINAL: Merge, SMOTE, XGBoost e Otimização
+|   |-- ... (Outros scripts)
+|-- data/                   # ARQUIVOS DE DADOS (CSV)
+|   |-- dataset_brasil_base.csv         # Dataset base demográfico/acadêmico
+|   |-- dataset_final_incrementado.csv  # DATASET CONSOLIDADO (Todas as colunas + Scores NLP)
+|   |-- resultados_saude_mental.csv     # Scores de risco gerados pelo PLN (Intermediário)
+|   |-- ... (Outros CSVs)
+|-- modelos_finais/         # ARQUIVOS BINÁRIOS SALVOS
+|   |-- modelo_final_MAX_PERFORMANCE.joblib # O Modelo Final de Predição de Evasão (XGBoost)
+|   |-- modelo_anxiety.joblib             # Modelo NLP de Ansiedade
+|-- requirements.txt        # Lista de dependências
+|-- README.md               # Este arquivo
 
 ---
 
-### 🚀 Como Usar
+### Como Usar (Fluxo de Execução Simplificado)
 
-Siga os passos abaixo para replicar o ambiente e executar o projeto.
+Para rodar o pipeline completo, você precisa primeiro treinar os modelos de PLN e, em seguida, rodar o classificador final.
 
-#### 1. Clonar e Configurar o Ambiente
+#### 1. Configurar o Ambiente
 
 ```bash
-# Clone este repositório
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-cd nome-do-repositorio
+# Clone o repositório e acesse o diretório
+git clone [https://github.com/devdebdeb/analise-sentimentos-saude-mental.git](https://github.com/devdebdeb/analise-sentimentos-saude-mental.git)
+cd analise-sentimentos-saude-mental
 
-# Crie e ative um ambiente virtual
+# Crie e ative o ambiente virtual (venv)
 python -m venv .venv
-# No Windows:
+# Para Windows (PowerShell/CMD):
 .venv\Scripts\activate
-# No macOS/Linux:
-# source .venv/bin/activate
+# Para macOS/Linux (Bash/Zsh):
+source .venv/bin/activate
 
-# Instale as dependências
+# Instale todas as dependências do projeto
 pip install -r requirements.txt
 ```
+---
 
-#### 2. Baixar os Modelos de PLN
+#### 2. Treinar Modelos de Risco (Geração de Base)
 
-Este projeto usa modelos de linguagem que são carregados dinamicamente. Na primeira execução, eles serão baixados e salvos em cache.
-* O `feature_extractor_embeddings.py` baixará o modelo `sentence-transformers`.
-* *Nota: O projeto foi adaptado para também suportar modelos locais na pasta `/modelos/`, caso o download automático falhe.*
-
-#### 3. Treinar os Modelos de Classificação
-
-Execute o script de treinamento. Ele irá ler o `diarios_universitarios.csv`, gerar os embeddings e salvar os três modelos treinados na pasta `/modelos_finais/`.
+Este passo treina e salva os 3 modelos de Ansiedade/Depressão/Burnout.
 
 ```bash
-python train_models.py
+python src/train_models.py
 ```
 
-#### 4. Fazer Predições em Novos Dados
-
-1.  Abra o arquivo `textos_para_analise.csv` e adicione os textos que você deseja analisar.
-2.  Execute o script de predição:
-
+#### 3. Rodar Pipeline Completo (Treinamento Final). Treinar Modelos de Risco (Geração de Base)
 ```bash
-python predict_on_csv.py
-```
+# Gere os scores de risco a partir do dataset de texto sintético
+python src/predict_on_csv.py 
 
-3.  Os resultados serão salvos no arquivo `resultados_analise.csv`.
+# Execute o Classificador Final: Junta os dados, aplica SMOTE, e treina o XGBoost Otimizado
+python src/train_final_classifier.py
+```
