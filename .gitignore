@@ -1,0 +1,30 @@
+# Ambiente Virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+
+# Modelos baixados e salvos (MUITO IMPORTANTE)
+# Não subimos os modelos treinados (.joblib) nem os baixados (cardiffnlp)
+# pois são muito grandes. O README explicará como treiná-los.
+/modelos/
+/modelos_finais/
+
+# Cache da Hugging Face (se criado localmente)
+.cache/
+
+# Arquivos de output gerados
+resultados_analise.csv
+
+# Arquivos de diagnóstico que criamos
+check_leia.py
+verify_leia_files.py

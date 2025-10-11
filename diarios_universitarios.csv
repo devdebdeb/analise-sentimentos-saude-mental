@@ -1,0 +1,265 @@
+student_id,entry_date,diary_text,ground_truth_label
+101,2025-09-01,"Primeira semana do semestre, estou animado. Conheci pessoas novas no meu grupo e o projeto parece interessante. Acho que vai ser um bom período.",saudavel
+102,2025-09-02,"Já estou exausto. A quantidade de leituras é absurda. Sinto que não vou dar conta, mas todo mundo parece estar bem. O problema deve ser comigo mesmo.",risco_depressao
+103,2025-09-03,"Não consigo parar de pensar no prazo da semana que vem. E se o professor não gostar do meu tema? Talvez eu devesse mudar tudo. Meu estômago está revirado só de pensar nisso.",risco_ansiedade
+104,2025-09-04,"Comecei a trabalhar no TCC. É muita coisa, mas estou motivado. Se eu me organizar direitinho, vai dar tudo certo.",saudavel
+105,2025-09-05,"Me sinto tão para baixo hoje. A solidão bateu forte. Ao mesmo tempo, fico ansioso pensando que todos estão saindo e eu estou aqui. É uma mistura péssima de sentimentos.",risco_misto
+101,2025-09-06,"A matéria de cálculo é mais difícil do que eu pensava. Fui mal na primeira prova e agora estou preocupado se vou conseguir recuperar. Preciso montar um plano de estudos.",risco_ansiedade
+102,2025-09-08,"Faltei a aula de novo. Não tinha energia pra levantar. A culpa é enorme, mas a cama parecia o único lugar seguro. Eu sou um fracasso.",risco_depressao
+103,2025-09-09,"Tive uma pequena crise hoje antes de apresentar o trabalho. Minhas mãos suavam e achei que ia desmaiar. Depois que passou, me senti exausto. Por que eu fico assim?",risco_ansiedade
+104,2025-09-10,"Trabalhei o dia inteiro no TCC e mal avancei. Parece um esforço inútil. Pra que tudo isso? Sinto um cansaço que não passa, nem com 8 horas de sono.",risco_burnout
+105,2025-09-11,"Hoje até que foi um dia bom. Consegui terminar uma tarefa e isso me deu um alívio. Talvez as coisas não sejam tão ruins assim.",saudavel
+101,2025-09-12,"Saí com o pessoal da faculdade. Foi divertido, consegui relaxar um pouco e não pensar nas provas. Fez bem.",saudavel
+102,2025-09-14,"Um amigo me chamou pra sair mas eu inventei uma desculpa. Não consigo socializar. Sinto que não tenho nada de interessante pra dizer. É sempre a mesma coisa, esse vazio.",risco_depressao
+103,2025-09-15,"Estou constantemente checando meu email esperando a nota do trabalho. Essa espera é uma tortura. Fico imaginando os piores cenários possíveis.",risco_ansiedade
+104,2025-09-16,"O orientador criticou meu trabalho. Sinceramente, perdi toda a vontade de continuar. O curso todo parece uma perda de tempo. Um esforço gigantesco para um futuro incerto.",risco_burnout
+105,2025-09-17,"A ansiedade atacou forte hoje. Não sei porquê. Mas depois chorei um pouco e me senti um pouco melhor, apesar de triste. Que confusão.",risco_misto
+106,2025-09-18,"A grana está curta este mês. Fico preocupado se vou conseguir pagar o aluguel. Essa pressão financeira tira meu sono.",risco_ansiedade
+107,2025-09-19,"Me senti bem hoje. Participei da aula, fiz perguntas. Senti que estou no lugar certo, fazendo o que eu gosto.",saudavel
+102,2025-09-20,"As pessoas dizem 'vai ficar tudo bem', mas elas não entendem. Nada está bem. Eu me sinto quebrado por dentro e não sei como consertar.",risco_depressao
+104,2025-09-21,"Outro final de semana que passo trancado trabalhando. Não sinto mais prazer em nada. A faculdade virou um fardo pesado e sem propósito.",risco_burnout
+103,2025-09-22,"Tenho uma entrevista de estágio amanhã. E se eu falar alguma besteira? E se eles não gostarem de mim? Já estou ensaiando as respostas mil vezes na minha cabeça.",risco_ansiedade
+101,2025-09-23,"Conversei com o professor e ele me deu umas dicas para a prova. Me senti mais calmo. Acho que consigo recuperar a nota.",saudavel
+105,2025-09-24,"Hoje a tristeza e a preocupação estão em uma trégua. Consegui assistir uma série e me distrair. Um dia normal, finalmente.",saudavel
+106,2025-09-25,"Recebi um dinheiro extra que não esperava. Que alívio! Pelo menos uma preocupação a menos para lidar.",saudavel
+107,2025-09-26,"Dia difícil. Muita pressão dos pais pra ter boas notas. Sinto que não posso decepcioná-los, e isso me deixa muito ansioso.",risco_ansiedade
+102,2025-09-27,"Pensei em procurar ajuda, mas desisti. Que adiantaria? O problema sou eu. Ninguém pode mudar isso.",risco_depressao
+104,2025-09-28,"Estou tão cínico com as aulas. Os professores falam, falam, e nada parece se conectar com a realidade. Sinto um distanciamento enorme de tudo e de todos.",risco_burnout
+103,2025-09-29,"Sonhei que perdia o prazo do TCC. Acordei com o coração na boca. Essa preocupação não me deixa em paz nem dormindo.",risco_ansiedade
+105,2025-09-30,"Sinto um medo constante de que algo ruim vai acontecer, mas ao mesmo tempo não tenho energia para fazer nada a respeito. Fico paralisado.",risco_misto
+101,2025-10-01,"Semana de provas finalmente acabou. Estou exausto, mas aliviado. Agora é descansar.",saudavel
+102,2025-10-02,"Mesmo com o fim das provas, a sensação de vazio continua. Eu achei que ia melhorar, mas não melhorou. Talvez nunca melhore.",risco_depressao
+104,2025-10-03,"Entreguei mais um capítulo do TCC. Não senti orgulho, nem alívio. Só senti que era mais uma tarefa inútil concluída. A exaustão mental é total.",risco_burnout
+103,2025-10-04,"Agora que as provas acabaram, já estou ansioso com as notas. E se eu não passei? Minha mente não para um segundo. Preciso arranjar algo pra me distrair.",risco_ansiedade
+106,2025-10-05,"Briguei com meus pais por causa de dinheiro de novo. Me sinto um peso para eles, e isso me deixa muito pra baixo.",risco_misto
+107,2025-10-06,"O time da faculdade ganhou o campeonato. Fui assistir e a energia do pessoal foi contagiante. Um dia feliz.",saudavel
+105,2025-10-07,"Tem dias que a ansiedade grita mais alto, tem dias que é a tristeza. Hoje as duas estão aqui, conversando baixo. Eu só queria silêncio.",risco_misto
+102,2025-10-08,"Tudo é um esforço. Tomar banho, comer, responder mensagens. As coisas mais simples se tornaram montanhas para escalar. Não tenho mais forças.",risco_depressao
+104,2025-10-09,"Um colega veio falar do futuro, de carreira, de planos. Eu não consegui sentir nada. Nenhum pingo de animação. É como se essa parte de mim tivesse morrido.",risco_burnout
+103,2025-10-10,"Fico repassando conversas antigas na minha cabeça, pensando se eu disse algo errado. Essa preocupação com a opinião dos outros é desgastante.",risco_ansiedade
+101,2025-10-11,"Passei o dia organizando minhas anotações. Gosto de ver tudo em ordem, me dá uma sensação de controle e tranquilidade.",saudavel
+106,2025-10-12,"Consegui um bico de final de semana. O dinheiro vai ajudar e manter a cabeça ocupada também. Tomara que dê certo.",saudavel
+105,2025-10-13,"Hoje me senti sobrecarregado com tudo. A pressão para ser um bom aluno, um bom amigo, ter um futuro... É demais. A vontade é de desistir de tudo.",risco_misto
+102,2025-10-14,"Olho para o futuro e não vejo nada. Um borrão escuro. Essa falta de perspectiva é assustadora e paralisante.",risco_depressao
+107,2025-10-15,"Assisti a um documentário que me inspirou muito. Me deu várias ideias para projetos futuros. Adoro essa sensação de criatividade.",saudavel
+104,2025-10-16,"Hoje me perguntei por que escolhi este curso. Todo o encanto do começo se foi. Agora é só uma obrigação que eu preciso terminar logo para poder respirar.",risco_burnout
+103,2025-10-17,"Estou com uma dor de cabeça que não passa. Meu corpo todo está tenso. Sei que é porque estou preocupado com a viagem do final de semana. E se o carro estragar?",risco_ansiedade
+101,2025-10-18,"Viajei com amigos no final de semana. Foi incrível, demos muita risada. Voltei com as energias recarregadas.",saudavel
+102,2025-10-19,"As pessoas se divertem, seguem em frente. Eu me sinto preso no mesmo lugar, assistindo a vida passar pela janela. Uma tristeza profunda que não tem nome.",risco_depressao
+105,2025-10-20,"Sinto meu peito apertado e uma vontade de chorar sem motivo. É uma angústia que vem do nada e me deixa sem chão. Tento entender o porquê, mas não consigo.",risco_misto
+104,2025-10-21,"O professor elogiou meu trabalho na frente da turma. Eu deveria ter ficado feliz, mas não senti nada. Foi como se ele estivesse falando de outra pessoa. Estou apático.",risco_burnout
+103,2025-10-22,"Minha mãe me ligou e pareceu preocupada. Agora estou preocupado que ela esteja preocupada. Não quero ser um fardo para minha família.",risco_ansiedade
+201,2025-09-05,"Início de semestre, gás total. Criei um cronograma de estudos e estou conseguindo seguir. As matérias parecem difíceis, mas estou confiante.",saudavel
+202,2025-09-06,"Me sinto horrível. Não queria ter vindo pra faculdade hoje. Parece que todo mundo tem amigos e eu sou invisível. A saudade de casa está me matando.",risco_depressao
+203,2025-09-07,"Comecei bem a semana, mas um professor marcou uma prova surpresa. Agora estou em pânico total, achando que não vou dar conta de estudar tudo a tempo. Minha cabeça não para.",risco_ansiedade
+204,2025-09-08,"Que semana! Prova, trabalho, seminário. É muita pressão, mas faz parte. No fim de semana eu compenso e relaxo.",saudavel
+201,2025-09-15,"O cronograma já foi pro espaço. Perdi um prazo e agora estou correndo atrás. A sensação de estar sempre atrasado é péssima, fico preocupado com as consequências disso.",risco_ansiedade
+202,2025-09-16,"Conversei com a psicóloga da faculdade hoje. Foi difícil, chorei bastante, mas foi bom falar. Ela me passou umas tarefas. Estou com medo de não funcionar, mas é uma luz.",risco_misto
+203,2025-09-17,"A prova foi um desastre. Eu sabia a matéria, mas na hora me deu um branco. Fiquei tão nervosa que não lembrava de nada. Agora a tristeza bateu forte, me sinto uma completa idiota.",risco_misto
+204,2025-09-18,"A apresentação do seminário foi ótima. Me senti super bem, recebi elogios. É bom ver o esforço dando resultado.",saudavel
+201,2025-09-25,"Não aguento mais. Passo o dia na frente do computador, as aulas parecem todas iguais, os trabalhos não têm fim. Não sinto mais nenhuma empolgação, só um cansaço infinito.",risco_burnout
+202,2025-09-26,"Fiz uma das tarefas que a psicóloga passou: caminhar por 30 minutos ouvindo música. No começo foi um esforço, mas depois me senti um pouco mais leve. Um passinho de cada vez.",saudavel
+203,2025-09-27,"Depois da prova, perdi a vontade de ir pra aula. Para quê? Eu sempre estrago tudo na hora H. É um sentimento horrível de incapacidade, de que não importa o quanto eu estude.",risco_depressao
+204,2025-10-01,"Estou bem, mas a rotina está pesada. Às vezes a ansiedade bate quando penso em tudo que ainda falta fazer, mas estou tentando manter o equilíbrio.",risco_ansiedade
+201,2025-10-05,"Hoje um veterano fez uma piada sobre como nosso curso 'suga a alma'. Pior que eu nem consegui rir, porque é exatamente como eu me sinto. Um zumbi apático. Não vejo a hora de acabar.",risco_burnout
+202,2025-10-06,"Comecei a frequentar um grupo de estudos. Fiquei ansioso no começo, mas o pessoal é legal. Explicar a matéria para um colega me fez sentir útil de novo.",saudavel
+203,2025-10-07,"Meus pais ligaram pra saber as notas. Menti, disse que estava tudo bem. A culpa e a vergonha estão me corroendo. Me sinto a pior filha do mundo.",risco_depressao
+204,2025-10-08,"Semana de provas de novo. Lá vem a ansiedade. Mas acho que estou lidando um pouco melhor desta vez. Organizei os estudos e estou tentando não pensar no pior.",risco_ansiedade
+201,2025-10-15,"Entreguei o último trabalho do bimestre. Não senti nada. Nem alívio. Só um vazio. O esgotamento é tão grande que não sobrou espaço para outros sentimentos.",risco_burnout
+202,2025-10-16,"Hoje tive um dia genuinamente bom. Ri com meus novos amigos do grupo de estudos e até me ofereci para ajudar em um projeto. A sensação de vazio parece estar diminuindo.",saudavel
+203,2025-10-17,"Passei o dia no quarto, no escuro. Não respondi ninguém. O mundo lá fora parece muito barulhento e complicado. Aqui dentro, pelo menos, só tem a minha tristeza.",risco_depressao
+204,2025-10-18,"As provas foram difíceis, mas sobrevivi. Agora estou só o pó da rabiola. Preciso de uns dias sem pensar em faculdade pra recarregar.",risco_burnout
+301,2025-09-02,"Estou sobrecarregado. Cada professor age como se a matéria dele fosse a única. Não sei por onde começar a estudar. A sensação é de afogamento.",risco_ansiedade
+302,2025-09-03,"Mais um dia em que fingi que estava tudo bem. Sorri, conversei, mas por dentro eu só sentia um vazio oco. É exaustivo manter essa máscara.",risco_depressao
+303,2025-09-04,"Tudo me irrita ultimamente. A lentidão da internet, o barulho dos vizinhos, até a voz de alguns professores. Sinto uma raiva constante, mas guardo pra mim. O resultado é uma dor de cabeça que não passa.",risco_burnout
+304,2025-09-05,"Acho que estou doente. Meu coração dispara do nada, sinto falta de ar e uma tontura estranha. Fui pesquisar e os sintomas batem com ataque de pânico. Isso me deixou com mais medo ainda.",risco_ansiedade
+305,2025-09-06,"Eu só queria voltar no tempo. Lembro de quando eu gostava de vir pra faculdade. Agora cada dia é um fardo. Perdi o interesse em tudo que eu amava. A música não tem mais cor, a comida não tem mais gosto.",risco_depressao
+301,2025-09-08,"Fiz uma lista de tarefas e consegui cumprir metade. Me sinto um pouco menos sobrecarregado, mas a ansiedade sobre o resto da lista ainda está aqui.",risco_ansiedade
+302,2025-09-09,"Hoje chorei no banheiro da faculdade. Um comentário bobo de um colega foi o gatilho. Me senti tão humilhado e pequeno. Por que eu sou tão sensível? A culpa é minha.",risco_depressao
+303,2025-09-10,"Estou tratando os outros com uma rispidez que não é minha. Descontei na minha mãe no telefone. Depois me senti culpado, mas o pavio está curto. Não tenho paciência pra mais nada.",risco_burnout
+306,2025-09-11,"Finalmente entendi a matéria de estatística! Um colega me explicou de outro jeito e a ficha caiu. Que sensação boa de clareza.",saudavel
+307,2025-09-12,"Sexta-feira, dia de relaxar. Fui no bar com a turma, jogamos conversa fora. Preciso fazer isso mais vezes, lava a alma.",saudavel
+301,2025-09-14,"Tenho que entregar um artigo semana que vem e nem comecei. Fico paralisado pensando em tudo que preciso fazer, e acabo não fazendo nada. É um ciclo vicioso de procrastinação e pânico.",risco_ansiedade
+302,2025-09-15,"Meu sono está todo desregulado. Ou eu durmo 12 horas e acordo cansado, ou passo a noite em claro. Meu corpo parece pesar uma tonelada.",risco_depressao
+303,2025-09-16,"Vi um post sobre a síndrome do impostor e me identifiquei 100%. Sinto que sou uma fraude, que a qualquer momento vão descobrir que não sou inteligente o suficiente pra estar aqui. É um sentimento cínico e cansativo.",risco_burnout
+304,2025-09-17,"Evitei pegar o ônibus hoje e vim a pé pra faculdade. O medo de ter outra crise na frente de todo mundo é apavorante. Estou limitando minha vida por causa desse medo.",risco_ansiedade
+305,2025-09-18,"Aquele sentimento de inutilidade de novo. Olho meus colegas, todos tão inteligentes e engajados. Eu me sinto um zero à esquerda, um erro no sistema.",risco_depressao
+308,2025-09-19,"Maratonei uma série o dia inteiro. Zero produtividade, mas era o que eu precisava. Um dia pra não pensar em nada.",saudavel
+301,2025-09-20,"Sinto uma angústia no peito que não passa. Uma preocupação sem nome. É como esperar por uma notícia ruim que nunca chega. Desgastante.",risco_ansiedade
+302,2025-09-22,"Tudo me lembra dos meus fracassos. Uma nota ruim, um comentário, um olhar. Minha mente é um arquivo de todas as vezes que eu errei.",risco_depressao
+303,2025-09-23,"O professor passou um trabalho em grupo. Ótimo, mais um motivo pra me estressar. Já sei que vou acabar fazendo tudo sozinho porque não confio na competência de ninguém.",risco_burnout
+305,2025-09-24,"Eu queria ter a energia pra me cuidar, pra fazer exercício. Mas não tenho. A tristeza suga toda a minha força. É uma batalha perdida antes de começar.",risco_depressao
+304,2025-09-25,"Tive que apresentar um seminário. Minha voz tremia, eu suava frio. Li os slides correndo só pra acabar logo. Que vergonha.",risco_ansiedade
+306,2025-09-26,"Participei de um evento voluntário na faculdade. Ajudar os outros me fez sentir útil e conectado. Foi um dia muito gratificante.",saudavel
+307,2025-09-27,"Passei o dia no parque, lendo um livro que não era da faculdade. Foi tão bom. Lembrei que existe vida fora dos estudos.",saudavel
+301,2025-09-29,"A preocupação com dinheiro está me consumindo. As contas não fecham e eu não sei o que fazer. Essa incerteza sobre o futuro é aterrorizante.",risco_ansiedade
+302,2025-09-30,"Eu me sinto tão desconectado de tudo. As pessoas riem, conversam, e eu me sinto atrás de um vidro, apenas observando. Não faço mais parte do mundo.",risco_depressao
+303,2025-10-01,"Mais uma noite mal dormida. Acordo mais cansado do que quando fui deitar. O burnout está me consumindo fisicamente.",risco_burnout
+305,2025-10-02,"Aquele vazio de novo. Tento preencher com comida, com série, mas nada adianta. É um buraco na alma que nada tampa.",risco_depressao
+304,2025-10-03,"Fico repassando na minha cabeça tudo que eu tenho que fazer. A lista mental é infinita e parece que nunca vou dar conta. É uma pressão que eu mesmo coloco em mim.",risco_ansiedade
+308,2025-10-04,"Reencontrei um amigo do colégio. Foi ótimo colocar o papo em dia e lembrar de outras fases da vida.",saudavel
+301,2025-10-06,"Não consigo relaxar. Mesmo no final de semana, minha mente está a milhão, pensando nas obrigações da semana seguinte. Eu esqueci como se desliga.",risco_ansiedade
+302,2025-10-07,"Me olho no espelho e não me reconheço. Um olhar cansado, triste. Perdi o brilho que eu tinha. É deprimente.",risco_depressao
+303,2025-10-08,"Tive que ajudar um calouro hoje. Ele estava tão animado com o curso. Foi como olhar para uma versão antiga de mim mesmo. Agora, só sinto indiferença e um cansaço profundo.",risco_burnout
+304,2025-10-09,"Sinto que estou sempre em modo de alerta, esperando o próximo problema aparecer. Qualquer email da faculdade já me dá um frio na barriga.",risco_ansiedade
+305,2025-10-10,"É horrível sentir que você é um fardo para as pessoas que ama. Eu me isolo para não incomodar, mas o isolamento só piora a tristeza. É uma armadilha.",risco_depressao
+307,2025-10-11,"Fiz uma faxina geral no meu quarto, coloquei música alta. Organizar a bagunça de fora ajudou a organizar um pouco a de dentro.",saudavel
+306,2025-10-12,"Experimentei uma receita nova hoje. Cozinhar me acalma. E ficou bom! Pequenas vitórias que fazem a diferença.",saudavel
+301,2025-10-13,"A ansiedade é tão física. Dor de estômago, tensão nos ombros, dor de cabeça. Meu corpo está gritando por socorro.",risco_ansiedade
+302,2025-10-14,"Eu só queria que alguém entendesse sem que eu precisasse explicar. Mas como explicar um sentimento que nem eu entendo direito? É mais fácil ficar quieto.",risco_depressao
+303,2025-10-15,"Outro prazo apertado, outra noite virada. Já aceitei que a exaustão é meu estado normal. Não lembro mais como é se sentir descansado.",risco_burnout
+304,2025-10-16,"Tenho medo do futuro. Medo de não conseguir um emprego, de não ser bom o suficiente. Esses pensamentos me assombram, principalmente à noite.",risco_ansiedade
+305,2025-10-17,"Hoje senti uma pontada de raiva no meio da tristeza. Raiva de mim mesmo, por ser assim. É mais um sentimento ruim para a coleção.",risco_misto
+308,2025-10-18,"Comecei um hobby novo, aulas de violão. É difícil, mas é um desafio bom. Gosto de ter algo pra focar que não seja a faculdade.",saudavel
+301,2025-10-20,"A apresentação em público foi hoje. Mesmo preparado, meu coração parecia que ia sair pela boca. A adrenalina é tanta que depois fico totalmente esgotado.",risco_ansiedade
+302,2025-10-21,"Me peguei pensando que talvez fosse melhor não existir. O pensamento me assustou, mas a sensação de que daria um fim a todo esse sofrimento foi estranhamente reconfortante. Preciso falar com alguém sobre isso.",risco_depressao
+303,2025-10-22,"O cinismo tomou conta. Não acredito mais em 'fazer a diferença'. A faculdade parece só um sistema pra moer a gente e nos cuspir no mercado de trabalho. Perdi a idealização.",risco_burnout
+304,2025-10-23,"Evitei uma festa da turma porque a ideia de estar no meio de muita gente, com música alta, me deixou apavorado. A ansiedade social está cada vez pior.",risco_ansiedade
+305,2025-10-24,"Às vezes a depressão é um tédio doloroso. Um dia cinza, sem emoção, onde nada te toca. Nem a tristeza, nem a alegria. Só um nada.",risco_depressao
+306,2025-10-25,"Liguei para os meus pais hoje só pra conversar. Foi bom ouvir a voz deles. Me senti um pouco menos sozinho no mundo.",saudavel
+307,2025-10-26,"Fui correr no parque. O esforço físico limpou minha mente. Voltei cansado, mas de um jeito bom.",saudavel
+301,2025-10-27,"Minha mente cria mil cenários catastróficos para cada pequena decisão. Escolher o que almoçar vira uma fonte de estresse. É ridículo e exaustivo.",risco_ansiedade
+302,2025-10-28,"Aquela sensação de peso nos ombros de novo. Como se eu carregasse o mundo. Mas o mundo é só a minha própria mente.",risco_depressao
+303,2025-10-29,"Entreguei um trabalho que eu sei que está medíocre, mas eu simplesmente não tive energia para fazer melhor. E o pior é que eu nem me importo mais.",risco_burnout
+304,2025-10-30,"Não consigo dormir. A cabeça não para de repassar os erros do dia e as preocupações de amanhã. Mais uma noite em claro.",risco_ansiedade
+305,2025-10-31,"Eu me sinto culpado por me sentir mal, e ansioso porque não melhoro. É uma bola de neve de sentimentos ruins que só cresce.",risco_misto
+401,2025-09-05,"A faculdade está me deixando exausto, mas o pior é a ansiedade. Sinto que nunca vou ser bom o suficiente e essa preocupação me consome dia e noite.",risco_misto
+402,2025-09-10,"Sinto uma tristeza tão funda que não consigo nem chorar. É só um peso, um cansaço de existir. E ao mesmo tempo, minha cabeça não para de se preocupar com o futuro.",risco_misto
+403,2025-09-15,"A pressão para entregar o TCC está me deixando em pânico. Não consigo dormir, e quando durmo tenho pesadelos. A falta de energia durante o dia só me deixa mais deprimido.",risco_misto
+404,2025-09-20,"Eu deveria estar feliz por ter passado na matéria, mas não sinto nada. Só um alívio momentâneo antes da próxima onda de preocupação começar. É um vazio ansioso.",risco_misto
+405,2025-09-25,"Não tenho vontade de ver meus amigos, mas fico ansioso pensando que eles vão me esquecer. Então fico em casa, me sentindo sozinho e culpado. É um beco sem saída.",risco_misto
+401,2025-09-30,"Hoje a crise de ansiedade foi tão forte que achei que estava tendo um infarto. Depois que passou, só sobrou a exaustão e uma tristeza profunda por ser assim.",risco_misto
+402,2025-10-05,"Tento me animar, mas qualquer pequeno problema já me joga pra baixo de novo. E a preocupação de que eu nunca vou melhorar é constante.",risco_misto
+403,2025-10-10,"Estou tão esgotado que não consigo nem pensar direito. Minha mente está um nevoeiro, e mesmo assim os pensamentos ansiosos sobre os prazos conseguem me encontrar.",risco_misto
+404,2025-10-15,"O professor me deu um feedback positivo, mas minha primeira reação foi pensar 'ele só está sendo gentil, meu trabalho está horrível'. Não consigo aceitar nada de bom, só me preparo para o pior.",risco_misto
+405,2025-10-20,"Sinto um medo paralisante do futuro e uma tristeza enorme pelo presente que estou vivendo. Não vejo luz no fim do túnel, só mais preocupação.",risco_misto
+501,2025-09-07,"Comecei a fazer terapia. Falar sobre o que sinto sem ser julgado foi... libertador. Ainda me sinto triste, mas agora com um pingo de esperança.",risco_depressao
+502,2025-09-12,"A ansiedade ainda está aqui, mas a terapia está me ensinando a reconhecer os gatilhos. Hoje tive uma pequena crise, mas consegui usar uma técnica de respiração e ela passou mais rápido.",risco_ansiedade
+503,2025-09-17,"Estou tão cansado da faculdade. O burnout é real. Mas conversei com meu orientador e ele me deu umas dicas para organizar o TCC. Me senti um pouco menos sobrecarregado.",risco_burnout
+501,2025-09-22,"Tive uma recaída hoje. A tristeza veio com tudo e foi difícil sair da cama. Mas eu não me entreguei. Forcei um banho e uma caminhada. Foi uma vitória, mesmo que pequena.",risco_depressao
+502,2025-09-27,"Consegui fazer uma apresentação sem sentir que ia desmaiar. Fiquei nervoso, claro, mas foi um nervoso 'normal'. Estou aprendendo a controlar a ansiedade, e não o contrário.",risco_ansiedade
+503,2025-10-02,"Decidi tirar o final de semana de folga. Sem TCC, sem leituras. No começo me senti culpado, mas depois o relaxamento veio. Percebi que o descanso também é produtivo.",risco_burnout
+501,2025-10-07,"Hoje eu me senti bem. Não 'eufórico', mas... estável. Aquele peso constante no peito não estava lá. Acho que estou melhorando.",saudavel
+502,2025-10-12,"Fui a uma festa e consegui conversar com pessoas novas sem ficar repassando o que eu ia dizer na cabeça. Foi... natural. Estou orgulhoso de mim.",saudavel
+503,2025-10-17,"Reorganizei todo o meu plano de trabalho para o TCC de uma forma mais realista. A sensação de ter o controle de volta é incrível. A exaustão está dando lugar à motivação de novo.",saudavel
+501,2025-10-22,"Claro que ainda tenho dias ruins. Mas agora eles não me definem. Sei que são nuvens passageiras. A terapia me deu ferramentas para lidar com a tempestade.",saudavel
+601,2025-09-10,"A semana foi corrida, mas gratificante. Consegui entregar tudo no prazo e ainda tive tempo de ir ao cinema.",saudavel
+602,2025-09-15,"Me sinto um pouco sobrecarregado com os trabalhos, mas nada que uma boa noite de sono não resolva. Amanhã é outro dia.",saudavel
+603,2025-09-20,"Um pouco ansioso com a prova da semana que vem, mas é o nervosismo normal de estudante. Vou organizar um grupo de estudos.",saudavel
+604,2025-09-25,"Dia cansativo, muitas aulas. Mas agora vou ver minha série favorita e esquecer da vida. Equilíbrio é tudo.",saudavel
+605,2025-09-30,"Senti uma pontada de tristeza hoje lembrando de casa, mas liguei pra minha família e me senti melhor. A saudade faz parte.",saudavel
+601,2025-10-05,"A prova foi difícil, mas acho que fui bem. A sensação de dever cumprido é ótima.",saudavel
+602,2025-10-10,"Estou um pouco desanimado porque meu artigo foi recusado. Faz parte da vida acadêmica. Vou revisar e tentar de novo.",saudavel
+603,2025-10-15,"Final de semestre é sempre uma loucura, mas estou conseguindo administrar bem meu tempo. A organização faz toda a diferença.",saudavel
+604,2025-10-20,"Hoje foi um dia tranquilo. Aulas normais, almocei com amigos. Gosto desses dias sem grandes emoções.",saudavel
+605,2025-10-25,"Estou feliz com meu progresso no curso. Sinto que estou aprendendo muito e evoluindo. Vale a pena o esforço.",saudavel
+701,2025-09-08,"Estou exausto, mas é uma exaustão física. Treinei pesado na academia hoje. A mente está limpa.",saudavel
+702,2025-09-13,"Um pouco estressado com um trabalho em grupo. Lidar com pessoas diferentes é sempre um desafio, mas vamos nos acertar.",saudavel
+703,2025-09-18,"A matéria nova é um desafio, mas estou gostando de aprender algo novo. Me tira da zona de conforto.",saudavel
+704,2025-09-23,"Me senti um pouco para baixo hoje sem motivo aparente. Acontece. Amanhã provavelmente estarei melhor.",saudavel
+705,2025-09-28,"Ansioso para o final de semana. Planejei uma pequena viagem com amigos para espairecer.",saudavel
+701,2025-10-03,"A viagem foi ótima! Voltei renovado e pronto para encarar as últimas semanas do semestre.",saudavel
+702,2025-10-08,"O trabalho em grupo deu certo no final. Conseguimos uma boa nota. O estresse valeu a pena.",saudavel
+703,2025-10-13,"Estou achando o final do semestre cansativo, mas é normal. Falta pouco agora.",saudavel
+704,2025-10-18,"Tive um dia meio melancólico, mas faz parte. Nem todo dia é um dia feliz. E tudo bem.",saudavel
+705,2025-10-23,"Estou orgulhoso de mim por ter chegado até aqui. O curso é difícil, mas eu sou mais forte.",saudavel
+801,2025-10-23,"A semana de provas está chegando e eu já sinto o nó na garganta. Fico repassando a matéria na cabeça sem parar, mesmo quando tento relaxar. E se eu esquecer tudo na hora?",risco_ansiedade
+802,2025-10-23,"Eu olho para as minhas notas e sinto uma vergonha profunda. Eu deveria ter estudado mais, deveria ser melhor. A culpa por não ser o aluno que meus pais esperam é um peso constante.",risco_depressao
+803,2025-10-23,"Sinceramente, não sei mais por que estou fazendo este curso. Todo o brilho inicial se apagou. Agora é só uma sucessão de tarefas mecânicas que eu faço por obrigação. Zero paixão, zero interesse.",risco_burnout
+804,2025-10-23,"Acordei no meio da noite com o coração disparado, achando que estava atrasado para uma prova. Demorou pra eu perceber que era só um sonho. Essa sensação de alerta não me abandona.",risco_ansiedade
+805,2025-10-23,"Me sinto um fantasma na minha própria vida. Eu vejo meus amigos se formando, conseguindo empregos, e eu estou aqui, parado no mesmo lugar. A vida deles anda e a minha não.",risco_depressao
+806,2025-10-23,"A exaustão hoje é tão grande que até pensar dói. Ler um parágrafo do texto da aula parece uma tarefa monumental. Minha mente simplesmente se recusa a cooperar.",risco_burnout
+807,2025-10-23,"Sinto uma tristeza sem fim e ao mesmo tempo um medo paralisante do futuro. É como estar preso em um quarto escuro, com medo do que tem lá fora, mas odiando ficar aqui dentro.",risco_misto
+808,2025-10-23,"Consegui entregar um trabalho que estava me assombrando. O alívio é imenso. Agora vou me dar o direito de não fazer absolutamente nada pelo resto do dia.",saudavel
+809,2025-10-23,"Tive uma crise de choro hoje do nada. A tristeza veio com uma força avassaladora. Depois, só sobrou o cansaço e a sensação de estar completamente quebrado por dentro.",risco_depressao
+810,2025-10-23,"Meu orientador do TCC não responde meus e-mails. Minha cabeça já cria mil teorias: ele odiou meu rascunho, vai me reprovar, acha que sou um péssimo aluno. A espera é uma tortura.",risco_ansiedade
+811,2025-10-24,"Eu costumava amar fotografia. Hoje, pego a câmera e não sinto nada. A criatividade sumiu. É como se a parte de mim que sentia prazer nas coisas tivesse sido desligada.",risco_depressao
+812,2025-10-24,"Hoje um calouro me pediu ajuda, cheio de sonhos e expectativas. Eu só consegui pensar 'coitado, ele não sabe onde se meteu'. Esse cinismo está me assustando.",risco_burnout
+813,2025-10-24,"A simples ideia de ter que ir na festa da turma amanhã me dá calafrios. E se ninguém conversar comigo? E se eu falar algo estúpido? Talvez seja melhor inventar uma desculpa e ficar em casa.",risco_ansiedade
+814,2025-10-24,"Hoje eu me senti bem. Estável. Nem feliz, nem triste. Apenas em paz. Fazia tempo que não sentia essa calmaria. Foi bom.",saudavel
+815,2025-10-24,"Sinto que estou em uma areia movediça. Quanto mais eu luto pra sair da tristeza, mais eu afundo. O esforço é inútil e só me deixa mais cansado.",risco_depressao
+816,2025-10-24,"Meu corpo dói. Uma tensão constante nos ombros, dor de cabeça, meu estômago embrulhado. É como se meu corpo estivesse em uma briga constante com a minha mente ansiosa.",risco_ansiedade
+817,2025-10-24,"Aquele sentimento de não pertencimento de novo. Na sala de aula, no grupo de amigos, até em casa. Sinto que sou um estranho em todos os lugares.",risco_depressao
+818,2025-10-24,"Hoje eu ri. Uma risada de verdade, daquelas que doem a barriga. Um amigo contou uma piada boba e por um momento eu esqueci de tudo. Foi um instante de luz.",saudavel
+819,2025-10-24,"Estou tão esgotado que comecei a cometer erros bobos nos trabalhos. Erros de digitação, de atenção. É a prova de que minha mente chegou no limite. E o pior é que eu não me importo em corrigir.",risco_burnout
+820,2025-10-24,"Tenho medo de estar enlouquecendo. Meus pensamentos são um turbilhão caótico que eu não consigo controlar. A sensação de perda de controle é o que mais me apavora.",risco_ansiedade
+821,2025-10-25,"A desesperança é a pior parte. Aquela certeza fria e absoluta de que as coisas nunca vão melhorar. Que eu estou fadado a me sentir assim para sempre.",risco_depressao
+822,2025-10-25,"A pressão para ser produtivo o tempo todo é esmagadora. Se eu tiro uma hora pra descansar, a culpa me consome e a ansiedade sobre o trabalho acumulado ataca.",risco_misto
+823,2025-10-25,"Eu me tornei uma pessoa apática. As conquistas não me animam, os problemas não me abalam. Só uma indiferença cinzenta. É como se o volume das minhas emoções estivesse no mudo.",risco_burnout
+824,2025-10-25,"Fico criando diálogos na minha cabeça, ensaiando como vou falar com o professor, como vou me desculpar por um atraso. É um ensaio mental infinito para situações que talvez nem aconteçam.",risco_ansiedade
+825,2025-10-25,"A faculdade me prometeu um futuro brilhante. Hoje, tudo que ela me entrega é exaustão, ansiedade e uma dívida crescente. Sinto uma raiva e uma tristeza profundas por ter caído nessa.",risco_misto
+826,2025-10-25,"Hoje, pela primeira vez em semanas, consegui ler um capítulo de um livro por prazer. Minha mente conseguiu focar em algo que não era uma obrigação. Foi uma pequena vitória.",saudavel
+827,2025-10-25,"A ruminação é o meu pior inimigo. Fico repassando erros de anos atrás, conversas, falhas. Minha mente é um tribunal onde eu sou sempre o réu culpado.",risco_depressao
+828,2025-10-25,"Sinto que estou correndo uma maratona sem linha de chegada. A cada tarefa que eu termino, outras cinco aparecem. É um ciclo de esforço e exaustão sem fim.",risco_burnout
+829,2025-10-25,"O domingo à noite é o pior momento da semana. A ansiedade da segunda-feira que se aproxima começa a crescer e rouba toda a paz do final de semana.",risco_ansiedade
+830,2025-10-25,"Eu me sinto quebrado, mas tenho medo de pedir ajuda. Medo de ser um fardo, de ser julgado, de descobrirem o quão fraco eu sou. Então eu guardo tudo pra mim, e a pressão só aumenta.",risco_misto
+831,2025-10-26,"Fui caminhar na praia e ver o mar. A imensidão do oceano colocou meus problemas em perspectiva. Voltei me sentindo mais calmo e com a mente mais limpa.",saudavel
+832,2025-10-26,"A procrastinação virou um monstro. Eu sei o que preciso fazer, mas a energia para começar simplesmente não existe. Então eu adio, a culpa aumenta, e a energia diminui ainda mais.",risco_depressao
+833,2025-10-26,"A sensação de estar sendo constantemente avaliado é terrível. Cada palavra, cada trabalho, cada apresentação. É uma performance ininterrupta que drena toda a minha energia.",risco_burnout
+834,2025-10-26,"Evito lugares cheios. O barulho, as pessoas, tudo parece me sobrecarregar. Supermercado em dia de movimento virou uma missão impossível. Minha zona de conforto está cada vez menor.",risco_ansiedade
+835,2025-10-26,"Eu só queria um dia de silêncio. Não o silêncio de fora, mas o de dentro. Um dia sem a voz da autocrítica, da culpa, da desesperança. Só um dia de paz.",risco_depressao
+836,2025-10-26,"Me sinto tão incompetente. Olho o trabalho dos meus colegas e parece tudo tão brilhante. O meu, em comparação, parece medíocre. A síndrome do impostor está me destruindo.",risco_misto
+837,2025-10-26,"Recebi uma mensagem de um amigo que não via há tempos. Saber que alguém lembrou de mim me deu um calor no coração. Fez meu dia.",saudavel
+838,2025-10-26,"Estou tão irritado com tudo. A menor coisa me tira do sério. É a exaustão se manifestando como raiva. E depois da explosão, vem a culpa.",risco_burnout
+839,2025-10-26,"O futuro é um borrão assustador. Não consigo me imaginar formado, trabalhando. A incerteza é tão grande que me paralisa. E se eu tiver feito todas as escolhas erradas?",risco_ansiedade
+840,2025-10-26,"A apatia é assustadora. Eu deveria estar triste, mas não sinto nada. É um desligamento emocional completo. Nem a dor, nem a alegria conseguem me alcançar.",risco_depressao
+841,2025-10-27,"Cozinhar um prato diferente hoje me fez bem. Focar no passo a passo da receita, nos cheiros, nas texturas. Foi uma forma de meditação. E no final, a recompensa de uma comida gostosa.",saudavel
+842,2025-10-27,"Eu me sinto preso em um ciclo. Acordo cansado, passo o dia me arrastando, vou dormir exausto e preocupado com o dia seguinte. E tudo se repete.",risco_misto
+843,2025-10-27,"A faculdade se tornou a minha vida inteira. Eu não tenho hobbies, não tenho tempo para amigos, não tenho tempo pra mim. E mesmo assim, sinto que não estou fazendo o suficiente. É uma dedicação que está me matando.",risco_burnout
+844,2025-10-27,"Fico checando as redes sociais e me comparando com todo mundo. A vida de todos parece tão perfeita, tão feliz. E a minha é essa bagunça. A comparação é um veneno.",risco_depressao
+845,2025-10-27,"A pressão por um bom desempenho é tão grande que eu tenho medo de tentar coisas novas. Medo de falhar, de não ser bom o suficiente. Então eu fico no mesmo lugar, seguro, mas infeliz.",risco_ansiedade
+846,2025-10-27,"Hoje eu me permiti não ser produtivo. Fiquei deitado na rede, lendo ficção. Sem culpa. E foi maravilhoso. Preciso lembrar de fazer isso mais vezes.",saudavel
+847,2025-10-27,"Sinto uma raiva surda do mundo, dos professores, do curso. Um ressentimento por todo o sacrifício que parece não levar a lugar nenhum. Esse cinismo está me consumindo.",risco_burnout
+848,2025-10-27,"A sensação de que eu sou fundamentalmente falho é a pior parte. Que não é uma fase, é quem eu sou. Uma pessoa triste e inadequada.",risco_depressao
+849,2025-10-27,"Estou com uma preocupação financeira que não sai da minha cabeça. Fico fazendo contas e mais contas, e a solução não aparece. Como vou focar nos estudos com essa espada na cabeça?",risco_ansiedade
+850,2025-10-27,"Eu sei que deveria procurar ajuda, mas a energia para marcar uma consulta, para falar sobre meus problemas, parece grande demais. É mais fácil continuar sofrendo em silêncio. Mas a que custo?",risco_misto
+901,2025-11-01,"A ansiedade sobre o meu futuro profissional é esmagadora. Olho as vagas de emprego e sinto que não sou qualificado pra nenhuma. E se eu nunca conseguir um bom trabalho?",risco_ansiedade
+902,2025-11-01,"A exaustão chegou num nível que sinto meu corpo e mente desconectados. Eu executo as tarefas no automático, sem pensar, sem sentir. Estou no modo de sobrevivência.",risco_burnout
+903,2025-11-01,"Sinto uma tristeza tão antiga, parece que nasceu comigo. Tem dias que ela fica quieta, mas está sempre aqui, esperando uma brecha pra me engolir.",risco_depressao
+904,2025-11-01,"Tenho a sensação constante de que estou esquecendo algo importante. Reviso minha agenda, meus e-mails, minhas tarefas, mas a sensação não passa. É um estado de alerta que não desliga.",risco_ansiedade
+905,2025-11-01,"Eu me afastei de todos os meus amigos. Não por mal, mas porque não tenho energia para manter conversas, para socializar. E agora a solidão é minha única companhia.",risco_depressao
+906,2025-11-01,"A indiferença com as notas é um péssimo sinal. Antes eu me desesperava com um sete. Hoje eu tiro um cinco e só penso 'ok, pelo menos passei'. Perdi a vontade de ser excelente.",risco_burnout
+907,2025-11-01,"Sinto que estou andando em círculos, repetindo os mesmos erros. A frustração comigo mesmo é enorme. Sou meu pior inimigo.",risco_depressao
+908,2025-11-01,"A apresentação do TCC está chegando e eu sinto um pavor que me paralisa. Fico imaginando a banca me fazendo perguntas que não sei responder. Vai ser uma humilhação pública.",risco_ansiedade
+909,2025-11-01,"Meu sono é meu refúgio e minha prisão. É a única hora que não preciso pensar, mas acordo me sentindo culpado por ter 'perdido' o dia dormindo.",risco_depressao
+910,2025-11-01,"Eu sei que preciso descansar, mas a ansiedade não deixa. Quando paro, a culpa e a lista de tarefas pendentes me assombram. É como se descansar fosse proibido.",risco_misto
+911,2025-11-02,"O professor que eu mais admirava fez um comentário que me diminuiu na frente da turma. Perdi o respeito e a admiração. O cinismo só aumenta.",risco_burnout
+912,2025-11-02,"Me sinto um impostor. Todos parecem tão inteligentes e eu aqui, fingindo que entendo. A qualquer momento alguém vai apontar o dedo e dizer 'você não pertence a este lugar'.",risco_ansiedade
+913,2025-11-02,"Aquele sentimento de que nada vale a pena de novo. Estudar, trabalhar, se cuidar... pra quê? No final, o resultado parece ser sempre o mesmo. Um vazio.",risco_depressao
+914,2025-11-02,"O esgotamento é tanto que até as coisas que eu gostava, como jogar videogame, se tornaram um esforço. Ligo o console, olho pra tela e desisto. Não tenho energia nem para o lazer.",risco_burnout
+915,2025-11-02,"Fico lendo notícias sobre o mercado de trabalho e cada notícia ruim é uma pontada de pânico. Como eu vou competir nesse cenário? A preocupação com o futuro é constante.",risco_ansiedade
+916,2025-11-02,"Tento me lembrar da última vez que me senti genuinamente feliz. E não consigo. As memórias boas parecem distantes, de uma outra vida.",risco_depressao
+917,2025-11-02,"A procrastinação virou meu modo padrão. Deixo tudo pra última hora, e então faço correndo, movido pelo pânico do prazo. É um jeito horrível e estressante de viver.",risco_misto
+918,2025-11-02,"Hoje consegui ajudar um colega com uma dúvida. A sensação de ser útil, de saber algo que pode ajudar alguém, foi a melhor coisa do meu dia.",saudavel
+919,2025-11-02,"Sinto uma raiva de mim mesmo por não conseguir ser 'normal'. Por que eu não consigo simplesmente fazer as coisas como todo mundo? Essa auto-depreciação é constante.",risco_depressao
+920,2025-11-02,"A faculdade me espremeu tanto que eu não sei mais quem eu sou fora dela. Meus hobbies, meus interesses, tudo foi engolido pela necessidade de performance.",risco_burnout
+921,2025-11-03,"Assisti ao nascer do sol hoje. Um pequeno momento de beleza e paz que me lembrou que o mundo é maior que as minhas preocupações. Me deu uma perspectiva.",saudavel
+922,2025-11-03,"A insônia é minha companheira fiel. A noite chega e com ela a ansiedade. A mente dispara e eu fico revivendo o dia e me preocupando com o amanhã. É um ciclo sem fim.",risco_ansiedade
+923,2025-11-03,"Sinto que estou decepcionando todo mundo. Meus pais, que investem em mim. Meus professores, que esperavam mais. E principalmente a mim mesmo.",risco_depressao
+924,2025-11-03,"A apatia tomou conta. Eu não me importo mais se a nota for boa ou ruim. Eu só quero que o semestre acabe. Essa indiferença é o sintoma mais claro do meu esgotamento.",risco_burnout
+925,2025-11-03,"Eu me sinto preso. Preso no curso, na cidade, na vida que eu escolhi. A sensação de que não há saída é sufocante e me enche de pânico.",risco_misto
+926,2025-11-03,"Liguei para um amigo antigo hoje e conversamos por horas. Foi tão bom. Me senti conectado e menos sozinho. Rimos muito. Fez uma diferença enorme.",saudavel
+927,2025-11-03,"A dificuldade de tomar decisões simples é absurda. O que comer? Que roupa vestir? Cada escolha parece monumental e me paralisa de ansiedade.",risco_ansiedade
+928,2025-11-03,"Sinto como se uma nuvem cinzenta me seguisse por toda parte. Mesmo em dias de sol, eu só consigo ver as sombras. Essa melancolia não me larga.",risco_depressao
+929,2025-11-03,"Eu costumava ser tão perfeccionista. Agora, entrego os trabalhos de qualquer jeito, só pra me livrar. O 'feito é melhor que perfeito' virou meu lema, mas de um jeito triste e cínico.",risco_burnout
+930,2025-11-03,"O medo de ser julgado me impede de pedir ajuda na aula. Fico com a dúvida, me sentindo burro, mas o medo de expor minha ignorância é maior.",risco_ansiedade
+931,2025-11-04,"Fiz uma lista de pequenas coisas pelas quais sou grato. O café da manhã, o sol na janela, uma música boa. Parece bobo, mas me ajudou a focar no positivo por um momento.",saudavel
+932,2025-11-04,"A auto-sabotagem é um ciclo. Eu sei que preciso dormir, mas fico no celular até tarde. Eu sei que preciso estudar, mas abro uma série. É como se uma parte de mim quisesse me ver fracassar.",risco_depressao
+933,2025-11-04,"Sinto um ressentimento crescente pela faculdade. Sinto que ela está me roubando a saúde e a juventude. Vejo os professores e não sinto admiração, só cansaço.",risco_burnout
+934,2025-11-04,"Meu corpo reage antes da minha mente. Tremedeira, suor frio, boca seca. São os sinais de que uma crise de ansiedade está vindo. É uma batalha física.",risco_ansiedade
+935,2025-11-04,"A sensação de que estou incomodando é constante. Evito mandar mensagem para amigos para não ser um peso. Me isolo, mas no fundo, eu só queria que alguém viesse me ver.",risco_depressao
+936,2025-11-04,"O esgotamento mental é tão real que eu esqueço coisas básicas, como o que eu comi no almoço. Minha memória de curto prazo está péssima.",risco_burnout
+937,2025-11-04,"Sinto uma vontade enorme de chorar, mas as lágrimas não vêm. É um nó na garganta, uma tristeza seca e pesada. E uma ansiedade por não conseguir sentir.",risco_misto
+938,2025-11-04,"Terminei um livro hoje. Me transportar para outra história, outra realidade, foi a melhor terapia. Uma pausa necessária da minha própria cabeça.",saudavel
+939,2025-11-04,"A comparação com a vida dos outros no Instagram é devastadora. Todos parecem tão felizes, viajando, tendo sucesso. E eu aqui. Sei que não é real, mas me afeta mesmo assim.",risco_depressao
+940,2025-11-04,"O medo de passar mal em público é constante. Antes de sair de casa, já mapeio todas as saídas, os lugares mais calmos. É como planejar uma operação militar para ir à padaria.",risco_ansiedade
+941,2025-11-05,"A indiferença é o pior. Nem tristeza, nem raiva. Só um 'tanto faz' para tudo. É o sinal definitivo de que o burnout venceu a batalha.",risco_burnout
+942,2025-11-05,"A culpa por não estar sendo produtivo me deixa ansioso, e a ansiedade me impede de ser produtivo. É uma armadilha perfeita.",risco_misto
+943,2025-11-05,"O simples ato de acordar e levantar da cama hoje foi uma vitória. Celebrei com um café da manhã um pouco melhor. Pequenos passos.",risco_depressao
+944,2025-11-05,"Fico imaginando meu futuro e só vejo um cenário de fracasso. Não consigo visualizar nada de bom acontecendo. Essa catastrofização me paralisa.",risco_ansiedade
+945,2025-11-05,"O sentimento de que estou completamente sozinho no meu sofrimento é a pior parte. Parece que ninguém no mundo poderia entender o que eu sinto.",risco_depressao
+946,2025-11-05,"Hoje um colega me agradeceu pela ajuda em um trabalho e disse que eu explicava bem. Esse pequeno reconhecimento mudou meu dia. Me senti competente de novo.",saudavel
+947,2025-11-05,"Meu corpo está exausto, mas minha mente não desliga. Deito na cama e fico repassando a lista de preocupações. A exaustão e a ansiedade são uma péssima combinação.",risco_misto
+948,2025-11-05,"A sensação de que o tempo está passando rápido demais e eu estou ficando para trás é apavorante. Todos estão evoluindo e eu estou estagnado.",risco_ansiedade
+949,2025-11-05,"Cansei de ser forte. Cansei de fingir que está tudo bem. Estou exausto, triste e com medo. E talvez admitir isso seja o primeiro passo.",risco_misto
+950,2025-11-05,"Apesar de todo o cansaço, hoje eu me senti orgulhoso do meu esforço. Olhei para tudo que fiz no semestre e pensei 'eu dei o meu melhor'. Foi uma sensação boa de auto-compaixão.",saudavel
