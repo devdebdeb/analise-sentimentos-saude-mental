@@ -75,7 +75,7 @@ Ao ajustar o limiar de decisão para **0.20** (em vez do padrão 0.50), o sistem
 
 A estrutura foi reorganizada para seguir padrões profissionais, separando código (`src/`), dados (`data/`) e modelos binários (`modelos_finais/`).
 
-/
+```
 |-- src/                    # CÓDIGOS FONTE PYTHON (Scripts principais)
 |   |-- train_models.py     # Treina os 3 modelos de risco NLP
 |   |-- predict_new_data.py # Gera os scores de risco a partir dos novos textos
@@ -91,7 +91,7 @@ A estrutura foi reorganizada para seguir padrões profissionais, separando códi
 |   |-- modelo_anxiety.joblib             # Modelo NLP de Ansiedade
 |-- requirements.txt        # Lista de dependências
 |-- README.md               # Este arquivo
-
+```
 ---
 
 ### Como Usar (Fluxo de Execução Simplificado)
