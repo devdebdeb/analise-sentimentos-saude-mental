@@ -11,10 +11,10 @@ def train_evasion_model():
     print("--- INICIANDO TREINAMENTO FINAL COM FEATURE ENGINEERING + XGBOOST ---")
 
     # --- 1. Definir Caminhos dos Arquivos ---
-    BASE_DATA_PATH = '/data/dataset_brasil_base.csv'
-    SCORES_DATA_PATH = '/data/resultados_saude_mental.csv'
-    FINAL_DF_PATH = '/data/dataset_final_incrementado.csv' # <-- NOVO NOME DO ARQUIVO SALVO
-    MODEL_OUTPUT_PATH = '/modelos_finais/modelo_final_MAX_PERFORMANCE.joblib'
+    BASE_DATA_PATH = 'data/dataset_brasil_base.csv'
+    SCORES_DATA_PATH = 'data/resultados_saude_mental.csv'
+    FINAL_DF_PATH = 'data/dataset_final_incrementado.csv'
+    MODEL_OUTPUT_PATH = 'modelos_finais/modelo_final_MAX_PERFORMANCE.joblib'
     
     if not os.path.exists(SCORES_DATA_PATH) or not os.path.exists(BASE_DATA_PATH):
         print(f"\nErro: Certifique-se de que '{BASE_DATA_PATH}' e '{SCORES_DATA_PATH}' estão no diretório.")

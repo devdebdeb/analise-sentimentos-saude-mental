@@ -7,9 +7,9 @@ import os
 import sys
 
 # --- 1. DEFINIÇÕES DE CAMINHO E MODELO ---
-MODEL_OUTPUT_PATH = 'modelo_final_MAX_PERFORMANCE.joblib'
-BASE_DATA_PATH = 'dataset_brasil_base.csv'
-SCORES_DATA_PATH = 'resultados_saude_mental.csv'
+MODEL_OUTPUT_PATH = 'modelos_finais/modelo_final_MAX_PERFORMANCE.joblib'
+BASE_DATA_PATH = 'data/dataset_brasil_base.csv'
+SCORES_DATA_PATH = 'data/resultados_saude_mental.csv'
 
 try:
     # Carregar o modelo otimizado (XGBoost)

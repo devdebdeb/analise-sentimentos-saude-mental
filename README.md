@@ -1,6 +1,6 @@
 # Sistema Preditivo de Evasão Universitária: Integração de Saúde Mental (PLN) e Machine Learning (XGBoost)
 
-Este projeto desenvolveu uma solução de **Inteligência Artificial (IA)** para enfrentar o desafio da evasão no ensino superior. O projeto valida a hipótese de que o risco à saúde mental é o fator de maior peso na predição de abandono.
+Este projeto desenvolveu uma solução de **Inteligência Artificial (IA)** para enfrentar o desafio da evasão no ensino superior. O projeto valida a hipótese de que o **risco à saúde mental** é o fator de maior peso na predição de abandono no ensino superior, integrando Processamento de Linguagem Natural (PLN) com Machine Learning Avançado (XGBoost).
 
 O pipeline técnico integra duas frentes:
 1.  **Processamento de Linguagem Natural (PLN):** Transforma textos de diários anônimos em *scores* quantitativos de risco de Ansiedade, Depressão e Burnout.
@@ -54,12 +54,32 @@ A análise de importância das *features* comprova que a saúde mental é o pred
 
 #### Calibração para Intervenção (Máxima Eficácia)
 
-Ao ajustar o limiar de decisão para **0.20** (em vez do padrão 0.50), o sistema atinge o pico de utilidade para a retenção:
+Ao ajustar o limiar de decisão para **0.19** (em vez do padrão 0.50), o sistema atinge o pico de utilidade para a retenção:
 
-* **Recall Máximo:** $\approx \mathbf{71\%}$
+* **Recall Máximo:** $\approx \mathbf{72\%}$
 * **Significado:** O sistema é capaz de identificar **7 em cada 10 alunos** que evadiriam, o que é ideal para o setor de intervenção da universidade.
 
----
+--- 
+
+#### Priorização de Risco em 3 Níveis
+
+  --------------------------------------------------------------------------
+  Nível de Prioridade  Limiar de Probabilidade  Ação Sugerida   Frequência
+  -------------------- ------------------------ --------------- ------------
+  **PRIORIDADE 1:      **P ≥ 0.50**             Foco imediato.  259
+  CRÍTICO**                                     Intervenção de  
+                                                alta confiança. 
+
+  **PRIORIDADE 2:      **0.19 ≤ P \< 0.50**     Monitoramento   60
+  ALTO**                                        ativo. Ações    
+                                                programadas.    
+
+  **PRIORIDADE 3:      **P \< 0.19**            Monitoramento   6815
+  PADRÃO**                                      de rotina.      
+                                                Risco muito     
+                                                baixo.          
+  --------------------------------------------------------------------------
+
 
 ### Tecnologias Utilizadas
 
@@ -77,18 +97,31 @@ A estrutura foi reorganizada para seguir padrões profissionais, separando códi
 
 ```
 |-- src/                    # CÓDIGOS FONTE PYTHON (Scripts principais)
-|   |-- train_models.py     # Treina os 3 modelos de risco NLP
-|   |-- predict_new_data.py # Gera os scores de risco a partir dos novos textos
-|   |-- train_final_classifier.py # CLASSIFICADOR FINAL: Merge, SMOTE, XGBoost e Otimização
-|   |-- ... (Outros scripts)
+|   |-- train_models.py                 # Treina os 3 modelos de risco NLP
+|   |-- predict_on_csv.py               # Gera os scores de risco a partir dos novos textos
+|   |-- train_final_classifier.py       # CLASSIFICADOR FINAL: Merge, SMOTE, XGBoost e Otimização
+|   |-- analyse_features.py             # Analisa e exibe a importância das features
+|   |-- feature_extractor_embeddings.py 
+|   |-- predict_dropout.py              # Previsão final
+|   |-- threshold_optimizer.py          # Calibração Limiar
+|   |-- trainer_embeddings.py           
 |-- data/                   # ARQUIVOS DE DADOS (CSV)
 |   |-- dataset_brasil_base.csv         # Dataset base demográfico/acadêmico
 |   |-- dataset_final_incrementado.csv  # DATASET CONSOLIDADO (Todas as colunas + Scores NLP)
 |   |-- resultados_saude_mental.csv     # Scores de risco gerados pelo PLN (Intermediário)
-|   |-- ... (Outros CSVs)
+|   |-- diarios_universitários.csv      # Dataset de textos para treinar os modelos de riscos
+|   |-- texto_para_analise_novo.csv     # Um dataset de textos de exemplo ou dummy usado para testar o pipeline de inferência
+|   |-- texto_para_analise.csv          # Versão alternativa ou inicial do arquivo de textos para análise.
 |-- modelos_finais/         # ARQUIVOS BINÁRIOS SALVOS
 |   |-- modelo_final_MAX_PERFORMANCE.joblib # O Modelo Final de Predição de Evasão (XGBoost)
-|   |-- modelo_anxiety.joblib             # Modelo NLP de Ansiedade
+|   |-- modelo_anxiety.joblib               # Modelo de classificação de risco de Ansiedade
+|   |-- modelo_burnout.joblib               # Modelo de classificação de risco de Burnout
+|   |-- modelo_depression.joblib            # Modelo de classificação de risco de Depressão
+|   |-- modelo_final_evasao_OTIMIZADO.joblib
+|   |-- modelo_final_evacao_SMOTE.joblib
+|   |-- modelo_final_evasao_XGBOOST_OTIMIZADO.joblib
+|   |-- modelo_fina_evasao.joblib
+|   |-- scaler_final.joblib
 |-- requirements.txt        # Lista de dependências
 |-- README.md               # Este arquivo
 ```
