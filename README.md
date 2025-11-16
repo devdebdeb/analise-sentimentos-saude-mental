@@ -63,22 +63,11 @@ Ao ajustar o limiar de decisão para **0.19** (em vez do padrão 0.50), o sistem
 
 #### Priorização de Risco em 3 Níveis
 
-  --------------------------------------------------------------------------
-  Nível de Prioridade  Limiar de Probabilidade  Ação Sugerida   Frequência
-  -------------------- ------------------------ --------------- ------------
-  **PRIORIDADE 1:      **P ≥ 0.50**             Foco imediato.  259
-  CRÍTICO**                                     Intervenção de  
-                                                alta confiança. 
-
-  **PRIORIDADE 2:      **0.19 ≤ P \< 0.50**     Monitoramento   60
-  ALTO**                                        ativo. Ações    
-                                                programadas.    
-
-  **PRIORIDADE 3:      **P \< 0.19**            Monitoramento   6815
-  PADRÃO**                                      de rotina.      
-                                                Risco muito     
-                                                baixo.          
-  --------------------------------------------------------------------------
+| Nível de Prioridade        | Limiar de Probabilidade | Ação Sugerida                                    | Frequência |
+|----------------------------|-------------------------|--------------------------------------------------|------------|
+| **PRIORIDADE 1: CRÍTICO**  | **P ≥ 0.50**            | Foco imediato. Intervenção de alta confiança.    | 259        |
+| **PRIORIDADE 2: ALTO**     | **0.19 ≤ P < 0.50**     | Monitoramento ativo. Ações programadas.          | 60         |
+| **PRIORIDADE 3: PADRÃO**   | **P < 0.19**            | Monitoramento de rotina. Risco muito baixo.      | 6815       |
 
 
 ### Tecnologias Utilizadas
