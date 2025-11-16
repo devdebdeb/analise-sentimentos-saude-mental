@@ -59,8 +59,6 @@ Ao ajustar o limiar de decisão para **0.19** (em vez do padrão 0.50), o sistem
 * **Recall Máximo:** $\approx \mathbf{72\%}$
 * **Significado:** O sistema é capaz de identificar **7 em cada 10 alunos** que evadiriam, o que é ideal para o setor de intervenção da universidade.
 
---- 
-
 #### Priorização de Risco em 3 Níveis
 
 | Nível de Prioridade        | Limiar de Probabilidade | Ação Sugerida                                    | Frequência |
@@ -69,6 +67,7 @@ Ao ajustar o limiar de decisão para **0.19** (em vez do padrão 0.50), o sistem
 | **PRIORIDADE 2: ALTO**     | **0.19 ≤ P < 0.50**     | Monitoramento ativo. Ações programadas.          | 60         |
 | **PRIORIDADE 3: PADRÃO**   | **P < 0.19**            | Monitoramento de rotina. Risco muito baixo.      | 6815       |
 
+---
 
 ### Tecnologias Utilizadas
 
